@@ -1,0 +1,22 @@
+# raw platform snapshots are not redistributed here
+data/
+*.csv.gz
+
+# large intermediates produced by the pipeline
+feat/
+mat/
+t1/cls/
+out/*.parquet
+*.parquet
+
+# environments and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+t3/cache/
+
+# built documents
+*.docx
+*.pdf

@@ -1,0 +1,76 @@
+curve,n_training_markets,rep,n_train,AUC,PRAUC,Brier,seconds
+"Markets added, training rows fixed at 800,000",2,0,89117,0.61952,0.60596,0.31833,1.9
+"Markets added, all rows of the sampled markets",2,0,89117,0.61952,0.60596,0.31833,0.0
+"Markets added, training rows fixed at 800,000",2,4,120567,0.55972,0.55471,0.33917,2.0
+"Markets added, all rows of the sampled markets",2,4,120567,0.55972,0.55471,0.33917,0.0
+"Markets added, training rows fixed at 800,000",5,0,235943,0.63914,0.6314,0.26509,2.9
+"Markets added, all rows of the sampled markets",5,0,235943,0.63914,0.6314,0.26509,0.0
+"Markets added, training rows fixed at 800,000",5,1,133758,0.66004,0.64517,0.26446,2.2
+"Markets added, all rows of the sampled markets",5,1,133758,0.66004,0.64517,0.26446,0.0
+"Markets added, training rows fixed at 800,000",5,2,405317,0.73632,0.73469,0.24896,4.6
+"Markets added, all rows of the sampled markets",5,2,405317,0.73632,0.73469,0.24896,0.0
+"Markets added, training rows fixed at 800,000",5,3,93234,0.68748,0.68645,0.25689,2.2
+"Markets added, all rows of the sampled markets",5,3,93234,0.68748,0.68645,0.25689,0.0
+"Markets added, training rows fixed at 800,000",5,4,317835,0.68592,0.70939,0.27655,3.8
+"Markets added, all rows of the sampled markets",5,4,317835,0.68592,0.70939,0.27655,0.0
+"Markets added, training rows fixed at 800,000",10,0,775060,0.6507,0.62104,0.2879,7.3
+"Markets added, all rows of the sampled markets",10,0,775060,0.6507,0.62104,0.2879,0.0
+"Markets added, training rows fixed at 800,000",10,1,459388,0.73905,0.74509,0.22455,5.0
+"Markets added, all rows of the sampled markets",10,1,459388,0.73905,0.74509,0.22455,0.0
+"Markets added, training rows fixed at 800,000",10,2,390074,0.76969,0.74564,0.21744,5.3
+"Markets added, all rows of the sampled markets",10,2,390074,0.76969,0.74564,0.21744,0.0
+"Markets added, training rows fixed at 800,000",10,3,733351,0.69392,0.68014,0.34478,69.2
+"Markets added, all rows of the sampled markets",10,3,733351,0.69392,0.68014,0.34478,0.0
+"Markets added, training rows fixed at 800,000",10,4,800000,0.55741,0.56507,0.31328,20.2
+"Markets added, all rows of the sampled markets",10,4,1021520,0.56165,0.5693,0.31033,13.7
+"Markets added, training rows fixed at 800,000",20,0,800000,0.80567,0.78062,0.18493,19.6
+"Markets added, all rows of the sampled markets",20,0,1016547,0.80767,0.78095,0.18433,21.6
+"Markets added, training rows fixed at 800,000",20,1,800000,0.70756,0.69457,0.29356,18.8
+"Markets added, all rows of the sampled markets",20,1,1027090,0.70797,0.69631,0.29281,14.0
+"Markets added, training rows fixed at 800,000",20,2,800000,0.75689,0.75077,0.2632,7.8
+"Markets added, all rows of the sampled markets",20,2,944117,0.75712,0.75002,0.26431,9.0
+"Markets added, training rows fixed at 800,000",20,3,800000,0.76814,0.75119,0.20215,8.0
+"Markets added, all rows of the sampled markets",20,3,911289,0.76832,0.75235,0.20199,8.7
+"Markets added, training rows fixed at 800,000",20,4,800000,0.66707,0.65781,0.31848,7.7
+"Markets added, all rows of the sampled markets",20,4,1750877,0.67138,0.66198,0.31649,14.7
+"Markets added, training rows fixed at 800,000",40,0,800000,0.75907,0.74317,0.22496,7.8
+"Markets added, all rows of the sampled markets",40,0,2660074,0.75819,0.74068,0.22526,21.6
+"Markets added, training rows fixed at 800,000",40,1,800000,0.72665,0.71016,0.2253,8.0
+"Markets added, all rows of the sampled markets",40,1,2994067,0.72958,0.71351,0.22425,24.7
+"Markets added, training rows fixed at 800,000",40,2,800000,0.8184,0.80501,0.18265,4.8
+"Markets added, all rows of the sampled markets",40,2,1932179,0.81625,0.805,0.18278,9.9
+"Markets added, training rows fixed at 800,000",40,3,800000,0.67206,0.67085,0.27657,7.6
+"Markets added, all rows of the sampled markets",40,3,2888599,0.6725,0.6732,0.27606,22.9
+"Markets added, training rows fixed at 800,000",40,4,800000,0.76111,0.7515,0.24573,7.4
+"Markets added, all rows of the sampled markets",40,4,2253930,0.75775,0.74921,0.24686,17.8
+"Markets added, training rows fixed at 800,000",60,0,800000,0.75323,0.73456,0.22422,7.3
+"Markets added, all rows of the sampled markets",60,0,3633371,0.75591,0.73678,0.22353,28.3
+"Markets added, training rows fixed at 800,000",60,1,800000,0.68665,0.67666,0.2552,7.3
+"Markets added, all rows of the sampled markets",60,1,3553929,0.68377,0.67244,0.25753,107.7
+"Markets added, training rows fixed at 800,000",60,2,800000,0.76458,0.75395,0.21159,11.7
+"Markets added, all rows of the sampled markets",60,2,4033984,0.76804,0.75781,0.21066,162.4
+"Markets added, training rows fixed at 800,000",60,3,800000,0.74547,0.72748,0.23911,15.9
+"Markets added, all rows of the sampled markets",60,3,3735266,0.7436,0.72431,0.23983,65.5
+"Markets added, training rows fixed at 800,000",60,4,800000,0.78044,0.77483,0.20446,7.8
+"Markets added, all rows of the sampled markets",60,4,3985150,0.7803,0.77361,0.20455,33.7
+"Markets added, training rows fixed at 800,000",80,0,800000,0.74451,0.73267,0.22528,7.6
+"Markets added, all rows of the sampled markets",80,0,4999969,0.74244,0.73156,0.22566,44.7
+"Markets added, training rows fixed at 800,000",80,1,800000,0.69228,0.68073,0.23816,7.9
+"Markets added, all rows of the sampled markets",80,1,4837038,0.69149,0.68094,0.23857,42.3
+"Markets added, training rows fixed at 800,000",80,2,800000,0.76865,0.74963,0.20969,7.5
+"Markets added, all rows of the sampled markets",80,2,4597650,0.76986,0.75262,0.20908,38.0
+"Markets added, training rows fixed at 800,000",80,3,800000,0.73677,0.73671,0.22037,7.3
+"Markets added, all rows of the sampled markets",80,3,5437290,0.73448,0.73335,0.22118,96.8
+"Markets added, training rows fixed at 800,000",80,4,800000,0.7352,0.72771,0.22021,58.5
+"Markets added, all rows of the sampled markets",80,4,5132287,0.73647,0.72942,0.2198,134.5
+"Markets added, training rows fixed at 800,000",98,0,800000,0.74788,0.74114,0.21875,19.6
+"Markets added, all rows of the sampled markets",98,0,5960068,0.75077,0.74386,0.21744,67.6
+"Random split control, training rows added",123,0,25000,0.82216,0.75769,0.16714,1.4
+"Random split control, training rows added",123,0,50000,0.83526,0.77533,0.16155,1.9
+"Random split control, training rows added",123,0,100000,0.84077,0.78325,0.15922,2.1
+"Random split control, training rows added",123,0,200000,0.84777,0.79265,0.15616,3.1
+"Random split control, training rows added",123,0,400000,0.85151,0.79818,0.15414,5.0
+"Random split control, training rows added",123,0,800000,0.85467,0.80203,0.15272,9.2
+"Random split control, training rows added",123,0,1600000,0.85365,0.80083,0.15309,14.6
+"Random split control, training rows added",123,0,3200000,0.85418,0.80156,0.15291,27.5
+"Random split control, training rows added",123,0,6788304,0.855,0.80192,0.15255,63.8

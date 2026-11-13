@@ -1,0 +1,191 @@
+outcome,setting,n_variables,design,folds,n_train,n_eval,AUC,seconds
+y_license,All 50 predictors (baseline),50,Random split,0,1000000,100000,0.85139,9.7
+y_license,All 50 predictors (baseline),50,Random split,1,1000000,100000,0.85182,9.8
+y_license,All 50 predictors (baseline),50,Random split,2,1000000,100000,0.85328,10.2
+y_license,All 50 predictors (baseline),50,Random split,3,1000000,100000,0.85211,9.8
+y_license,All 50 predictors (baseline),50,Random split,4,1000000,100000,0.85267,10.5
+y_license,All 50 predictors (baseline),50,Market hold-out,0,1000000,100000,0.66616,20.2
+y_license,All 50 predictors (baseline),50,Market hold-out,1,1000000,100000,0.83417,43.0
+y_license,All 50 predictors (baseline),50,Market hold-out,2,1000000,100000,0.74251,63.2
+y_license,All 50 predictors (baseline),50,Market hold-out,3,1000000,100000,0.73142,22.9
+y_license,All 50 predictors (baseline),50,Market hold-out,4,1000000,100000,0.79255,24.5
+y_license,Removed: Price,49,Random split,0,1000000,100000,0.84316,45.5
+y_license,Removed: Price,49,Random split,1,1000000,100000,0.84199,40.0
+y_license,Removed: Price,49,Random split,2,1000000,100000,0.84221,43.5
+y_license,Removed: Price,49,Random split,3,1000000,100000,0.8431,20.8
+y_license,Removed: Price,49,Random split,4,1000000,100000,0.84086,34.6
+y_license,Removed: Price,49,Market hold-out,0,1000000,100000,0.66204,29.1
+y_license,Removed: Price,49,Market hold-out,1,1000000,100000,0.82484,11.0
+y_license,Removed: Price,49,Market hold-out,2,1000000,100000,0.73155,10.0
+y_license,Removed: Price,49,Market hold-out,3,1000000,100000,0.72429,10.0
+y_license,Removed: Price,49,Market hold-out,4,1000000,100000,0.75526,10.0
+y_license,Removed: Minimum and maximum stay,48,Random split,0,1000000,100000,0.83937,9.9
+y_license,Removed: Minimum and maximum stay,48,Random split,1,1000000,100000,0.83876,10.1
+y_license,Removed: Minimum and maximum stay,48,Random split,2,1000000,100000,0.84035,10.1
+y_license,Removed: Minimum and maximum stay,48,Random split,3,1000000,100000,0.83838,10.2
+y_license,Removed: Minimum and maximum stay,48,Random split,4,1000000,100000,0.83831,9.6
+y_license,Removed: Minimum and maximum stay,48,Market hold-out,0,1000000,100000,0.65631,9.9
+y_license,Removed: Minimum and maximum stay,48,Market hold-out,1,1000000,100000,0.83468,9.5
+y_license,Removed: Minimum and maximum stay,48,Market hold-out,2,1000000,100000,0.73947,8.7
+y_license,Removed: Minimum and maximum stay,48,Market hold-out,3,1000000,100000,0.71451,9.7
+y_license,Removed: Minimum and maximum stay,48,Market hold-out,4,1000000,100000,0.77942,10.0
+y_license,Removed: Property type,44,Random split,0,1000000,100000,0.83238,9.9
+y_license,Removed: Property type,44,Random split,1,1000000,100000,0.83068,9.7
+y_license,Removed: Property type,44,Random split,2,1000000,100000,0.83275,10.1
+y_license,Removed: Property type,44,Random split,3,1000000,100000,0.83494,10.5
+y_license,Removed: Property type,44,Random split,4,1000000,100000,0.8319,13.8
+y_license,Removed: Property type,44,Market hold-out,0,1000000,100000,0.64682,33.3
+y_license,Removed: Property type,44,Market hold-out,1,1000000,100000,0.822,50.1
+y_license,Removed: Property type,44,Market hold-out,2,1000000,100000,0.7411,31.1
+y_license,Removed: Property type,44,Market hold-out,3,1000000,100000,0.71898,19.8
+y_license,Removed: Property type,44,Market hold-out,4,1000000,100000,0.77862,19.9
+y_license,Removed: Availability,43,Random split,0,1000000,100000,0.84246,17.0
+y_license,Removed: Availability,43,Random split,1,1000000,100000,0.83856,16.3
+y_license,Removed: Availability,43,Random split,2,1000000,100000,0.8415,21.8
+y_license,Removed: Availability,43,Random split,3,1000000,100000,0.84108,14.9
+y_license,Removed: Availability,43,Random split,4,1000000,100000,0.84041,9.4
+y_license,Removed: Availability,43,Market hold-out,0,1000000,100000,0.65778,9.0
+y_license,Removed: Availability,43,Market hold-out,1,1000000,100000,0.82784,9.2
+y_license,Removed: Availability,43,Market hold-out,2,1000000,100000,0.75019,9.6
+y_license,Removed: Availability,43,Market hold-out,3,1000000,100000,0.72241,9.1
+y_license,Removed: Availability,43,Market hold-out,4,1000000,100000,0.77097,9.2
+y_license,Removed: Reviews,39,Random split,0,1000000,100000,0.84862,9.0
+y_license,Removed: Reviews,39,Random split,1,1000000,100000,0.84651,8.7
+y_license,Removed: Reviews,39,Random split,2,1000000,100000,0.84836,8.9
+y_license,Removed: Reviews,39,Random split,3,1000000,100000,0.84886,8.7
+y_license,Removed: Reviews,39,Random split,4,1000000,100000,0.84741,8.7
+y_license,Removed: Reviews,39,Market hold-out,0,1000000,100000,0.6576,8.9
+y_license,Removed: Reviews,39,Market hold-out,1,1000000,100000,0.83059,8.7
+y_license,Removed: Reviews,39,Market hold-out,2,1000000,100000,0.75587,7.4
+y_license,Removed: Reviews,39,Market hold-out,3,1000000,100000,0.73107,8.5
+y_license,Removed: Reviews,39,Market hold-out,4,1000000,100000,0.78611,8.3
+y_license,Removed: Host portfolio size,44,Random split,0,1000000,100000,0.84422,9.3
+y_license,Removed: Host portfolio size,44,Random split,1,1000000,100000,0.84223,8.9
+y_license,Removed: Host portfolio size,44,Random split,2,1000000,100000,0.84474,8.9
+y_license,Removed: Host portfolio size,44,Random split,3,1000000,100000,0.84436,8.9
+y_license,Removed: Host portfolio size,44,Random split,4,1000000,100000,0.84309,8.9
+y_license,Removed: Host portfolio size,44,Market hold-out,0,1000000,100000,0.67146,8.8
+y_license,Removed: Host portfolio size,44,Market hold-out,1,1000000,100000,0.84196,9.2
+y_license,Removed: Host portfolio size,44,Market hold-out,2,1000000,100000,0.73534,7.2
+y_license,Removed: Host portfolio size,44,Market hold-out,3,1000000,100000,0.73058,9.1
+y_license,Removed: Host portfolio size,44,Market hold-out,4,1000000,100000,0.78925,13.6
+y_license,Removed: Host conduct,42,Random split,0,1000000,100000,0.85181,59.5
+y_license,Removed: Host conduct,42,Random split,1,1000000,100000,0.85147,43.3
+y_license,Removed: Host conduct,42,Random split,2,1000000,100000,0.85202,13.6
+y_license,Removed: Host conduct,42,Random split,3,1000000,100000,0.85248,20.7
+y_license,Removed: Host conduct,42,Random split,4,1000000,100000,0.85175,20.9
+y_license,Removed: Host conduct,42,Market hold-out,0,1000000,100000,0.66629,20.0
+y_license,Removed: Host conduct,42,Market hold-out,1,1000000,100000,0.83326,17.8
+y_license,Removed: Host conduct,42,Market hold-out,2,1000000,100000,0.74247,14.7
+y_license,Removed: Host conduct,42,Market hold-out,3,1000000,100000,0.73111,29.0
+y_license,Removed: Host conduct,42,Market hold-out,4,1000000,100000,0.79132,29.3
+y_license,Removed: Text length,44,Random split,0,1000000,100000,0.84638,31.2
+y_license,Removed: Text length,44,Random split,1,1000000,100000,0.8467,9.0
+y_license,Removed: Text length,44,Random split,2,1000000,100000,0.84717,9.0
+y_license,Removed: Text length,44,Random split,3,1000000,100000,0.84646,9.1
+y_license,Removed: Text length,44,Random split,4,1000000,100000,0.84555,13.8
+y_license,Removed: Text length,44,Market hold-out,0,1000000,100000,0.66749,25.5
+y_license,Removed: Text length,44,Market hold-out,1,1000000,100000,0.82884,29.5
+y_license,Removed: Text length,44,Market hold-out,2,1000000,100000,0.74072,29.8
+y_license,Removed: Text length,44,Market hold-out,3,1000000,100000,0.73171,27.7
+y_license,Removed: Text length,44,Market hold-out,4,1000000,100000,0.79876,9.2
+y_license,Removed: Tenure,47,Random split,0,1000000,100000,0.85117,8.8
+y_license,Removed: Tenure,47,Random split,1,1000000,100000,0.84816,9.6
+y_license,Removed: Tenure,47,Random split,2,1000000,100000,0.85218,9.0
+y_license,Removed: Tenure,47,Random split,3,1000000,100000,0.85127,9.1
+y_license,Removed: Tenure,47,Random split,4,1000000,100000,0.84996,9.3
+y_license,Removed: Tenure,47,Market hold-out,0,1000000,100000,0.66243,9.8
+y_license,Removed: Tenure,47,Market hold-out,1,1000000,100000,0.83364,13.4
+y_license,Removed: Tenure,47,Market hold-out,2,1000000,100000,0.74078,58.7
+y_license,Removed: Tenure,47,Market hold-out,3,1000000,100000,0.72878,43.3
+y_license,Removed: Tenure,47,Market hold-out,4,1000000,100000,0.79528,24.8
+y_license,Alone: Price,1,Random split,0,1000000,100000,0.58958,9.3
+y_license,Alone: Price,1,Random split,1,1000000,100000,0.58855,10.7
+y_license,Alone: Price,1,Random split,2,1000000,100000,0.5904,8.9
+y_license,Alone: Price,1,Random split,3,1000000,100000,0.59122,8.8
+y_license,Alone: Price,1,Random split,4,1000000,100000,0.58894,7.7
+y_license,Alone: Price,1,Market hold-out,0,1000000,100000,0.48965,8.2
+y_license,Alone: Price,1,Market hold-out,1,1000000,100000,0.50635,3.3
+y_license,Alone: Price,1,Market hold-out,2,1000000,100000,0.5672,9.2
+y_license,Alone: Price,1,Market hold-out,3,1000000,100000,0.56326,11.9
+y_license,Alone: Price,1,Market hold-out,4,1000000,100000,0.64557,8.5
+y_license,Alone: Minimum and maximum stay,2,Random split,0,1000000,100000,0.62789,12.4
+y_license,Alone: Minimum and maximum stay,2,Random split,1,1000000,100000,0.62498,10.4
+y_license,Alone: Minimum and maximum stay,2,Random split,2,1000000,100000,0.6268,9.4
+y_license,Alone: Minimum and maximum stay,2,Random split,3,1000000,100000,0.62884,9.3
+y_license,Alone: Minimum and maximum stay,2,Random split,4,1000000,100000,0.62505,7.5
+y_license,Alone: Minimum and maximum stay,2,Market hold-out,0,1000000,100000,0.55148,4.3
+y_license,Alone: Minimum and maximum stay,2,Market hold-out,1,1000000,100000,0.58049,3.2
+y_license,Alone: Minimum and maximum stay,2,Market hold-out,2,1000000,100000,0.62847,4.3
+y_license,Alone: Minimum and maximum stay,2,Market hold-out,3,1000000,100000,0.6354,3.8
+y_license,Alone: Minimum and maximum stay,2,Market hold-out,4,1000000,100000,0.60722,4.1
+y_license,Alone: Property type,6,Random split,0,1000000,100000,0.68685,5.2
+y_license,Alone: Property type,6,Random split,1,1000000,100000,0.68322,5.5
+y_license,Alone: Property type,6,Random split,2,1000000,100000,0.68162,5.4
+y_license,Alone: Property type,6,Random split,3,1000000,100000,0.68274,5.3
+y_license,Alone: Property type,6,Random split,4,1000000,100000,0.68248,5.2
+y_license,Alone: Property type,6,Market hold-out,0,1000000,100000,0.56236,5.4
+y_license,Alone: Property type,6,Market hold-out,1,1000000,100000,0.67515,4.9
+y_license,Alone: Property type,6,Market hold-out,2,1000000,100000,0.65484,5.1
+y_license,Alone: Property type,6,Market hold-out,3,1000000,100000,0.63689,5.5
+y_license,Alone: Property type,6,Market hold-out,4,1000000,100000,0.60716,5.6
+y_license,Alone: Availability,7,Random split,0,1000000,100000,0.7313,4.7
+y_license,Alone: Availability,7,Random split,1,1000000,100000,0.73167,5.7
+y_license,Alone: Availability,7,Random split,2,1000000,100000,0.73019,4.6
+y_license,Alone: Availability,7,Random split,3,1000000,100000,0.72995,4.6
+y_license,Alone: Availability,7,Random split,4,1000000,100000,0.73384,5.6
+y_license,Alone: Availability,7,Market hold-out,0,1000000,100000,0.57464,5.5
+y_license,Alone: Availability,7,Market hold-out,1,1000000,100000,0.7628,5.4
+y_license,Alone: Availability,7,Market hold-out,2,1000000,100000,0.67352,3.9
+y_license,Alone: Availability,7,Market hold-out,3,1000000,100000,0.66231,5.6
+y_license,Alone: Availability,7,Market hold-out,4,1000000,100000,0.74899,5.3
+y_license,Alone: Reviews,11,Random split,0,1000000,100000,0.62634,4.6
+y_license,Alone: Reviews,11,Random split,1,1000000,100000,0.62521,4.3
+y_license,Alone: Reviews,11,Random split,2,1000000,100000,0.62554,4.3
+y_license,Alone: Reviews,11,Random split,3,1000000,100000,0.62593,4.6
+y_license,Alone: Reviews,11,Random split,4,1000000,100000,0.62217,4.6
+y_license,Alone: Reviews,11,Market hold-out,0,1000000,100000,0.58153,4.6
+y_license,Alone: Reviews,11,Market hold-out,1,1000000,100000,0.61228,4.6
+y_license,Alone: Reviews,11,Market hold-out,2,1000000,100000,0.59986,4.6
+y_license,Alone: Reviews,11,Market hold-out,3,1000000,100000,0.58527,4.5
+y_license,Alone: Reviews,11,Market hold-out,4,1000000,100000,0.62414,4.3
+y_license,Alone: Host portfolio size,6,Random split,0,1000000,100000,0.66566,5.0
+y_license,Alone: Host portfolio size,6,Random split,1,1000000,100000,0.66468,5.0
+y_license,Alone: Host portfolio size,6,Random split,2,1000000,100000,0.6647,5.0
+y_license,Alone: Host portfolio size,6,Random split,3,1000000,100000,0.66068,5.3
+y_license,Alone: Host portfolio size,6,Random split,4,1000000,100000,0.66469,5.0
+y_license,Alone: Host portfolio size,6,Market hold-out,0,1000000,100000,0.546,4.9
+y_license,Alone: Host portfolio size,6,Market hold-out,1,1000000,100000,0.6943,4.8
+y_license,Alone: Host portfolio size,6,Market hold-out,2,1000000,100000,0.62174,5.1
+y_license,Alone: Host portfolio size,6,Market hold-out,3,1000000,100000,0.56306,5.0
+y_license,Alone: Host portfolio size,6,Market hold-out,4,1000000,100000,0.55189,9.2
+y_license,Alone: Host conduct,8,Random split,0,1000000,100000,0.58457,36.1
+y_license,Alone: Host conduct,8,Random split,1,1000000,100000,0.58577,25.4
+y_license,Alone: Host conduct,8,Random split,2,1000000,100000,0.58361,19.4
+y_license,Alone: Host conduct,8,Random split,3,1000000,100000,0.58144,10.5
+y_license,Alone: Host conduct,8,Random split,4,1000000,100000,0.58224,8.4
+y_license,Alone: Host conduct,8,Market hold-out,0,1000000,100000,0.50651,10.3
+y_license,Alone: Host conduct,8,Market hold-out,1,1000000,100000,0.70417,10.8
+y_license,Alone: Host conduct,8,Market hold-out,2,1000000,100000,0.5656,9.4
+y_license,Alone: Host conduct,8,Market hold-out,3,1000000,100000,0.52651,9.4
+y_license,Alone: Host conduct,8,Market hold-out,4,1000000,100000,0.5256,9.3
+y_license,Alone: Text length,6,Random split,0,1000000,100000,0.66349,9.1
+y_license,Alone: Text length,6,Random split,1,1000000,100000,0.66329,7.5
+y_license,Alone: Text length,6,Random split,2,1000000,100000,0.66247,7.6
+y_license,Alone: Text length,6,Random split,3,1000000,100000,0.66524,5.9
+y_license,Alone: Text length,6,Random split,4,1000000,100000,0.66192,4.9
+y_license,Alone: Text length,6,Market hold-out,0,1000000,100000,0.54604,4.7
+y_license,Alone: Text length,6,Market hold-out,1,1000000,100000,0.71962,5.1
+y_license,Alone: Text length,6,Market hold-out,2,1000000,100000,0.63105,4.9
+y_license,Alone: Text length,6,Market hold-out,3,1000000,100000,0.59158,5.0
+y_license,Alone: Text length,6,Market hold-out,4,1000000,100000,0.60232,5.0
+y_license,Alone: Tenure,3,Random split,0,1000000,100000,0.63098,5.0
+y_license,Alone: Tenure,3,Random split,1,1000000,100000,0.62943,2.9
+y_license,Alone: Tenure,3,Random split,2,1000000,100000,0.63034,4.0
+y_license,Alone: Tenure,3,Random split,3,1000000,100000,0.62949,4.8
+y_license,Alone: Tenure,3,Random split,4,1000000,100000,0.62719,5.2
+y_license,Alone: Tenure,3,Market hold-out,0,1000000,100000,0.56435,5.0
+y_license,Alone: Tenure,3,Market hold-out,1,1000000,100000,0.70142,5.1
+y_license,Alone: Tenure,3,Market hold-out,2,1000000,100000,0.64438,5.0
+y_license,Alone: Tenure,3,Market hold-out,3,1000000,100000,0.59106,4.7
+y_license,Alone: Tenure,3,Market hold-out,4,1000000,100000,0.57403,4.6

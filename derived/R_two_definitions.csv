@@ -1,0 +1,71 @@
+design,model,folds,AUC,AUC_sd,PRAUC,Brier,outcome,training
+1 Random (conventional),GBDT,5,0.7985,0.0012,0.7214,0.1777,Loose,"10,000 rows"
+1 Random (conventional),GBDT,5,0.8041,0.0029,0.717,0.1733,Strict,"10,000 rows"
+4 Host hold-out,GBDT,5,0.7921,0.0051,0.7091,0.1801,Loose,"10,000 rows"
+4 Host hold-out,GBDT,5,0.8003,0.0053,0.7066,0.1751,Strict,"10,000 rows"
+3 Temporal (pre to post),GBDT,1,0.7575,,0.6898,0.1942,Loose,"10,000 rows"
+3 Temporal (pre to post),GBDT,1,0.7553,,0.6715,0.1938,Strict,"10,000 rows"
+2 Market hold-out,GBDT,5,0.719,0.0599,0.6193,0.2156,Loose,"10,000 rows"
+2 Market hold-out,GBDT,5,0.7345,0.0617,0.6222,0.2057,Strict,"10,000 rows"
+5 Market by time,GBDT,5,0.635,0.0506,0.5247,0.2348,Loose,"10,000 rows"
+5 Market by time,GBDT,5,0.6454,0.0557,0.5176,0.2289,Strict,"10,000 rows"
+1 Random (conventional),TabPFN,5,0.7991,0.0027,0.7207,0.1847,Loose,"10,000 rows"
+1 Random (conventional),TabPFN,5,0.8046,0.0036,0.7147,0.1794,Strict,"10,000 rows"
+4 Host hold-out,TabPFN,5,0.7917,0.0083,0.7029,0.1855,Loose,"10,000 rows"
+4 Host hold-out,TabPFN,5,0.8006,0.0072,0.704,0.1826,Strict,"10,000 rows"
+3 Temporal (pre to post),TabPFN,1,0.7431,,0.6726,0.201,Loose,"10,000 rows"
+3 Temporal (pre to post),TabPFN,1,0.7512,,0.6654,0.1989,Strict,"10,000 rows"
+2 Market hold-out,TabPFN,5,0.7228,0.0767,0.6182,0.2142,Loose,"10,000 rows"
+2 Market hold-out,TabPFN,5,0.7336,0.066,0.6168,0.2058,Strict,"10,000 rows"
+5 Market by time,TabPFN,5,0.6315,0.0404,0.5195,0.2341,Loose,"10,000 rows"
+5 Market by time,TabPFN,5,0.6451,0.0526,0.5088,0.2255,Strict,"10,000 rows"
+1 Random (conventional),Random forest,5,0.7801,0.0009,0.697,0.1895,Loose,"10,000 rows"
+1 Random (conventional),Random forest,5,0.7863,0.0025,0.692,0.1846,Strict,"10,000 rows"
+4 Host hold-out,Random forest,5,0.7719,0.0049,0.6843,0.1913,Loose,"10,000 rows"
+4 Host hold-out,Random forest,5,0.7812,0.0054,0.684,0.1862,Strict,"10,000 rows"
+3 Temporal (pre to post),Random forest,1,0.7291,,0.6457,0.2061,Loose,"10,000 rows"
+3 Temporal (pre to post),Random forest,1,0.7402,,0.6419,0.2008,Strict,"10,000 rows"
+2 Market hold-out,Random forest,5,0.7096,0.0606,0.6162,0.2171,Loose,"10,000 rows"
+2 Market hold-out,Random forest,5,0.72,0.0527,0.6088,0.2101,Strict,"10,000 rows"
+5 Market by time,Random forest,5,0.6468,0.0567,0.5389,0.2214,Loose,"10,000 rows"
+5 Market by time,Random forest,5,0.652,0.059,0.5227,0.217,Strict,"10,000 rows"
+1 Random (conventional),Logistic regression,5,0.6879,0.002,0.5557,0.215,Loose,"10,000 rows"
+1 Random (conventional),Logistic regression,5,0.695,0.0016,0.5472,0.2106,Strict,"10,000 rows"
+4 Host hold-out,Logistic regression,5,0.6826,0.0101,0.5452,0.217,Loose,"10,000 rows"
+4 Host hold-out,Logistic regression,5,0.6929,0.0103,0.5382,0.2117,Strict,"10,000 rows"
+3 Temporal (pre to post),Logistic regression,1,0.6313,,0.5113,0.2324,Loose,"10,000 rows"
+3 Temporal (pre to post),Logistic regression,1,0.6317,,0.4885,0.2289,Strict,"10,000 rows"
+2 Market hold-out,Logistic regression,5,0.6361,0.0528,0.488,0.24,Loose,"10,000 rows"
+2 Market hold-out,Logistic regression,5,0.6587,0.0652,0.5042,0.2263,Strict,"10,000 rows"
+5 Market by time,Logistic regression,5,0.5953,0.0712,0.4563,0.243,Loose,"10,000 rows"
+5 Market by time,Logistic regression,5,0.5919,0.0784,0.4381,0.242,Strict,"10,000 rows"
+1 Random (conventional),GBDT,5,0.853,0.0008,0.7996,0.1533,Loose,Full fold
+1 Random (conventional),GBDT,5,0.8578,0.0008,0.7949,0.1494,Strict,Full fold
+4 Host hold-out,GBDT,5,0.8395,0.0041,0.7782,0.1596,Loose,Full fold
+4 Host hold-out,GBDT,5,0.8469,0.0027,0.7766,0.1545,Strict,Full fold
+3 Temporal (pre to post),GBDT,1,0.7983,,0.7486,0.1787,Loose,Full fold
+3 Temporal (pre to post),GBDT,1,0.8064,,0.7434,0.173,Strict,Full fold
+2 Market hold-out,GBDT,5,0.754,0.0633,0.6602,0.2008,Loose,Full fold
+2 Market hold-out,GBDT,5,0.7663,0.0593,0.6651,0.1918,Strict,Full fold
+5 Market by time,GBDT,5,0.6654,0.0354,0.557,0.2266,Loose,Full fold
+5 Market by time,GBDT,5,0.6738,0.0519,0.5533,0.2195,Strict,Full fold
+1 Random (conventional),Random forest,5,0.8602,0.0002,0.8072,0.1549,Loose,Full fold
+1 Random (conventional),Random forest,5,0.8635,0.0006,0.8015,0.1513,Strict,Full fold
+4 Host hold-out,Random forest,5,0.8343,0.0029,0.769,0.1654,Loose,Full fold
+4 Host hold-out,Random forest,5,0.8404,0.0031,0.7672,0.1608,Strict,Full fold
+3 Temporal (pre to post),Random forest,1,0.7882,,0.7228,0.1852,Loose,Full fold
+3 Temporal (pre to post),Random forest,1,0.7972,,0.7184,0.1796,Strict,Full fold
+2 Market hold-out,Random forest,5,0.7514,0.0621,0.6644,0.2019,Loose,Full fold
+2 Market hold-out,Random forest,5,0.7608,0.0598,0.6624,0.1946,Strict,Full fold
+5 Market by time,Random forest,5,0.662,0.0427,0.5577,0.2194,Loose,Full fold
+5 Market by time,Random forest,5,0.6744,0.0518,0.5558,0.2122,Strict,Full fold
+1 Random (conventional),Logistic regression,5,0.6905,0.0005,0.5606,0.214,Loose,Full fold
+1 Random (conventional),Logistic regression,5,0.6995,0.0004,0.5531,0.2094,Strict,Full fold
+4 Host hold-out,Logistic regression,5,0.6877,0.0083,0.5522,0.2156,Loose,Full fold
+4 Host hold-out,Logistic regression,5,0.6966,0.0079,0.5445,0.2108,Strict,Full fold
+3 Temporal (pre to post),Logistic regression,1,0.6348,,0.5137,0.2308,Loose,Full fold
+3 Temporal (pre to post),Logistic regression,1,0.643,,0.5024,0.226,Strict,Full fold
+2 Market hold-out,Logistic regression,5,0.642,0.0553,0.492,0.2372,Loose,Full fold
+2 Market hold-out,Logistic regression,5,0.651,0.056,0.4847,0.23,Strict,Full fold
+5 Market by time,Logistic regression,5,0.5929,0.0654,0.4538,0.2426,Loose,Full fold
+5 Market by time,Logistic regression,5,0.5973,0.0731,0.4393,0.2379,Strict,Full fold

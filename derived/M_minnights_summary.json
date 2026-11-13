@@ -1,0 +1,148 @@
+{
+ "n_rows": 6903484,
+ "global_top10_values": {
+  "1": 0.4007,
+  "2": 0.2651,
+  "3": 0.1097,
+  "30": 0.0506,
+  "4": 0.0345,
+  "5": 0.0299,
+  "31": 0.0232,
+  "7": 0.0225,
+  "28": 0.01,
+  "6": 0.0079
+ },
+ "global_share_28to32": 0.0902,
+ "n_markets": 123,
+ "modal_value_distinct_across_markets": 6,
+ "modal_value_counts": {
+  "1": 101,
+  "2": 14,
+  "30": 5,
+  "28": 1,
+  "31": 1,
+  "92": 1
+ },
+ "share_at_28to32": {
+  "median_market": 0.0318,
+  "max_market": 0.812,
+  "n_markets_gt20pct": 21,
+  "n_markets_gt50pct": 3
+ },
+ "markets_top10_28to32": [
+  {
+   "city": "New York City",
+   "country": "United States",
+   "sh_28to32": 0.812,
+   "modal_value": 30.0,
+   "modal_share": 0.7932,
+   "y_strict": 0.0696
+  },
+  {
+   "city": "Toronto",
+   "country": "Canada",
+   "sh_28to32": 0.5906,
+   "modal_value": 28.0,
+   "modal_share": 0.5004,
+   "y_strict": 0.5309
+  },
+  {
+   "city": "Montreal",
+   "country": "Canada",
+   "sh_28to32": 0.5199,
+   "modal_value": 31.0,
+   "modal_share": 0.4291,
+   "y_strict": 0.5119
+  },
+  {
+   "city": "Ottawa",
+   "country": "Canada",
+   "sh_28to32": 0.4856,
+   "modal_value": 30.0,
+   "modal_share": 0.4438,
+   "y_strict": 0.565
+  },
+  {
+   "city": "Los Angeles",
+   "country": "United States",
+   "sh_28to32": 0.477,
+   "modal_value": 30.0,
+   "modal_share": 0.3693,
+   "y_strict": 0.2079
+  },
+  {
+   "city": "Denver",
+   "country": "United States",
+   "sh_28to32": 0.4094,
+   "modal_value": 1.0,
+   "modal_share": 0.3044,
+   "y_strict": 0.6839
+  },
+  {
+   "city": "New Orleans",
+   "country": "United States",
+   "sh_28to32": 0.4025,
+   "modal_value": 30.0,
+   "modal_share": 0.3943,
+   "y_strict": 0.7879
+  },
+  {
+   "city": "San Francisco",
+   "country": "United States",
+   "sh_28to32": 0.3842,
+   "modal_value": 30.0,
+   "modal_share": 0.3414,
+   "y_strict": 0.3923
+  },
+  {
+   "city": "Portland",
+   "country": "United States",
+   "sh_28to32": 0.3679,
+   "modal_value": 1.0,
+   "modal_share": 0.326,
+   "y_strict": 0.6702
+  },
+  {
+   "city": "Hong Kong",
+   "country": "China",
+   "sh_28to32": 0.3585,
+   "modal_value": 1.0,
+   "modal_share": 0.3719,
+   "y_strict": 0.0
+  }
+ ],
+ "markets_lowest_28to32": [
+  {
+   "city": "Barwon South West, Vic",
+   "country": "Australia",
+   "sh_28to32": 0.001,
+   "modal_value": 2.0
+  },
+  {
+   "city": "Mornington Peninsula",
+   "country": "Australia",
+   "sh_28to32": 0.0008,
+   "modal_value": 2.0
+  },
+  {
+   "city": "Northern Rivers",
+   "country": "Australia",
+   "sh_28to32": 0.0007,
+   "modal_value": 2.0
+  },
+  {
+   "city": "Mid North Coast",
+   "country": "Australia",
+   "sh_28to32": 0.0006,
+   "modal_value": 1.0
+  },
+  {
+   "city": "Barossa Valley",
+   "country": "Australia",
+   "sh_28to32": 0.0,
+   "modal_value": 2.0
+  }
+ ],
+ "corr_sh28to32_vs_ystrict": 0.0575,
+ "caveat": "Descriptive statistics only. Attributing a threshold to a particular instrument requires the primary legal text for that market. Until then the claim goes no further than: the distribution differs clearly between markets and piles up at values regulation commonly uses."
+}

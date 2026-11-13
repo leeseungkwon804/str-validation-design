@@ -1,0 +1,5 @@
+outcome,design,true_market_baserate,gradient_boosting_50_predictors,random_forest_50_predictors,recovered_market_baserate,market_recovery_accuracy
+Loose,1 Random (conventional),0.9508,0.853,0.8602,0.7684,0.3498
+Loose,2 Market hold-out,0.5,0.754,0.7514,0.6767,0.0
+Strict,1 Random (conventional),0.9475,0.8578,0.8635,0.7729,0.3501
+Strict,2 Market hold-out,0.5,0.7663,0.7608,0.6838,0.0

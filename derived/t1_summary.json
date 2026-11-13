@@ -1,0 +1,90 @@
+{
+ "n_listing_snapshot": 6938304,
+ "n_snapshot": 572,
+ "n_market": 123,
+ "prev_y_any": 41.92,
+ "prev_y_license": 39.8,
+ "prev_y_strict": 38.24,
+ "class_counts": {
+  "empty": 4030040,
+  "code": 2653489,
+  "trader_id": 9599,
+  "pending": 9225,
+  "exempt": 229439,
+  "other_text": 6512
+ },
+ "class_pct": {
+  "empty": 58.084,
+  "code": 38.244,
+  "trader_id": 0.138,
+  "pending": 0.133,
+  "exempt": 3.307,
+  "other_text": 0.094
+ },
+ "y_license_pos": 2761308,
+ "y_license_pos_composition": {
+  "empty": 0,
+  "code": 2653489,
+  "trader_id": 9599,
+  "pending": 9225,
+  "exempt": 82483,
+  "other_text": 6512
+ },
+ "y_license_pos_noncode_n": 107819,
+ "y_license_pos_noncode_pct": 3.9,
+ "y_license_neg_code_n": 0,
+ "y_license_vs_strict_agree_pct": 98.446,
+ "y_license_vs_strict_kappa": 0.9674,
+ "markets_all_empty": 45,
+ "markets_ge90": 23,
+ "markets_noncode_ge10pct_of_pos": 31,
+ "markets_noncode_ge25pct_of_pos": 11,
+ "market_delta_license_strict_pp": {
+  "mean": 1.66,
+  "median": 0.0,
+  "max": 51.85,
+  "n_markets_gt1pp": 23,
+  "n_markets_gt5pp": 11
+ },
+ "ICC": {
+  "y_any": {
+   "prev_pct": 41.92,
+   "within": 0.0736,
+   "between": 0.1699,
+   "ICC": 0.6978,
+   "country_share_of_between_pct": 80.1
+  },
+  "y_license": {
+   "prev_pct": 39.8,
+   "within": 0.0793,
+   "between": 0.1603,
+   "ICC": 0.669,
+   "country_share_of_between_pct": 81.7
+  },
+  "y_strict": {
+   "prev_pct": 38.24,
+   "within": 0.0839,
+   "between": 0.1523,
+   "ICC": 0.6447,
+   "country_share_of_between_pct": 81.9
+  }
+ },
+ "top_strings_class_mix": {
+  "code": 90470,
+  "exempt": 227714,
+  "other_text": 3677,
+  "pending": 8997,
+  "trader_id": 1234
+ },
+ "code_signature_jaccard": {
+  "n_market_pairs": 3403,
+  "mean": 0.0098,
+  "median": 0.0,
+  "pct_pairs_zero_overlap": 93.6
+ },
+ "within_market_wave_range_pp": {
+  "median": 2.53,
+  "p90": 20.59,
+  "n_markets_gt10pp": 34
+ }
+}

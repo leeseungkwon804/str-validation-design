@@ -1,0 +1,1226 @@
+design,model,threshold_probability,net_benefit,net_benefit_flag_all
+1 Random (conventional),"Logistic regression, full fold",0.05,0.350886,0.350088
+1 Random (conventional),"Logistic regression, full fold",0.075,0.334278,0.332523
+1 Random (conventional),"Logistic regression, full fold",0.1,0.317073,0.313982
+1 Random (conventional),"Logistic regression, full fold",0.125,0.299451,0.294382
+1 Random (conventional),"Logistic regression, full fold",0.15,0.281584,0.273628
+1 Random (conventional),"Logistic regression, full fold",0.175,0.263482,0.251617
+1 Random (conventional),"Logistic regression, full fold",0.2,0.245391,0.22823
+1 Random (conventional),"Logistic regression, full fold",0.225,0.22669,0.203334
+1 Random (conventional),"Logistic regression, full fold",0.25,0.207813,0.176779
+1 Random (conventional),"Logistic regression, full fold",0.275,0.188993,0.148392
+1 Random (conventional),"Logistic regression, full fold",0.3,0.17,0.117977
+1 Random (conventional),"Logistic regression, full fold",0.325,0.151573,0.08531
+1 Random (conventional),"Logistic regression, full fold",0.35,0.133197,0.050129
+1 Random (conventional),"Logistic regression, full fold",0.375,0.115666,0.012134
+1 Random (conventional),"Logistic regression, full fold",0.4,0.099088,-0.029027
+1 Random (conventional),"Logistic regression, full fold",0.425,0.082563,-0.073767
+1 Random (conventional),"Logistic regression, full fold",0.45,0.067432,-0.122575
+1 Random (conventional),"Logistic regression, full fold",0.475,0.05276,-0.17603
+1 Random (conventional),"Logistic regression, full fold",0.5,0.039666,-0.234832
+1 Random (conventional),"Logistic regression, full fold",0.525,0.028281,-0.299823
+1 Random (conventional),"Logistic regression, full fold",0.55,0.01885,-0.372036
+1 Random (conventional),"Logistic regression, full fold",0.575,0.011095,-0.452744
+1 Random (conventional),"Logistic regression, full fold",0.6,0.006071,-0.54354
+1 Random (conventional),"Logistic regression, full fold",0.625,0.002597,-0.646443
+1 Random (conventional),"Logistic regression, full fold",0.65,0.000673,-0.764046
+1 Random (conventional),"Logistic regression, full fold",0.675,-0.000344,-0.899742
+1 Random (conventional),"Logistic regression, full fold",0.7,-0.000928,-1.058053
+1 Random (conventional),"Logistic regression, full fold",0.725,-0.001001,-1.245149
+1 Random (conventional),"Logistic regression, full fold",0.75,-0.000774,-1.469664
+1 Random (conventional),"Logistic regression, full fold",0.775,-0.000748,-1.744071
+1 Random (conventional),"Logistic regression, full fold",0.8,-0.00054,-2.08708
+1 Random (conventional),"Logistic regression, full fold",0.825,-0.000417,-2.528091
+1 Random (conventional),"Logistic regression, full fold",0.85,-0.000334,-3.116107
+1 Random (conventional),"Logistic regression, full fold",0.875,-0.00029,-3.939328
+1 Random (conventional),"Logistic regression, full fold",0.9,-0.000186,-5.17416
+1 Random (conventional),"Random forest, full fold",0.05,0.353881,0.350088
+1 Random (conventional),"Random forest, full fold",0.075,0.340365,0.332523
+1 Random (conventional),"Random forest, full fold",0.1,0.327645,0.313982
+1 Random (conventional),"Random forest, full fold",0.125,0.315516,0.294382
+1 Random (conventional),"Random forest, full fold",0.15,0.303792,0.273628
+1 Random (conventional),"Random forest, full fold",0.175,0.292357,0.251617
+1 Random (conventional),"Random forest, full fold",0.2,0.281296,0.22823
+1 Random (conventional),"Random forest, full fold",0.225,0.270469,0.203334
+1 Random (conventional),"Random forest, full fold",0.25,0.259519,0.176779
+1 Random (conventional),"Random forest, full fold",0.275,0.24902,0.148392
+1 Random (conventional),"Random forest, full fold",0.3,0.238739,0.117977
+1 Random (conventional),"Random forest, full fold",0.325,0.228869,0.08531
+1 Random (conventional),"Random forest, full fold",0.35,0.219576,0.050129
+1 Random (conventional),"Random forest, full fold",0.375,0.210673,0.012134
+1 Random (conventional),"Random forest, full fold",0.4,0.201964,-0.029027
+1 Random (conventional),"Random forest, full fold",0.425,0.193031,-0.073767
+1 Random (conventional),"Random forest, full fold",0.45,0.184305,-0.122575
+1 Random (conventional),"Random forest, full fold",0.475,0.175266,-0.17603
+1 Random (conventional),"Random forest, full fold",0.5,0.165732,-0.234832
+1 Random (conventional),"Random forest, full fold",0.525,0.155659,-0.299823
+1 Random (conventional),"Random forest, full fold",0.55,0.145356,-0.372036
+1 Random (conventional),"Random forest, full fold",0.575,0.134731,-0.452744
+1 Random (conventional),"Random forest, full fold",0.6,0.123391,-0.54354
+1 Random (conventional),"Random forest, full fold",0.625,0.111445,-0.646443
+1 Random (conventional),"Random forest, full fold",0.65,0.099558,-0.764046
+1 Random (conventional),"Random forest, full fold",0.675,0.087473,-0.899742
+1 Random (conventional),"Random forest, full fold",0.7,0.076437,-1.058053
+1 Random (conventional),"Random forest, full fold",0.725,0.065831,-1.245149
+1 Random (conventional),"Random forest, full fold",0.75,0.055254,-1.469664
+1 Random (conventional),"Random forest, full fold",0.775,0.046253,-1.744071
+1 Random (conventional),"Random forest, full fold",0.8,0.0373,-2.08708
+1 Random (conventional),"Random forest, full fold",0.825,0.029176,-2.528091
+1 Random (conventional),"Random forest, full fold",0.85,0.022103,-3.116107
+1 Random (conventional),"Random forest, full fold",0.875,0.015908,-3.939328
+1 Random (conventional),"Random forest, full fold",0.9,0.010648,-5.17416
+1 Random (conventional),"Gradient boosting, full fold",0.05,0.355008,0.350088
+1 Random (conventional),"Gradient boosting, full fold",0.075,0.342236,0.332523
+1 Random (conventional),"Gradient boosting, full fold",0.1,0.329868,0.313982
+1 Random (conventional),"Gradient boosting, full fold",0.125,0.317846,0.294382
+1 Random (conventional),"Gradient boosting, full fold",0.15,0.306069,0.273628
+1 Random (conventional),"Gradient boosting, full fold",0.175,0.294414,0.251617
+1 Random (conventional),"Gradient boosting, full fold",0.2,0.282885,0.22823
+1 Random (conventional),"Gradient boosting, full fold",0.225,0.271465,0.203334
+1 Random (conventional),"Gradient boosting, full fold",0.25,0.260289,0.176779
+1 Random (conventional),"Gradient boosting, full fold",0.275,0.24917,0.148392
+1 Random (conventional),"Gradient boosting, full fold",0.3,0.23853,0.117977
+1 Random (conventional),"Gradient boosting, full fold",0.325,0.228282,0.08531
+1 Random (conventional),"Gradient boosting, full fold",0.35,0.217974,0.050129
+1 Random (conventional),"Gradient boosting, full fold",0.375,0.207998,0.012134
+1 Random (conventional),"Gradient boosting, full fold",0.4,0.198137,-0.029027
+1 Random (conventional),"Gradient boosting, full fold",0.425,0.188336,-0.073767
+1 Random (conventional),"Gradient boosting, full fold",0.45,0.178852,-0.122575
+1 Random (conventional),"Gradient boosting, full fold",0.475,0.169421,-0.17603
+1 Random (conventional),"Gradient boosting, full fold",0.5,0.160674,-0.234832
+1 Random (conventional),"Gradient boosting, full fold",0.525,0.151807,-0.299823
+1 Random (conventional),"Gradient boosting, full fold",0.55,0.143149,-0.372036
+1 Random (conventional),"Gradient boosting, full fold",0.575,0.134277,-0.452744
+1 Random (conventional),"Gradient boosting, full fold",0.6,0.125406,-0.54354
+1 Random (conventional),"Gradient boosting, full fold",0.625,0.116894,-0.646443
+1 Random (conventional),"Gradient boosting, full fold",0.65,0.108277,-0.764046
+1 Random (conventional),"Gradient boosting, full fold",0.675,0.099104,-0.899742
+1 Random (conventional),"Gradient boosting, full fold",0.7,0.090135,-1.058053
+1 Random (conventional),"Gradient boosting, full fold",0.725,0.081375,-1.245149
+1 Random (conventional),"Gradient boosting, full fold",0.75,0.07337,-1.469664
+1 Random (conventional),"Gradient boosting, full fold",0.775,0.065083,-1.744071
+1 Random (conventional),"Gradient boosting, full fold",0.8,0.057016,-2.08708
+1 Random (conventional),"Gradient boosting, full fold",0.825,0.049673,-2.528091
+1 Random (conventional),"Gradient boosting, full fold",0.85,0.041951,-3.116107
+1 Random (conventional),"Gradient boosting, full fold",0.875,0.03436,-3.939328
+1 Random (conventional),"Gradient boosting, full fold",0.9,0.026758,-5.17416
+1 Random (conventional),"Logistic regression, 10,000 rows",0.05,0.35064,0.350088
+1 Random (conventional),"Logistic regression, 10,000 rows",0.075,0.333964,0.332523
+1 Random (conventional),"Logistic regression, 10,000 rows",0.1,0.316756,0.313982
+1 Random (conventional),"Logistic regression, 10,000 rows",0.125,0.299065,0.294382
+1 Random (conventional),"Logistic regression, 10,000 rows",0.15,0.281226,0.273628
+1 Random (conventional),"Logistic regression, 10,000 rows",0.175,0.263012,0.251617
+1 Random (conventional),"Logistic regression, 10,000 rows",0.2,0.244639,0.22823
+1 Random (conventional),"Logistic regression, 10,000 rows",0.225,0.225908,0.203334
+1 Random (conventional),"Logistic regression, 10,000 rows",0.25,0.206829,0.176779
+1 Random (conventional),"Logistic regression, 10,000 rows",0.275,0.188006,0.148392
+1 Random (conventional),"Logistic regression, 10,000 rows",0.3,0.168961,0.117977
+1 Random (conventional),"Logistic regression, 10,000 rows",0.325,0.150159,0.08531
+1 Random (conventional),"Logistic regression, 10,000 rows",0.35,0.131984,0.050129
+1 Random (conventional),"Logistic regression, 10,000 rows",0.375,0.11431,0.012134
+1 Random (conventional),"Logistic regression, 10,000 rows",0.4,0.097199,-0.029027
+1 Random (conventional),"Logistic regression, 10,000 rows",0.425,0.081005,-0.073767
+1 Random (conventional),"Logistic regression, 10,000 rows",0.45,0.065244,-0.122575
+1 Random (conventional),"Logistic regression, 10,000 rows",0.475,0.050576,-0.17603
+1 Random (conventional),"Logistic regression, 10,000 rows",0.5,0.038028,-0.234832
+1 Random (conventional),"Logistic regression, 10,000 rows",0.525,0.026464,-0.299823
+1 Random (conventional),"Logistic regression, 10,000 rows",0.55,0.017157,-0.372036
+1 Random (conventional),"Logistic regression, 10,000 rows",0.575,0.010224,-0.452744
+1 Random (conventional),"Logistic regression, 10,000 rows",0.6,0.004755,-0.54354
+1 Random (conventional),"Logistic regression, 10,000 rows",0.625,0.001529,-0.646443
+1 Random (conventional),"Logistic regression, 10,000 rows",0.65,-0.000393,-0.764046
+1 Random (conventional),"Logistic regression, 10,000 rows",0.675,-0.001332,-0.899742
+1 Random (conventional),"Logistic regression, 10,000 rows",0.7,-0.001995,-1.058053
+1 Random (conventional),"Logistic regression, 10,000 rows",0.725,-0.001729,-1.245149
+1 Random (conventional),"Logistic regression, 10,000 rows",0.75,-0.001562,-1.469664
+1 Random (conventional),"Logistic regression, 10,000 rows",0.775,-0.001312,-1.744071
+1 Random (conventional),"Logistic regression, 10,000 rows",0.8,-0.00102,-2.08708
+1 Random (conventional),"Logistic regression, 10,000 rows",0.825,-0.000931,-2.528091
+1 Random (conventional),"Logistic regression, 10,000 rows",0.85,-0.000895,-3.116107
+1 Random (conventional),"Logistic regression, 10,000 rows",0.875,-0.000888,-3.939328
+1 Random (conventional),"Logistic regression, 10,000 rows",0.9,-0.000852,-5.17416
+1 Random (conventional),"Random forest, 10,000 rows",0.05,0.350794,0.350088
+1 Random (conventional),"Random forest, 10,000 rows",0.075,0.334647,0.332523
+1 Random (conventional),"Random forest, 10,000 rows",0.1,0.318471,0.313982
+1 Random (conventional),"Random forest, 10,000 rows",0.125,0.302496,0.294382
+1 Random (conventional),"Random forest, 10,000 rows",0.15,0.286727,0.273628
+1 Random (conventional),"Random forest, 10,000 rows",0.175,0.271087,0.251617
+1 Random (conventional),"Random forest, 10,000 rows",0.2,0.256018,0.22823
+1 Random (conventional),"Random forest, 10,000 rows",0.225,0.241743,0.203334
+1 Random (conventional),"Random forest, 10,000 rows",0.25,0.227822,0.176779
+1 Random (conventional),"Random forest, 10,000 rows",0.275,0.214582,0.148392
+1 Random (conventional),"Random forest, 10,000 rows",0.3,0.20161,0.117977
+1 Random (conventional),"Random forest, 10,000 rows",0.325,0.188667,0.08531
+1 Random (conventional),"Random forest, 10,000 rows",0.35,0.175983,0.050129
+1 Random (conventional),"Random forest, 10,000 rows",0.375,0.16334,0.012134
+1 Random (conventional),"Random forest, 10,000 rows",0.4,0.151444,-0.029027
+1 Random (conventional),"Random forest, 10,000 rows",0.425,0.13987,-0.073767
+1 Random (conventional),"Random forest, 10,000 rows",0.45,0.128227,-0.122575
+1 Random (conventional),"Random forest, 10,000 rows",0.475,0.116566,-0.17603
+1 Random (conventional),"Random forest, 10,000 rows",0.5,0.10546,-0.234832
+1 Random (conventional),"Random forest, 10,000 rows",0.525,0.094365,-0.299823
+1 Random (conventional),"Random forest, 10,000 rows",0.55,0.082998,-0.372036
+1 Random (conventional),"Random forest, 10,000 rows",0.575,0.071873,-0.452744
+1 Random (conventional),"Random forest, 10,000 rows",0.6,0.060179,-0.54354
+1 Random (conventional),"Random forest, 10,000 rows",0.625,0.049237,-0.646443
+1 Random (conventional),"Random forest, 10,000 rows",0.65,0.038357,-0.764046
+1 Random (conventional),"Random forest, 10,000 rows",0.675,0.028602,-0.899742
+1 Random (conventional),"Random forest, 10,000 rows",0.7,0.020363,-1.058053
+1 Random (conventional),"Random forest, 10,000 rows",0.725,0.013426,-1.245149
+1 Random (conventional),"Random forest, 10,000 rows",0.75,0.008326,-1.469664
+1 Random (conventional),"Random forest, 10,000 rows",0.775,0.004606,-1.744071
+1 Random (conventional),"Random forest, 10,000 rows",0.8,0.002358,-2.08708
+1 Random (conventional),"Random forest, 10,000 rows",0.825,0.001035,-2.528091
+1 Random (conventional),"Random forest, 10,000 rows",0.85,0.000428,-3.116107
+1 Random (conventional),"Random forest, 10,000 rows",0.875,0.000172,-3.939328
+1 Random (conventional),"Random forest, 10,000 rows",0.9,4.8e-05,-5.17416
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.05,0.353148,0.350088
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.075,0.338365,0.332523
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.1,0.323901,0.313982
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.125,0.309562,0.294382
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.15,0.295288,0.273628
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.175,0.281032,0.251617
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.2,0.266991,0.22823
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.225,0.25308,0.203334
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.25,0.239183,0.176779
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.275,0.225759,0.148392
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.3,0.212622,0.117977
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.325,0.199653,0.08531
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.35,0.1867,0.050129
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.375,0.174135,0.012134
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.4,0.161738,-0.029027
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.425,0.150133,-0.073767
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.45,0.138672,-0.122575
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.475,0.12797,-0.17603
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.5,0.11733,-0.234832
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.525,0.107774,-0.299823
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.55,0.098891,-0.372036
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.575,0.090224,-0.452744
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.6,0.081604,-0.54354
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.625,0.073283,-0.646443
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.65,0.065285,-0.764046
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.675,0.058167,-0.899742
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.7,0.051247,-1.058053
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.725,0.044333,-1.245149
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.75,0.037934,-1.469664
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.775,0.031478,-1.744071
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.8,0.025468,-2.08708
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.825,0.019456,-2.528091
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.85,0.014407,-3.116107
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.875,0.009298,-3.939328
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.9,0.005524,-5.17416
+1 Random (conventional),"TabPFN, 10,000 rows",0.05,0.353249,0.350088
+1 Random (conventional),"TabPFN, 10,000 rows",0.075,0.338921,0.332523
+1 Random (conventional),"TabPFN, 10,000 rows",0.1,0.324851,0.313982
+1 Random (conventional),"TabPFN, 10,000 rows",0.125,0.310956,0.294382
+1 Random (conventional),"TabPFN, 10,000 rows",0.15,0.297034,0.273628
+1 Random (conventional),"TabPFN, 10,000 rows",0.175,0.282731,0.251617
+1 Random (conventional),"TabPFN, 10,000 rows",0.2,0.26828,0.22823
+1 Random (conventional),"TabPFN, 10,000 rows",0.225,0.253823,0.203334
+1 Random (conventional),"TabPFN, 10,000 rows",0.25,0.239013,0.176779
+1 Random (conventional),"TabPFN, 10,000 rows",0.275,0.224588,0.148392
+1 Random (conventional),"TabPFN, 10,000 rows",0.3,0.209941,0.117977
+1 Random (conventional),"TabPFN, 10,000 rows",0.325,0.195758,0.08531
+1 Random (conventional),"TabPFN, 10,000 rows",0.35,0.181591,0.050129
+1 Random (conventional),"TabPFN, 10,000 rows",0.375,0.167344,0.012134
+1 Random (conventional),"TabPFN, 10,000 rows",0.4,0.153437,-0.029027
+1 Random (conventional),"TabPFN, 10,000 rows",0.425,0.139443,-0.073767
+1 Random (conventional),"TabPFN, 10,000 rows",0.45,0.126242,-0.122575
+1 Random (conventional),"TabPFN, 10,000 rows",0.475,0.113127,-0.17603
+1 Random (conventional),"TabPFN, 10,000 rows",0.5,0.100892,-0.234832
+1 Random (conventional),"TabPFN, 10,000 rows",0.525,0.088746,-0.299823
+1 Random (conventional),"TabPFN, 10,000 rows",0.55,0.077376,-0.372036
+1 Random (conventional),"TabPFN, 10,000 rows",0.575,0.067286,-0.452744
+1 Random (conventional),"TabPFN, 10,000 rows",0.6,0.058134,-0.54354
+1 Random (conventional),"TabPFN, 10,000 rows",0.625,0.050133,-0.646443
+1 Random (conventional),"TabPFN, 10,000 rows",0.65,0.04322,-0.764046
+1 Random (conventional),"TabPFN, 10,000 rows",0.675,0.037276,-0.899742
+1 Random (conventional),"TabPFN, 10,000 rows",0.7,0.031917,-1.058053
+1 Random (conventional),"TabPFN, 10,000 rows",0.725,0.026908,-1.245149
+1 Random (conventional),"TabPFN, 10,000 rows",0.75,0.022812,-1.469664
+1 Random (conventional),"TabPFN, 10,000 rows",0.775,0.019254,-1.744071
+1 Random (conventional),"TabPFN, 10,000 rows",0.8,0.016004,-2.08708
+1 Random (conventional),"TabPFN, 10,000 rows",0.825,0.012653,-2.528091
+1 Random (conventional),"TabPFN, 10,000 rows",0.85,0.010003,-3.116107
+1 Random (conventional),"TabPFN, 10,000 rows",0.875,0.007246,-3.939328
+1 Random (conventional),"TabPFN, 10,000 rows",0.9,0.005034,-5.17416
+2 Market hold-out,"Logistic regression, full fold",0.05,0.350607,0.351484
+2 Market hold-out,"Logistic regression, full fold",0.075,0.333166,0.333957
+2 Market hold-out,"Logistic regression, full fold",0.1,0.315218,0.315456
+2 Market hold-out,"Logistic regression, full fold",0.125,0.296753,0.295897
+2 Market hold-out,"Logistic regression, full fold",0.15,0.277785,0.275188
+2 Market hold-out,"Logistic regression, full fold",0.175,0.258049,0.253224
+2 Market hold-out,"Logistic regression, full fold",0.2,0.237663,0.229887
+2 Market hold-out,"Logistic regression, full fold",0.225,0.216663,0.205045
+2 Market hold-out,"Logistic regression, full fold",0.25,0.195417,0.178547
+2 Market hold-out,"Logistic regression, full fold",0.275,0.173635,0.150221
+2 Market hold-out,"Logistic regression, full fold",0.3,0.151809,0.119871
+2 Market hold-out,"Logistic regression, full fold",0.325,0.130017,0.087274
+2 Market hold-out,"Logistic regression, full fold",0.35,0.108313,0.052169
+2 Market hold-out,"Logistic regression, full fold",0.375,0.086186,0.014256
+2 Market hold-out,"Logistic regression, full fold",0.4,0.064089,-0.026817
+2 Market hold-out,"Logistic regression, full fold",0.425,0.042518,-0.071461
+2 Market hold-out,"Logistic regression, full fold",0.45,0.021952,-0.120164
+2 Market hold-out,"Logistic regression, full fold",0.475,0.003442,-0.173505
+2 Market hold-out,"Logistic regression, full fold",0.5,-0.01013,-0.23218
+2 Market hold-out,"Logistic regression, full fold",0.525,-0.020349,-0.297032
+2 Market hold-out,"Logistic regression, full fold",0.55,-0.027269,-0.369089
+2 Market hold-out,"Logistic regression, full fold",0.575,-0.030744,-0.449624
+2 Market hold-out,"Logistic regression, full fold",0.6,-0.0318,-0.540225
+2 Market hold-out,"Logistic regression, full fold",0.625,-0.031505,-0.642907
+2 Market hold-out,"Logistic regression, full fold",0.65,-0.030249,-0.760257
+2 Market hold-out,"Logistic regression, full fold",0.675,-0.028179,-0.895662
+2 Market hold-out,"Logistic regression, full fold",0.7,-0.026618,-1.053633
+2 Market hold-out,"Logistic regression, full fold",0.725,-0.025285,-1.240327
+2 Market hold-out,"Logistic regression, full fold",0.75,-0.024906,-1.46436
+2 Market hold-out,"Logistic regression, full fold",0.775,-0.025361,-1.738178
+2 Market hold-out,"Logistic regression, full fold",0.8,-0.02618,-2.08045
+2 Market hold-out,"Logistic regression, full fold",0.825,-0.027211,-2.520514
+2 Market hold-out,"Logistic regression, full fold",0.85,-0.028174,-3.107267
+2 Market hold-out,"Logistic regression, full fold",0.875,-0.029872,-3.92872
+2 Market hold-out,"Logistic regression, full fold",0.9,-0.03145,-5.1609
+2 Market hold-out,"Random forest, full fold",0.05,0.351687,0.351484
+2 Market hold-out,"Random forest, full fold",0.075,0.334784,0.333957
+2 Market hold-out,"Random forest, full fold",0.1,0.317439,0.315456
+2 Market hold-out,"Random forest, full fold",0.125,0.3002,0.295897
+2 Market hold-out,"Random forest, full fold",0.15,0.283269,0.275188
+2 Market hold-out,"Random forest, full fold",0.175,0.266762,0.253224
+2 Market hold-out,"Random forest, full fold",0.2,0.250514,0.229887
+2 Market hold-out,"Random forest, full fold",0.225,0.234718,0.205045
+2 Market hold-out,"Random forest, full fold",0.25,0.218661,0.178547
+2 Market hold-out,"Random forest, full fold",0.275,0.202714,0.150221
+2 Market hold-out,"Random forest, full fold",0.3,0.186704,0.119871
+2 Market hold-out,"Random forest, full fold",0.325,0.170673,0.087274
+2 Market hold-out,"Random forest, full fold",0.35,0.154753,0.052169
+2 Market hold-out,"Random forest, full fold",0.375,0.13917,0.014256
+2 Market hold-out,"Random forest, full fold",0.4,0.124345,-0.026817
+2 Market hold-out,"Random forest, full fold",0.425,0.110199,-0.071461
+2 Market hold-out,"Random forest, full fold",0.45,0.097345,-0.120164
+2 Market hold-out,"Random forest, full fold",0.475,0.085954,-0.173505
+2 Market hold-out,"Random forest, full fold",0.5,0.07571,-0.23218
+2 Market hold-out,"Random forest, full fold",0.525,0.067478,-0.297032
+2 Market hold-out,"Random forest, full fold",0.55,0.060402,-0.369089
+2 Market hold-out,"Random forest, full fold",0.575,0.054344,-0.449624
+2 Market hold-out,"Random forest, full fold",0.6,0.048779,-0.540225
+2 Market hold-out,"Random forest, full fold",0.625,0.043691,-0.642907
+2 Market hold-out,"Random forest, full fold",0.65,0.039129,-0.760257
+2 Market hold-out,"Random forest, full fold",0.675,0.034732,-0.895662
+2 Market hold-out,"Random forest, full fold",0.7,0.030573,-1.053633
+2 Market hold-out,"Random forest, full fold",0.725,0.026045,-1.240327
+2 Market hold-out,"Random forest, full fold",0.75,0.021792,-1.46436
+2 Market hold-out,"Random forest, full fold",0.775,0.017144,-1.738178
+2 Market hold-out,"Random forest, full fold",0.8,0.012952,-2.08045
+2 Market hold-out,"Random forest, full fold",0.825,0.009817,-2.520514
+2 Market hold-out,"Random forest, full fold",0.85,0.006289,-3.107267
+2 Market hold-out,"Random forest, full fold",0.875,0.00397,-3.92872
+2 Market hold-out,"Random forest, full fold",0.9,0.002444,-5.1609
+2 Market hold-out,"Gradient boosting, full fold",0.05,0.348221,0.351484
+2 Market hold-out,"Gradient boosting, full fold",0.075,0.331184,0.333957
+2 Market hold-out,"Gradient boosting, full fold",0.1,0.314902,0.315456
+2 Market hold-out,"Gradient boosting, full fold",0.125,0.299112,0.295897
+2 Market hold-out,"Gradient boosting, full fold",0.15,0.28374,0.275188
+2 Market hold-out,"Gradient boosting, full fold",0.175,0.26815,0.253224
+2 Market hold-out,"Gradient boosting, full fold",0.2,0.252778,0.229887
+2 Market hold-out,"Gradient boosting, full fold",0.225,0.237196,0.205045
+2 Market hold-out,"Gradient boosting, full fold",0.25,0.221562,0.178547
+2 Market hold-out,"Gradient boosting, full fold",0.275,0.206076,0.150221
+2 Market hold-out,"Gradient boosting, full fold",0.3,0.190729,0.119871
+2 Market hold-out,"Gradient boosting, full fold",0.325,0.175744,0.087274
+2 Market hold-out,"Gradient boosting, full fold",0.35,0.161403,0.052169
+2 Market hold-out,"Gradient boosting, full fold",0.375,0.147376,0.014256
+2 Market hold-out,"Gradient boosting, full fold",0.4,0.134029,-0.026817
+2 Market hold-out,"Gradient boosting, full fold",0.425,0.121504,-0.071461
+2 Market hold-out,"Gradient boosting, full fold",0.45,0.109529,-0.120164
+2 Market hold-out,"Gradient boosting, full fold",0.475,0.098384,-0.173505
+2 Market hold-out,"Gradient boosting, full fold",0.5,0.088092,-0.23218
+2 Market hold-out,"Gradient boosting, full fold",0.525,0.078469,-0.297032
+2 Market hold-out,"Gradient boosting, full fold",0.55,0.069458,-0.369089
+2 Market hold-out,"Gradient boosting, full fold",0.575,0.061127,-0.449624
+2 Market hold-out,"Gradient boosting, full fold",0.6,0.053746,-0.540225
+2 Market hold-out,"Gradient boosting, full fold",0.625,0.047198,-0.642907
+2 Market hold-out,"Gradient boosting, full fold",0.65,0.04011,-0.760257
+2 Market hold-out,"Gradient boosting, full fold",0.675,0.034178,-0.895662
+2 Market hold-out,"Gradient boosting, full fold",0.7,0.028679,-1.053633
+2 Market hold-out,"Gradient boosting, full fold",0.725,0.023318,-1.240327
+2 Market hold-out,"Gradient boosting, full fold",0.75,0.018808,-1.46436
+2 Market hold-out,"Gradient boosting, full fold",0.775,0.014592,-1.738178
+2 Market hold-out,"Gradient boosting, full fold",0.8,0.01041,-2.08045
+2 Market hold-out,"Gradient boosting, full fold",0.825,0.007077,-2.520514
+2 Market hold-out,"Gradient boosting, full fold",0.85,0.004434,-3.107267
+2 Market hold-out,"Gradient boosting, full fold",0.875,0.001954,-3.92872
+2 Market hold-out,"Gradient boosting, full fold",0.9,0.000334,-5.1609
+2 Market hold-out,"Logistic regression, 10,000 rows",0.05,0.350842,0.351484
+2 Market hold-out,"Logistic regression, 10,000 rows",0.075,0.333723,0.333957
+2 Market hold-out,"Logistic regression, 10,000 rows",0.1,0.315922,0.315456
+2 Market hold-out,"Logistic regression, 10,000 rows",0.125,0.297509,0.295897
+2 Market hold-out,"Logistic regression, 10,000 rows",0.15,0.278617,0.275188
+2 Market hold-out,"Logistic regression, 10,000 rows",0.175,0.258823,0.253224
+2 Market hold-out,"Logistic regression, 10,000 rows",0.2,0.238512,0.229887
+2 Market hold-out,"Logistic regression, 10,000 rows",0.225,0.217562,0.205045
+2 Market hold-out,"Logistic regression, 10,000 rows",0.25,0.196122,0.178547
+2 Market hold-out,"Logistic regression, 10,000 rows",0.275,0.174633,0.150221
+2 Market hold-out,"Logistic regression, 10,000 rows",0.3,0.152932,0.119871
+2 Market hold-out,"Logistic regression, 10,000 rows",0.325,0.13184,0.087274
+2 Market hold-out,"Logistic regression, 10,000 rows",0.35,0.110574,0.052169
+2 Market hold-out,"Logistic regression, 10,000 rows",0.375,0.089169,0.014256
+2 Market hold-out,"Logistic regression, 10,000 rows",0.4,0.067464,-0.026817
+2 Market hold-out,"Logistic regression, 10,000 rows",0.425,0.046809,-0.071461
+2 Market hold-out,"Logistic regression, 10,000 rows",0.45,0.027583,-0.120164
+2 Market hold-out,"Logistic regression, 10,000 rows",0.475,0.010539,-0.173505
+2 Market hold-out,"Logistic regression, 10,000 rows",0.5,-0.001864,-0.23218
+2 Market hold-out,"Logistic regression, 10,000 rows",0.525,-0.010976,-0.297032
+2 Market hold-out,"Logistic regression, 10,000 rows",0.55,-0.017124,-0.369089
+2 Market hold-out,"Logistic regression, 10,000 rows",0.575,-0.020404,-0.449624
+2 Market hold-out,"Logistic regression, 10,000 rows",0.6,-0.021147,-0.540225
+2 Market hold-out,"Logistic regression, 10,000 rows",0.625,-0.020703,-0.642907
+2 Market hold-out,"Logistic regression, 10,000 rows",0.65,-0.019813,-0.760257
+2 Market hold-out,"Logistic regression, 10,000 rows",0.675,-0.017655,-0.895662
+2 Market hold-out,"Logistic regression, 10,000 rows",0.7,-0.015706,-1.053633
+2 Market hold-out,"Logistic regression, 10,000 rows",0.725,-0.013936,-1.240327
+2 Market hold-out,"Logistic regression, 10,000 rows",0.75,-0.012826,-1.46436
+2 Market hold-out,"Logistic regression, 10,000 rows",0.775,-0.012386,-1.738178
+2 Market hold-out,"Logistic regression, 10,000 rows",0.8,-0.012276,-2.08045
+2 Market hold-out,"Logistic regression, 10,000 rows",0.825,-0.012988,-2.520514
+2 Market hold-out,"Logistic regression, 10,000 rows",0.85,-0.014331,-3.107267
+2 Market hold-out,"Logistic regression, 10,000 rows",0.875,-0.015906,-3.92872
+2 Market hold-out,"Logistic regression, 10,000 rows",0.9,-0.015314,-5.1609
+2 Market hold-out,"Random forest, 10,000 rows",0.05,0.351683,0.351484
+2 Market hold-out,"Random forest, 10,000 rows",0.075,0.334452,0.333957
+2 Market hold-out,"Random forest, 10,000 rows",0.1,0.316485,0.315456
+2 Market hold-out,"Random forest, 10,000 rows",0.125,0.297735,0.295897
+2 Market hold-out,"Random forest, 10,000 rows",0.15,0.278715,0.275188
+2 Market hold-out,"Random forest, 10,000 rows",0.175,0.259542,0.253224
+2 Market hold-out,"Random forest, 10,000 rows",0.2,0.240108,0.229887
+2 Market hold-out,"Random forest, 10,000 rows",0.225,0.220888,0.205045
+2 Market hold-out,"Random forest, 10,000 rows",0.25,0.2018,0.178547
+2 Market hold-out,"Random forest, 10,000 rows",0.275,0.182675,0.150221
+2 Market hold-out,"Random forest, 10,000 rows",0.3,0.163673,0.119871
+2 Market hold-out,"Random forest, 10,000 rows",0.325,0.145647,0.087274
+2 Market hold-out,"Random forest, 10,000 rows",0.35,0.128423,0.052169
+2 Market hold-out,"Random forest, 10,000 rows",0.375,0.112316,0.014256
+2 Market hold-out,"Random forest, 10,000 rows",0.4,0.097758,-0.026817
+2 Market hold-out,"Random forest, 10,000 rows",0.425,0.084193,-0.071461
+2 Market hold-out,"Random forest, 10,000 rows",0.45,0.071668,-0.120164
+2 Market hold-out,"Random forest, 10,000 rows",0.475,0.059135,-0.173505
+2 Market hold-out,"Random forest, 10,000 rows",0.5,0.048824,-0.23218
+2 Market hold-out,"Random forest, 10,000 rows",0.525,0.039856,-0.297032
+2 Market hold-out,"Random forest, 10,000 rows",0.55,0.032493,-0.369089
+2 Market hold-out,"Random forest, 10,000 rows",0.575,0.026227,-0.449624
+2 Market hold-out,"Random forest, 10,000 rows",0.6,0.021343,-0.540225
+2 Market hold-out,"Random forest, 10,000 rows",0.625,0.016676,-0.642907
+2 Market hold-out,"Random forest, 10,000 rows",0.65,0.013045,-0.760257
+2 Market hold-out,"Random forest, 10,000 rows",0.675,0.009483,-0.895662
+2 Market hold-out,"Random forest, 10,000 rows",0.7,0.006858,-1.053633
+2 Market hold-out,"Random forest, 10,000 rows",0.725,0.004728,-1.240327
+2 Market hold-out,"Random forest, 10,000 rows",0.75,0.00265,-1.46436
+2 Market hold-out,"Random forest, 10,000 rows",0.775,0.00148,-1.738178
+2 Market hold-out,"Random forest, 10,000 rows",0.8,0.000706,-2.08045
+2 Market hold-out,"Random forest, 10,000 rows",0.825,0.000315,-2.520514
+2 Market hold-out,"Random forest, 10,000 rows",0.85,5.6e-05,-3.107267
+2 Market hold-out,"Random forest, 10,000 rows",0.875,-8e-06,-3.92872
+2 Market hold-out,"Random forest, 10,000 rows",0.9,4e-06,-5.1609
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.05,0.350296,0.351484
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.075,0.331977,0.333957
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.1,0.313877,0.315456
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.125,0.295849,0.295897
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.15,0.278239,0.275188
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.175,0.260855,0.253224
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.2,0.243697,0.229887
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.225,0.226379,0.205045
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.25,0.209014,0.178547
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.275,0.191988,0.150221
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.3,0.175171,0.119871
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.325,0.158554,0.087274
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.35,0.142432,0.052169
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.375,0.126502,0.014256
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.4,0.111215,-0.026817
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.425,0.096421,-0.071461
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.45,0.082761,-0.120164
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.475,0.070005,-0.173505
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.5,0.05865,-0.23218
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.525,0.048089,-0.297032
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.55,0.03929,-0.369089
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.575,0.031316,-0.449624
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.6,0.024653,-0.540225
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.625,0.019351,-0.642907
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.65,0.014281,-0.760257
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.675,0.010334,-0.895662
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.7,0.006883,-1.053633
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.725,0.004575,-1.240327
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.75,0.0023,-1.46436
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.775,0.00077,-1.738178
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.8,-8e-06,-2.08045
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.825,-0.001183,-2.520514
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.85,-0.00103,-3.107267
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.875,-0.000966,-3.92872
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.9,-0.001228,-5.1609
+2 Market hold-out,"TabPFN, 10,000 rows",0.05,0.350001,0.351484
+2 Market hold-out,"TabPFN, 10,000 rows",0.075,0.332839,0.333957
+2 Market hold-out,"TabPFN, 10,000 rows",0.1,0.315236,0.315456
+2 Market hold-out,"TabPFN, 10,000 rows",0.125,0.297573,0.295897
+2 Market hold-out,"TabPFN, 10,000 rows",0.15,0.279613,0.275188
+2 Market hold-out,"TabPFN, 10,000 rows",0.175,0.261815,0.253224
+2 Market hold-out,"TabPFN, 10,000 rows",0.2,0.243861,0.229887
+2 Market hold-out,"TabPFN, 10,000 rows",0.225,0.22578,0.205045
+2 Market hold-out,"TabPFN, 10,000 rows",0.25,0.207344,0.178547
+2 Market hold-out,"TabPFN, 10,000 rows",0.275,0.188896,0.150221
+2 Market hold-out,"TabPFN, 10,000 rows",0.3,0.170139,0.119871
+2 Market hold-out,"TabPFN, 10,000 rows",0.325,0.152429,0.087274
+2 Market hold-out,"TabPFN, 10,000 rows",0.35,0.135438,0.052169
+2 Market hold-out,"TabPFN, 10,000 rows",0.375,0.119273,0.014256
+2 Market hold-out,"TabPFN, 10,000 rows",0.4,0.104134,-0.026817
+2 Market hold-out,"TabPFN, 10,000 rows",0.425,0.091238,-0.071461
+2 Market hold-out,"TabPFN, 10,000 rows",0.45,0.079062,-0.120164
+2 Market hold-out,"TabPFN, 10,000 rows",0.475,0.067902,-0.173505
+2 Market hold-out,"TabPFN, 10,000 rows",0.5,0.058134,-0.23218
+2 Market hold-out,"TabPFN, 10,000 rows",0.525,0.049342,-0.297032
+2 Market hold-out,"TabPFN, 10,000 rows",0.55,0.042131,-0.369089
+2 Market hold-out,"TabPFN, 10,000 rows",0.575,0.035767,-0.449624
+2 Market hold-out,"TabPFN, 10,000 rows",0.6,0.030134,-0.540225
+2 Market hold-out,"TabPFN, 10,000 rows",0.625,0.025657,-0.642907
+2 Market hold-out,"TabPFN, 10,000 rows",0.65,0.02158,-0.760257
+2 Market hold-out,"TabPFN, 10,000 rows",0.675,0.018073,-0.895662
+2 Market hold-out,"TabPFN, 10,000 rows",0.7,0.015483,-1.053633
+2 Market hold-out,"TabPFN, 10,000 rows",0.725,0.012483,-1.240327
+2 Market hold-out,"TabPFN, 10,000 rows",0.75,0.009864,-1.46436
+2 Market hold-out,"TabPFN, 10,000 rows",0.775,0.007189,-1.738178
+2 Market hold-out,"TabPFN, 10,000 rows",0.8,0.004958,-2.08045
+2 Market hold-out,"TabPFN, 10,000 rows",0.825,0.003068,-2.520514
+2 Market hold-out,"TabPFN, 10,000 rows",0.85,0.001734,-3.107267
+2 Market hold-out,"TabPFN, 10,000 rows",0.875,0.000848,-3.92872
+2 Market hold-out,"TabPFN, 10,000 rows",0.9,0.0005,-5.1609
+3 Temporal (pre to post),"Logistic regression, full fold",0.05,0.357421,0.359032
+3 Temporal (pre to post),"Logistic regression, full fold",0.075,0.340172,0.341708
+3 Temporal (pre to post),"Logistic regression, full fold",0.1,0.321871,0.323422
+3 Temporal (pre to post),"Logistic regression, full fold",0.125,0.302506,0.304091
+3 Temporal (pre to post),"Logistic regression, full fold",0.15,0.282617,0.283624
+3 Temporal (pre to post),"Logistic regression, full fold",0.175,0.262668,0.261915
+3 Temporal (pre to post),"Logistic regression, full fold",0.2,0.24205,0.23885
+3 Temporal (pre to post),"Logistic regression, full fold",0.225,0.221218,0.214297
+3 Temporal (pre to post),"Logistic regression, full fold",0.25,0.200313,0.188107
+3 Temporal (pre to post),"Logistic regression, full fold",0.275,0.178841,0.16011
+3 Temporal (pre to post),"Logistic regression, full fold",0.3,0.157399,0.130114
+3 Temporal (pre to post),"Logistic regression, full fold",0.325,0.13572,0.097896
+3 Temporal (pre to post),"Logistic regression, full fold",0.35,0.115445,0.0632
+3 Temporal (pre to post),"Logistic regression, full fold",0.375,0.095068,0.025728
+3 Temporal (pre to post),"Logistic regression, full fold",0.4,0.076057,-0.014867
+3 Temporal (pre to post),"Logistic regression, full fold",0.425,0.057874,-0.058991
+3 Temporal (pre to post),"Logistic regression, full fold",0.45,0.041224,-0.107127
+3 Temporal (pre to post),"Logistic regression, full fold",0.475,0.026504,-0.159848
+3 Temporal (pre to post),"Logistic regression, full fold",0.5,0.01309,-0.21784
+3 Temporal (pre to post),"Logistic regression, full fold",0.525,0.002916,-0.281937
+3 Temporal (pre to post),"Logistic regression, full fold",0.55,-0.003619,-0.353156
+3 Temporal (pre to post),"Logistic regression, full fold",0.575,-0.008284,-0.432753
+3 Temporal (pre to post),"Logistic regression, full fold",0.6,-0.01066,-0.5223
+3 Temporal (pre to post),"Logistic regression, full fold",0.625,-0.011803,-0.623787
+3 Temporal (pre to post),"Logistic regression, full fold",0.65,-0.01034,-0.739771
+3 Temporal (pre to post),"Logistic regression, full fold",0.675,-0.008606,-0.8736
+3 Temporal (pre to post),"Logistic regression, full fold",0.7,-0.006103,-1.029733
+3 Temporal (pre to post),"Logistic regression, full fold",0.725,-0.004803,-1.214255
+3 Temporal (pre to post),"Logistic regression, full fold",0.75,-0.00322,-1.43568
+3 Temporal (pre to post),"Logistic regression, full fold",0.775,-0.002193,-1.706311
+3 Temporal (pre to post),"Logistic regression, full fold",0.8,-0.00154,-2.0446
+3 Temporal (pre to post),"Logistic regression, full fold",0.825,-0.001029,-2.479543
+3 Temporal (pre to post),"Logistic regression, full fold",0.85,-0.000647,-3.059467
+3 Temporal (pre to post),"Logistic regression, full fold",0.875,-0.00051,-3.87136
+3 Temporal (pre to post),"Logistic regression, full fold",0.9,-0.0007,-5.0892
+3 Temporal (pre to post),"Random forest, full fold",0.05,0.359746,0.359032
+3 Temporal (pre to post),"Random forest, full fold",0.075,0.343378,0.341708
+3 Temporal (pre to post),"Random forest, full fold",0.1,0.327659,0.323422
+3 Temporal (pre to post),"Random forest, full fold",0.125,0.312651,0.304091
+3 Temporal (pre to post),"Random forest, full fold",0.15,0.298105,0.283624
+3 Temporal (pre to post),"Random forest, full fold",0.175,0.284314,0.261915
+3 Temporal (pre to post),"Random forest, full fold",0.2,0.270585,0.23885
+3 Temporal (pre to post),"Random forest, full fold",0.225,0.257099,0.214297
+3 Temporal (pre to post),"Random forest, full fold",0.25,0.243477,0.188107
+3 Temporal (pre to post),"Random forest, full fold",0.275,0.230385,0.16011
+3 Temporal (pre to post),"Random forest, full fold",0.3,0.21744,0.130114
+3 Temporal (pre to post),"Random forest, full fold",0.325,0.204406,0.097896
+3 Temporal (pre to post),"Random forest, full fold",0.35,0.192452,0.0632
+3 Temporal (pre to post),"Random forest, full fold",0.375,0.179834,0.025728
+3 Temporal (pre to post),"Random forest, full fold",0.4,0.16756,-0.014867
+3 Temporal (pre to post),"Random forest, full fold",0.425,0.155877,-0.058991
+3 Temporal (pre to post),"Random forest, full fold",0.45,0.143502,-0.107127
+3 Temporal (pre to post),"Random forest, full fold",0.475,0.132526,-0.159848
+3 Temporal (pre to post),"Random forest, full fold",0.5,0.12081,-0.21784
+3 Temporal (pre to post),"Random forest, full fold",0.525,0.109531,-0.281937
+3 Temporal (pre to post),"Random forest, full fold",0.55,0.097514,-0.353156
+3 Temporal (pre to post),"Random forest, full fold",0.575,0.086729,-0.432753
+3 Temporal (pre to post),"Random forest, full fold",0.6,0.075705,-0.5223
+3 Temporal (pre to post),"Random forest, full fold",0.625,0.065577,-0.623787
+3 Temporal (pre to post),"Random forest, full fold",0.65,0.05549,-0.739771
+3 Temporal (pre to post),"Random forest, full fold",0.675,0.046061,-0.8736
+3 Temporal (pre to post),"Random forest, full fold",0.7,0.038093,-1.029733
+3 Temporal (pre to post),"Random forest, full fold",0.725,0.031065,-1.214255
+3 Temporal (pre to post),"Random forest, full fold",0.75,0.02508,-1.43568
+3 Temporal (pre to post),"Random forest, full fold",0.775,0.019727,-1.706311
+3 Temporal (pre to post),"Random forest, full fold",0.8,0.01557,-2.0446
+3 Temporal (pre to post),"Random forest, full fold",0.825,0.011793,-2.479543
+3 Temporal (pre to post),"Random forest, full fold",0.85,0.008403,-3.059467
+3 Temporal (pre to post),"Random forest, full fold",0.875,0.00524,-3.87136
+3 Temporal (pre to post),"Random forest, full fold",0.9,0.0027,-5.0892
+3 Temporal (pre to post),"Gradient boosting, full fold",0.05,0.354874,0.359032
+3 Temporal (pre to post),"Gradient boosting, full fold",0.075,0.339872,0.341708
+3 Temporal (pre to post),"Gradient boosting, full fold",0.1,0.32603,0.323422
+3 Temporal (pre to post),"Gradient boosting, full fold",0.125,0.312549,0.304091
+3 Temporal (pre to post),"Gradient boosting, full fold",0.15,0.299541,0.283624
+3 Temporal (pre to post),"Gradient boosting, full fold",0.175,0.286035,0.261915
+3 Temporal (pre to post),"Gradient boosting, full fold",0.2,0.273205,0.23885
+3 Temporal (pre to post),"Gradient boosting, full fold",0.225,0.259723,0.214297
+3 Temporal (pre to post),"Gradient boosting, full fold",0.25,0.246857,0.188107
+3 Temporal (pre to post),"Gradient boosting, full fold",0.275,0.234219,0.16011
+3 Temporal (pre to post),"Gradient boosting, full fold",0.3,0.221679,0.130114
+3 Temporal (pre to post),"Gradient boosting, full fold",0.325,0.208954,0.097896
+3 Temporal (pre to post),"Gradient boosting, full fold",0.35,0.197712,0.0632
+3 Temporal (pre to post),"Gradient boosting, full fold",0.375,0.185866,0.025728
+3 Temporal (pre to post),"Gradient boosting, full fold",0.4,0.17484,-0.014867
+3 Temporal (pre to post),"Gradient boosting, full fold",0.425,0.164242,-0.058991
+3 Temporal (pre to post),"Gradient boosting, full fold",0.45,0.153577,-0.107127
+3 Temporal (pre to post),"Gradient boosting, full fold",0.475,0.143471,-0.159848
+3 Temporal (pre to post),"Gradient boosting, full fold",0.5,0.13288,-0.21784
+3 Temporal (pre to post),"Gradient boosting, full fold",0.525,0.123423,-0.281937
+3 Temporal (pre to post),"Gradient boosting, full fold",0.55,0.114138,-0.353156
+3 Temporal (pre to post),"Gradient boosting, full fold",0.575,0.105187,-0.432753
+3 Temporal (pre to post),"Gradient boosting, full fold",0.6,0.09629,-0.5223
+3 Temporal (pre to post),"Gradient boosting, full fold",0.625,0.08741,-0.623787
+3 Temporal (pre to post),"Gradient boosting, full fold",0.65,0.078721,-0.739771
+3 Temporal (pre to post),"Gradient boosting, full fold",0.675,0.070382,-0.8736
+3 Temporal (pre to post),"Gradient boosting, full fold",0.7,0.06261,-1.029733
+3 Temporal (pre to post),"Gradient boosting, full fold",0.725,0.056062,-1.214255
+3 Temporal (pre to post),"Gradient boosting, full fold",0.75,0.04862,-1.43568
+3 Temporal (pre to post),"Gradient boosting, full fold",0.775,0.041268,-1.706311
+3 Temporal (pre to post),"Gradient boosting, full fold",0.8,0.03558,-2.0446
+3 Temporal (pre to post),"Gradient boosting, full fold",0.825,0.030509,-2.479543
+3 Temporal (pre to post),"Gradient boosting, full fold",0.85,0.025627,-3.059467
+3 Temporal (pre to post),"Gradient boosting, full fold",0.875,0.02036,-3.87136
+3 Temporal (pre to post),"Gradient boosting, full fold",0.9,0.01512,-5.0892
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.05,0.353472,0.359032
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.075,0.335892,0.341708
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.1,0.317566,0.323422
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.125,0.298591,0.304091
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.15,0.279544,0.283624
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.175,0.260219,0.261915
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.2,0.240378,0.23885
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.225,0.219557,0.214297
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.25,0.19788,0.188107
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.275,0.1765,0.16011
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.3,0.15405,0.130114
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.325,0.132266,0.097896
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.35,0.110312,0.0632
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.375,0.090022,0.025728
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.4,0.07045,-0.014867
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.425,0.051904,-0.058991
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.45,0.034405,-0.107127
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.475,0.01964,-0.159848
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.5,0.00801,-0.21784
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.525,-0.001252,-0.281937
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.55,-0.005814,-0.353156
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.575,-0.009671,-0.432753
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.6,-0.011105,-0.5223
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.625,-0.011557,-0.623787
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.65,-0.010376,-0.739771
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.675,-0.008227,-0.8736
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.7,-0.005537,-1.029733
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.725,-0.003511,-1.214255
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.75,-0.00228,-1.43568
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.775,-0.0015,-1.706311
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.8,-0.001,-2.0446
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.825,-0.000674,-2.479543
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.85,-0.000507,-3.059467
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.875,-0.00031,-3.87136
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.9,-0.00025,-5.0892
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.05,0.359417,0.359032
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.075,0.342676,0.341708
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.1,0.325472,0.323422
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.125,0.30815,0.304091
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.15,0.290718,0.283624
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.175,0.27293,0.261915
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.2,0.255397,0.23885
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.225,0.237861,0.214297
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.25,0.220867,0.188107
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.275,0.203775,0.16011
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.3,0.188426,0.130114
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.325,0.172979,0.097896
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.35,0.158902,0.0632
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.375,0.144162,0.025728
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.4,0.130187,-0.014867
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.425,0.11768,-0.058991
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.45,0.104996,-0.107127
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.475,0.091871,-0.159848
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.5,0.0786,-0.21784
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.525,0.06631,-0.281937
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.55,0.056229,-0.353156
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.575,0.044329,-0.432753
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.6,0.035605,-0.5223
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.625,0.026823,-0.623787
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.65,0.020084,-0.739771
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.675,0.014568,-0.8736
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.7,0.009983,-1.029733
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.725,0.006409,-1.214255
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.75,0.00357,-1.43568
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.775,0.001533,-1.706311
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.8,0.00072,-2.0446
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.825,0.000383,-2.479543
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.85,0.00023,-3.059467
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.875,6e-05,-3.87136
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.9,2e-05,-5.0892
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.05,0.354724,0.359032
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.075,0.337281,0.341708
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.1,0.320842,0.323422
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.125,0.304949,0.304091
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.15,0.288465,0.283624
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.175,0.272841,0.261915
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.2,0.257232,0.23885
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.225,0.241457,0.214297
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.25,0.22574,0.188107
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.275,0.210477,0.16011
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.3,0.196076,0.130114
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.325,0.181434,0.097896
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.35,0.166888,0.0632
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.375,0.153206,0.025728
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.4,0.13983,-0.014867
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.425,0.128447,-0.058991
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.45,0.116754,-0.107127
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.475,0.106126,-0.159848
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.5,0.09594,-0.21784
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.525,0.085841,-0.281937
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.55,0.076063,-0.353156
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.575,0.067788,-0.432753
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.6,0.05908,-0.5223
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.625,0.051843,-0.623787
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.65,0.044447,-0.739771
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.675,0.038091,-0.8736
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.7,0.032803,-1.029733
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.725,0.028133,-1.214255
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.75,0.02299,-1.43568
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.775,0.018453,-1.706311
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.8,0.01455,-2.0446
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.825,0.011493,-2.479543
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.85,0.007673,-3.059467
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.875,0.00534,-3.87136
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.9,0.00308,-5.0892
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.05,0.355415,0.359032
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.075,0.337411,0.341708
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.1,0.320547,0.323422
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.125,0.304457,0.304091
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.15,0.288546,0.283624
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.175,0.272475,0.261915
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.2,0.25637,0.23885
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.225,0.240607,0.214297
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.25,0.224893,0.188107
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.275,0.208601,0.16011
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.3,0.192169,0.130114
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.325,0.176014,0.097896
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.35,0.160057,0.0632
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.375,0.145892,0.025728
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.4,0.13138,-0.014867
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.425,0.11807,-0.058991
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.45,0.105278,-0.107127
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.475,0.093543,-0.159848
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.5,0.08246,-0.21784
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.525,0.071468,-0.281937
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.55,0.060844,-0.353156
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.575,0.051572,-0.432753
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.6,0.04396,-0.5223
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.625,0.037323,-0.623787
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.65,0.031753,-0.739771
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.675,0.026872,-0.8736
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.7,0.022237,-1.029733
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.725,0.018094,-1.214255
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.75,0.01379,-1.43568
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.775,0.010417,-1.706311
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.8,0.00778,-2.0446
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.825,0.005177,-2.479543
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.85,0.003083,-3.059467
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.875,0.00202,-3.87136
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.9,0.00092,-5.0892
+4 Host hold-out,"Logistic regression, full fold",0.05,0.350166,0.349432
+4 Host hold-out,"Logistic regression, full fold",0.075,0.333497,0.331849
+4 Host hold-out,"Logistic regression, full fold",0.1,0.316245,0.313289
+4 Host hold-out,"Logistic regression, full fold",0.125,0.298483,0.293669
+4 Host hold-out,"Logistic regression, full fold",0.15,0.28056,0.272894
+4 Host hold-out,"Logistic regression, full fold",0.175,0.262539,0.250861
+4 Host hold-out,"Logistic regression, full fold",0.2,0.24436,0.22745
+4 Host hold-out,"Logistic regression, full fold",0.225,0.225626,0.202529
+4 Host hold-out,"Logistic regression, full fold",0.25,0.206489,0.175947
+4 Host hold-out,"Logistic regression, full fold",0.275,0.18729,0.147531
+4 Host hold-out,"Logistic regression, full fold",0.3,0.168567,0.117086
+4 Host hold-out,"Logistic regression, full fold",0.325,0.149987,0.084385
+4 Host hold-out,"Logistic regression, full fold",0.35,0.131629,0.049169
+4 Host hold-out,"Logistic regression, full fold",0.375,0.114041,0.011136
+4 Host hold-out,"Logistic regression, full fold",0.4,0.09738,-0.030067
+4 Host hold-out,"Logistic regression, full fold",0.425,0.080811,-0.074852
+4 Host hold-out,"Logistic regression, full fold",0.45,0.06553,-0.123709
+4 Host hold-out,"Logistic regression, full fold",0.475,0.05029,-0.177219
+4 Host hold-out,"Logistic regression, full fold",0.5,0.037098,-0.23608
+4 Host hold-out,"Logistic regression, full fold",0.525,0.025286,-0.301137
+4 Host hold-out,"Logistic regression, full fold",0.55,0.015565,-0.373422
+4 Host hold-out,"Logistic regression, full fold",0.575,0.008008,-0.454212
+4 Host hold-out,"Logistic regression, full fold",0.6,0.002294,-0.5451
+4 Host hold-out,"Logistic regression, full fold",0.625,-0.001007,-0.648107
+4 Host hold-out,"Logistic regression, full fold",0.65,-0.003445,-0.765829
+4 Host hold-out,"Logistic regression, full fold",0.675,-0.00496,-0.901662
+4 Host hold-out,"Logistic regression, full fold",0.7,-0.005913,-1.060133
+4 Host hold-out,"Logistic regression, full fold",0.725,-0.006696,-1.247418
+4 Host hold-out,"Logistic regression, full fold",0.75,-0.00735,-1.47216
+4 Host hold-out,"Logistic regression, full fold",0.775,-0.008064,-1.746844
+4 Host hold-out,"Logistic regression, full fold",0.8,-0.008904,-2.0902
+4 Host hold-out,"Logistic regression, full fold",0.825,-0.009333,-2.531657
+4 Host hold-out,"Logistic regression, full fold",0.85,-0.008849,-3.120267
+4 Host hold-out,"Logistic regression, full fold",0.875,-0.00754,-3.94432
+4 Host hold-out,"Logistic regression, full fold",0.9,-0.00507,-5.1804
+4 Host hold-out,"Random forest, full fold",0.05,0.352406,0.349432
+4 Host hold-out,"Random forest, full fold",0.075,0.338202,0.331849
+4 Host hold-out,"Random forest, full fold",0.1,0.324582,0.313289
+4 Host hold-out,"Random forest, full fold",0.125,0.311657,0.293669
+4 Host hold-out,"Random forest, full fold",0.15,0.298984,0.272894
+4 Host hold-out,"Random forest, full fold",0.175,0.286751,0.250861
+4 Host hold-out,"Random forest, full fold",0.2,0.274517,0.22745
+4 Host hold-out,"Random forest, full fold",0.225,0.262689,0.202529
+4 Host hold-out,"Random forest, full fold",0.25,0.250874,0.175947
+4 Host hold-out,"Random forest, full fold",0.275,0.23893,0.147531
+4 Host hold-out,"Random forest, full fold",0.3,0.227163,0.117086
+4 Host hold-out,"Random forest, full fold",0.325,0.215922,0.084385
+4 Host hold-out,"Random forest, full fold",0.35,0.204929,0.049169
+4 Host hold-out,"Random forest, full fold",0.375,0.194509,0.011136
+4 Host hold-out,"Random forest, full fold",0.4,0.184495,-0.030067
+4 Host hold-out,"Random forest, full fold",0.425,0.174698,-0.074852
+4 Host hold-out,"Random forest, full fold",0.45,0.165362,-0.123709
+4 Host hold-out,"Random forest, full fold",0.475,0.15594,-0.177219
+4 Host hold-out,"Random forest, full fold",0.5,0.146534,-0.23608
+4 Host hold-out,"Random forest, full fold",0.525,0.137148,-0.301137
+4 Host hold-out,"Random forest, full fold",0.55,0.127176,-0.373422
+4 Host hold-out,"Random forest, full fold",0.575,0.117263,-0.454212
+4 Host hold-out,"Random forest, full fold",0.6,0.106693,-0.5451
+4 Host hold-out,"Random forest, full fold",0.625,0.096158,-0.648107
+4 Host hold-out,"Random forest, full fold",0.65,0.08477,-0.765829
+4 Host hold-out,"Random forest, full fold",0.675,0.073836,-0.901662
+4 Host hold-out,"Random forest, full fold",0.7,0.063567,-1.060133
+4 Host hold-out,"Random forest, full fold",0.725,0.053829,-1.247418
+4 Host hold-out,"Random forest, full fold",0.75,0.044636,-1.47216
+4 Host hold-out,"Random forest, full fold",0.775,0.036031,-1.746844
+4 Host hold-out,"Random forest, full fold",0.8,0.028448,-2.0902
+4 Host hold-out,"Random forest, full fold",0.825,0.02118,-2.531657
+4 Host hold-out,"Random forest, full fold",0.85,0.015043,-3.120267
+4 Host hold-out,"Random forest, full fold",0.875,0.009862,-3.94432
+4 Host hold-out,"Random forest, full fold",0.9,0.006058,-5.1804
+4 Host hold-out,"Gradient boosting, full fold",0.05,0.353926,0.349432
+4 Host hold-out,"Gradient boosting, full fold",0.075,0.340707,0.331849
+4 Host hold-out,"Gradient boosting, full fold",0.1,0.327856,0.313289
+4 Host hold-out,"Gradient boosting, full fold",0.125,0.31534,0.293669
+4 Host hold-out,"Gradient boosting, full fold",0.15,0.302933,0.272894
+4 Host hold-out,"Gradient boosting, full fold",0.175,0.290788,0.250861
+4 Host hold-out,"Gradient boosting, full fold",0.2,0.278828,0.22745
+4 Host hold-out,"Gradient boosting, full fold",0.225,0.267112,0.202529
+4 Host hold-out,"Gradient boosting, full fold",0.25,0.255635,0.175947
+4 Host hold-out,"Gradient boosting, full fold",0.275,0.244335,0.147531
+4 Host hold-out,"Gradient boosting, full fold",0.3,0.233025,0.117086
+4 Host hold-out,"Gradient boosting, full fold",0.325,0.222004,0.084385
+4 Host hold-out,"Gradient boosting, full fold",0.35,0.211225,0.049169
+4 Host hold-out,"Gradient boosting, full fold",0.375,0.200855,0.011136
+4 Host hold-out,"Gradient boosting, full fold",0.4,0.19089,-0.030067
+4 Host hold-out,"Gradient boosting, full fold",0.425,0.181274,-0.074852
+4 Host hold-out,"Gradient boosting, full fold",0.45,0.171703,-0.123709
+4 Host hold-out,"Gradient boosting, full fold",0.475,0.162052,-0.177219
+4 Host hold-out,"Gradient boosting, full fold",0.5,0.152504,-0.23608
+4 Host hold-out,"Gradient boosting, full fold",0.525,0.143016,-0.301137
+4 Host hold-out,"Gradient boosting, full fold",0.55,0.133486,-0.373422
+4 Host hold-out,"Gradient boosting, full fold",0.575,0.124531,-0.454212
+4 Host hold-out,"Gradient boosting, full fold",0.6,0.115593,-0.5451
+4 Host hold-out,"Gradient boosting, full fold",0.625,0.106793,-0.648107
+4 Host hold-out,"Gradient boosting, full fold",0.65,0.098067,-0.765829
+4 Host hold-out,"Gradient boosting, full fold",0.675,0.089218,-0.901662
+4 Host hold-out,"Gradient boosting, full fold",0.7,0.081266,-1.060133
+4 Host hold-out,"Gradient boosting, full fold",0.725,0.072836,-1.247418
+4 Host hold-out,"Gradient boosting, full fold",0.75,0.064372,-1.47216
+4 Host hold-out,"Gradient boosting, full fold",0.775,0.056033,-1.746844
+4 Host hold-out,"Gradient boosting, full fold",0.8,0.048164,-2.0902
+4 Host hold-out,"Gradient boosting, full fold",0.825,0.040115,-2.531657
+4 Host hold-out,"Gradient boosting, full fold",0.85,0.032428,-3.120267
+4 Host hold-out,"Gradient boosting, full fold",0.875,0.025488,-3.94432
+4 Host hold-out,"Gradient boosting, full fold",0.9,0.018804,-5.1804
+4 Host hold-out,"Logistic regression, 10,000 rows",0.05,0.34969,0.349432
+4 Host hold-out,"Logistic regression, 10,000 rows",0.075,0.332921,0.331849
+4 Host hold-out,"Logistic regression, 10,000 rows",0.1,0.315781,0.313289
+4 Host hold-out,"Logistic regression, 10,000 rows",0.125,0.298251,0.293669
+4 Host hold-out,"Logistic regression, 10,000 rows",0.15,0.280494,0.272894
+4 Host hold-out,"Logistic regression, 10,000 rows",0.175,0.262522,0.250861
+4 Host hold-out,"Logistic regression, 10,000 rows",0.2,0.244078,0.22745
+4 Host hold-out,"Logistic regression, 10,000 rows",0.225,0.225393,0.202529
+4 Host hold-out,"Logistic regression, 10,000 rows",0.25,0.206179,0.175947
+4 Host hold-out,"Logistic regression, 10,000 rows",0.275,0.187118,0.147531
+4 Host hold-out,"Logistic regression, 10,000 rows",0.3,0.168247,0.117086
+4 Host hold-out,"Logistic regression, 10,000 rows",0.325,0.149434,0.084385
+4 Host hold-out,"Logistic regression, 10,000 rows",0.35,0.130707,0.049169
+4 Host hold-out,"Logistic regression, 10,000 rows",0.375,0.11329,0.011136
+4 Host hold-out,"Logistic regression, 10,000 rows",0.4,0.095925,-0.030067
+4 Host hold-out,"Logistic regression, 10,000 rows",0.425,0.079172,-0.074852
+4 Host hold-out,"Logistic regression, 10,000 rows",0.45,0.063827,-0.123709
+4 Host hold-out,"Logistic regression, 10,000 rows",0.475,0.049633,-0.177219
+4 Host hold-out,"Logistic regression, 10,000 rows",0.5,0.035734,-0.23608
+4 Host hold-out,"Logistic regression, 10,000 rows",0.525,0.024319,-0.301137
+4 Host hold-out,"Logistic regression, 10,000 rows",0.55,0.014603,-0.373422
+4 Host hold-out,"Logistic regression, 10,000 rows",0.575,0.006899,-0.454212
+4 Host hold-out,"Logistic regression, 10,000 rows",0.6,0.001672,-0.5451
+4 Host hold-out,"Logistic regression, 10,000 rows",0.625,-0.002469,-0.648107
+4 Host hold-out,"Logistic regression, 10,000 rows",0.65,-0.00443,-0.765829
+4 Host hold-out,"Logistic regression, 10,000 rows",0.675,-0.005514,-0.901662
+4 Host hold-out,"Logistic regression, 10,000 rows",0.7,-0.006297,-1.060133
+4 Host hold-out,"Logistic regression, 10,000 rows",0.725,-0.006945,-1.247418
+4 Host hold-out,"Logistic regression, 10,000 rows",0.75,-0.007442,-1.47216
+4 Host hold-out,"Logistic regression, 10,000 rows",0.775,-0.008129,-1.746844
+4 Host hold-out,"Logistic regression, 10,000 rows",0.8,-0.009038,-2.0902
+4 Host hold-out,"Logistic regression, 10,000 rows",0.825,-0.010096,-2.531657
+4 Host hold-out,"Logistic regression, 10,000 rows",0.85,-0.010707,-3.120267
+4 Host hold-out,"Logistic regression, 10,000 rows",0.875,-0.009974,-3.94432
+4 Host hold-out,"Logistic regression, 10,000 rows",0.9,-0.008072,-5.1804
+4 Host hold-out,"Random forest, 10,000 rows",0.05,0.350107,0.349432
+4 Host hold-out,"Random forest, 10,000 rows",0.075,0.333891,0.331849
+4 Host hold-out,"Random forest, 10,000 rows",0.1,0.317568,0.313289
+4 Host hold-out,"Random forest, 10,000 rows",0.125,0.301331,0.293669
+4 Host hold-out,"Random forest, 10,000 rows",0.15,0.285209,0.272894
+4 Host hold-out,"Random forest, 10,000 rows",0.175,0.269458,0.250861
+4 Host hold-out,"Random forest, 10,000 rows",0.2,0.254178,0.22745
+4 Host hold-out,"Random forest, 10,000 rows",0.225,0.239547,0.202529
+4 Host hold-out,"Random forest, 10,000 rows",0.25,0.225205,0.175947
+4 Host hold-out,"Random forest, 10,000 rows",0.275,0.211632,0.147531
+4 Host hold-out,"Random forest, 10,000 rows",0.3,0.198193,0.117086
+4 Host hold-out,"Random forest, 10,000 rows",0.325,0.185264,0.084385
+4 Host hold-out,"Random forest, 10,000 rows",0.35,0.172429,0.049169
+4 Host hold-out,"Random forest, 10,000 rows",0.375,0.159764,0.011136
+4 Host hold-out,"Random forest, 10,000 rows",0.4,0.147901,-0.030067
+4 Host hold-out,"Random forest, 10,000 rows",0.425,0.136,-0.074852
+4 Host hold-out,"Random forest, 10,000 rows",0.45,0.124279,-0.123709
+4 Host hold-out,"Random forest, 10,000 rows",0.475,0.11339,-0.177219
+4 Host hold-out,"Random forest, 10,000 rows",0.5,0.101994,-0.23608
+4 Host hold-out,"Random forest, 10,000 rows",0.525,0.09066,-0.301137
+4 Host hold-out,"Random forest, 10,000 rows",0.55,0.079534,-0.373422
+4 Host hold-out,"Random forest, 10,000 rows",0.575,0.068126,-0.454212
+4 Host hold-out,"Random forest, 10,000 rows",0.6,0.056676,-0.5451
+4 Host hold-out,"Random forest, 10,000 rows",0.625,0.045774,-0.648107
+4 Host hold-out,"Random forest, 10,000 rows",0.65,0.035847,-0.765829
+4 Host hold-out,"Random forest, 10,000 rows",0.675,0.026861,-0.901662
+4 Host hold-out,"Random forest, 10,000 rows",0.7,0.019091,-1.060133
+4 Host hold-out,"Random forest, 10,000 rows",0.725,0.012761,-1.247418
+4 Host hold-out,"Random forest, 10,000 rows",0.75,0.007724,-1.47216
+4 Host hold-out,"Random forest, 10,000 rows",0.775,0.004246,-1.746844
+4 Host hold-out,"Random forest, 10,000 rows",0.8,0.001986,-2.0902
+4 Host hold-out,"Random forest, 10,000 rows",0.825,0.000752,-2.531657
+4 Host hold-out,"Random forest, 10,000 rows",0.85,0.000299,-3.120267
+4 Host hold-out,"Random forest, 10,000 rows",0.875,8.2e-05,-3.94432
+4 Host hold-out,"Random forest, 10,000 rows",0.9,2.6e-05,-5.1804
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.05,0.352206,0.349432
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.075,0.337287,0.331849
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.1,0.322689,0.313289
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.125,0.308598,0.293669
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.15,0.294332,0.272894
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.175,0.280233,0.250861
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.2,0.266322,0.22745
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.225,0.252084,0.202529
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.25,0.238198,0.175947
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.275,0.224379,0.147531
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.3,0.210615,0.117086
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.325,0.197112,0.084385
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.35,0.183986,0.049169
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.375,0.171373,0.011136
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.4,0.158927,-0.030067
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.425,0.146886,-0.074852
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.45,0.135345,-0.123709
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.475,0.124041,-0.177219
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.5,0.113244,-0.23608
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.525,0.103274,-0.301137
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.55,0.094256,-0.373422
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.575,0.085415,-0.454212
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.6,0.076952,-0.5451
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.625,0.068716,-0.648107
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.65,0.061053,-0.765829
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.675,0.053338,-0.901662
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.7,0.045731,-1.060133
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.725,0.038627,-1.247418
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.75,0.031668,-1.47216
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.775,0.024612,-1.746844
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.8,0.019038,-2.0902
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.825,0.013809,-2.531657
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.85,0.009,-3.120267
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.875,0.005604,-3.94432
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.9,0.002618,-5.1804
+4 Host hold-out,"TabPFN, 10,000 rows",0.05,0.352568,0.349432
+4 Host hold-out,"TabPFN, 10,000 rows",0.075,0.338023,0.331849
+4 Host hold-out,"TabPFN, 10,000 rows",0.1,0.323679,0.313289
+4 Host hold-out,"TabPFN, 10,000 rows",0.125,0.309391,0.293669
+4 Host hold-out,"TabPFN, 10,000 rows",0.15,0.29526,0.272894
+4 Host hold-out,"TabPFN, 10,000 rows",0.175,0.280932,0.250861
+4 Host hold-out,"TabPFN, 10,000 rows",0.2,0.26661,0.22745
+4 Host hold-out,"TabPFN, 10,000 rows",0.225,0.251994,0.202529
+4 Host hold-out,"TabPFN, 10,000 rows",0.25,0.237011,0.175947
+4 Host hold-out,"TabPFN, 10,000 rows",0.275,0.222419,0.147531
+4 Host hold-out,"TabPFN, 10,000 rows",0.3,0.20779,0.117086
+4 Host hold-out,"TabPFN, 10,000 rows",0.325,0.192809,0.084385
+4 Host hold-out,"TabPFN, 10,000 rows",0.35,0.177812,0.049169
+4 Host hold-out,"TabPFN, 10,000 rows",0.375,0.162951,0.011136
+4 Host hold-out,"TabPFN, 10,000 rows",0.4,0.147606,-0.030067
+4 Host hold-out,"TabPFN, 10,000 rows",0.425,0.132587,-0.074852
+4 Host hold-out,"TabPFN, 10,000 rows",0.45,0.117956,-0.123709
+4 Host hold-out,"TabPFN, 10,000 rows",0.475,0.104164,-0.177219
+4 Host hold-out,"TabPFN, 10,000 rows",0.5,0.091254,-0.23608
+4 Host hold-out,"TabPFN, 10,000 rows",0.525,0.079409,-0.301137
+4 Host hold-out,"TabPFN, 10,000 rows",0.55,0.068685,-0.373422
+4 Host hold-out,"TabPFN, 10,000 rows",0.575,0.059009,-0.454212
+4 Host hold-out,"TabPFN, 10,000 rows",0.6,0.050438,-0.5451
+4 Host hold-out,"TabPFN, 10,000 rows",0.625,0.042851,-0.648107
+4 Host hold-out,"TabPFN, 10,000 rows",0.65,0.036421,-0.765829
+4 Host hold-out,"TabPFN, 10,000 rows",0.675,0.030505,-0.901662
+4 Host hold-out,"TabPFN, 10,000 rows",0.7,0.02536,-1.060133
+4 Host hold-out,"TabPFN, 10,000 rows",0.725,0.020729,-1.247418
+4 Host hold-out,"TabPFN, 10,000 rows",0.75,0.016876,-1.47216
+4 Host hold-out,"TabPFN, 10,000 rows",0.775,0.013424,-1.746844
+4 Host hold-out,"TabPFN, 10,000 rows",0.8,0.010314,-2.0902
+4 Host hold-out,"TabPFN, 10,000 rows",0.825,0.007487,-2.531657
+4 Host hold-out,"TabPFN, 10,000 rows",0.85,0.005187,-3.120267
+4 Host hold-out,"TabPFN, 10,000 rows",0.875,0.003142,-3.94432
+4 Host hold-out,"TabPFN, 10,000 rows",0.9,0.001714,-5.1804
+5 Market by time,"Logistic regression, full fold",0.05,0.328875,0.340149
+5 Market by time,"Logistic regression, full fold",0.075,0.310331,0.322316
+5 Market by time,"Logistic regression, full fold",0.1,0.291154,0.303491
+5 Market by time,"Logistic regression, full fold",0.125,0.271197,0.283591
+5 Market by time,"Logistic regression, full fold",0.15,0.25066,0.26252
+5 Market by time,"Logistic regression, full fold",0.175,0.229612,0.240172
+5 Market by time,"Logistic regression, full fold",0.2,0.207896,0.216428
+5 Market by time,"Logistic regression, full fold",0.225,0.185639,0.191151
+5 Market by time,"Logistic regression, full fold",0.25,0.163302,0.164189
+5 Market by time,"Logistic regression, full fold",0.275,0.141156,0.135368
+5 Market by time,"Logistic regression, full fold",0.3,0.11889,0.104489
+5 Market by time,"Logistic regression, full fold",0.325,0.096901,0.071321
+5 Market by time,"Logistic regression, full fold",0.35,0.075068,0.035603
+5 Market by time,"Logistic regression, full fold",0.375,0.054041,-0.002973
+5 Market by time,"Logistic regression, full fold",0.4,0.03427,-0.044763
+5 Market by time,"Logistic regression, full fold",0.425,0.016165,-0.090188
+5 Market by time,"Logistic regression, full fold",0.45,6.5e-05,-0.139742
+5 Market by time,"Logistic regression, full fold",0.475,-0.013022,-0.194015
+5 Market by time,"Logistic regression, full fold",0.5,-0.023246,-0.253716
+5 Market by time,"Logistic regression, full fold",0.525,-0.029704,-0.319701
+5 Market by time,"Logistic regression, full fold",0.55,-0.032467,-0.393018
+5 Market by time,"Logistic regression, full fold",0.575,-0.031985,-0.47496
+5 Market by time,"Logistic regression, full fold",0.6,-0.030075,-0.567145
+5 Market by time,"Logistic regression, full fold",0.625,-0.026633,-0.671621
+5 Market by time,"Logistic regression, full fold",0.65,-0.022601,-0.791023
+5 Market by time,"Logistic regression, full fold",0.675,-0.018062,-0.928794
+5 Market by time,"Logistic regression, full fold",0.7,-0.014442,-1.089527
+5 Market by time,"Logistic regression, full fold",0.725,-0.011479,-1.279484
+5 Market by time,"Logistic regression, full fold",0.75,-0.009098,-1.507432
+5 Market by time,"Logistic regression, full fold",0.775,-0.007561,-1.786036
+5 Market by time,"Logistic regression, full fold",0.8,-0.00682,-2.13429
+5 Market by time,"Logistic regression, full fold",0.825,-0.006638,-2.582046
+5 Market by time,"Logistic regression, full fold",0.85,-0.007104,-3.179053
+5 Market by time,"Logistic regression, full fold",0.875,-0.007566,-4.014864
+5 Market by time,"Logistic regression, full fold",0.9,-0.006108,-5.26858
+5 Market by time,"Random forest, full fold",0.05,0.339756,0.340149
+5 Market by time,"Random forest, full fold",0.075,0.321782,0.322316
+5 Market by time,"Random forest, full fold",0.1,0.303154,0.303491
+5 Market by time,"Random forest, full fold",0.125,0.284096,0.283591
+5 Market by time,"Random forest, full fold",0.15,0.26467,0.26252
+5 Market by time,"Random forest, full fold",0.175,0.244905,0.240172
+5 Market by time,"Random forest, full fold",0.2,0.224747,0.216428
+5 Market by time,"Random forest, full fold",0.225,0.204505,0.191151
+5 Market by time,"Random forest, full fold",0.25,0.18421,0.164189
+5 Market by time,"Random forest, full fold",0.275,0.163956,0.135368
+5 Market by time,"Random forest, full fold",0.3,0.144144,0.104489
+5 Market by time,"Random forest, full fold",0.325,0.124855,0.071321
+5 Market by time,"Random forest, full fold",0.35,0.107298,0.035603
+5 Market by time,"Random forest, full fold",0.375,0.090543,-0.002973
+5 Market by time,"Random forest, full fold",0.4,0.075999,-0.044763
+5 Market by time,"Random forest, full fold",0.425,0.063271,-0.090188
+5 Market by time,"Random forest, full fold",0.45,0.052804,-0.139742
+5 Market by time,"Random forest, full fold",0.475,0.043822,-0.194015
+5 Market by time,"Random forest, full fold",0.5,0.036378,-0.253716
+5 Market by time,"Random forest, full fold",0.525,0.029881,-0.319701
+5 Market by time,"Random forest, full fold",0.55,0.024757,-0.393018
+5 Market by time,"Random forest, full fold",0.575,0.020887,-0.47496
+5 Market by time,"Random forest, full fold",0.6,0.017279,-0.567145
+5 Market by time,"Random forest, full fold",0.625,0.014307,-0.671621
+5 Market by time,"Random forest, full fold",0.65,0.011582,-0.791023
+5 Market by time,"Random forest, full fold",0.675,0.009303,-0.928794
+5 Market by time,"Random forest, full fold",0.7,0.007157,-1.089527
+5 Market by time,"Random forest, full fold",0.725,0.005863,-1.279484
+5 Market by time,"Random forest, full fold",0.75,0.0051,-1.507432
+5 Market by time,"Random forest, full fold",0.775,0.004043,-1.786036
+5 Market by time,"Random forest, full fold",0.8,0.002782,-2.13429
+5 Market by time,"Random forest, full fold",0.825,0.002057,-2.582046
+5 Market by time,"Random forest, full fold",0.85,0.001223,-3.179053
+5 Market by time,"Random forest, full fold",0.875,0.00082,-4.014864
+5 Market by time,"Random forest, full fold",0.9,0.000642,-5.26858
+5 Market by time,"Gradient boosting, full fold",0.05,0.327158,0.340149
+5 Market by time,"Gradient boosting, full fold",0.075,0.306272,0.322316
+5 Market by time,"Gradient boosting, full fold",0.1,0.286391,0.303491
+5 Market by time,"Gradient boosting, full fold",0.125,0.267339,0.283591
+5 Market by time,"Gradient boosting, full fold",0.15,0.248582,0.26252
+5 Market by time,"Gradient boosting, full fold",0.175,0.229986,0.240172
+5 Market by time,"Gradient boosting, full fold",0.2,0.211153,0.216428
+5 Market by time,"Gradient boosting, full fold",0.225,0.192855,0.191151
+5 Market by time,"Gradient boosting, full fold",0.25,0.175037,0.164189
+5 Market by time,"Gradient boosting, full fold",0.275,0.157866,0.135368
+5 Market by time,"Gradient boosting, full fold",0.3,0.141027,0.104489
+5 Market by time,"Gradient boosting, full fold",0.325,0.124765,0.071321
+5 Market by time,"Gradient boosting, full fold",0.35,0.109412,0.035603
+5 Market by time,"Gradient boosting, full fold",0.375,0.094872,-0.002973
+5 Market by time,"Gradient boosting, full fold",0.4,0.080676,-0.044763
+5 Market by time,"Gradient boosting, full fold",0.425,0.068191,-0.090188
+5 Market by time,"Gradient boosting, full fold",0.45,0.056509,-0.139742
+5 Market by time,"Gradient boosting, full fold",0.475,0.045738,-0.194015
+5 Market by time,"Gradient boosting, full fold",0.5,0.036196,-0.253716
+5 Market by time,"Gradient boosting, full fold",0.525,0.028051,-0.319701
+5 Market by time,"Gradient boosting, full fold",0.55,0.02103,-0.393018
+5 Market by time,"Gradient boosting, full fold",0.575,0.014338,-0.47496
+5 Market by time,"Gradient boosting, full fold",0.6,0.00899,-0.567145
+5 Market by time,"Gradient boosting, full fold",0.625,0.004259,-0.671621
+5 Market by time,"Gradient boosting, full fold",0.65,-0.00029,-0.791023
+5 Market by time,"Gradient boosting, full fold",0.675,-0.004146,-0.928794
+5 Market by time,"Gradient boosting, full fold",0.7,-0.006607,-1.089527
+5 Market by time,"Gradient boosting, full fold",0.725,-0.008529,-1.279484
+5 Market by time,"Gradient boosting, full fold",0.75,-0.009634,-1.507432
+5 Market by time,"Gradient boosting, full fold",0.775,-0.009804,-1.786036
+5 Market by time,"Gradient boosting, full fold",0.8,-0.009118,-2.13429
+5 Market by time,"Gradient boosting, full fold",0.825,-0.008689,-2.582046
+5 Market by time,"Gradient boosting, full fold",0.85,-0.007932,-3.179053
+5 Market by time,"Gradient boosting, full fold",0.875,-0.006614,-4.014864
+5 Market by time,"Gradient boosting, full fold",0.9,-0.005704,-5.26858
+5 Market by time,"Logistic regression, 10,000 rows",0.05,0.321135,0.340149
+5 Market by time,"Logistic regression, 10,000 rows",0.075,0.302393,0.322316
+5 Market by time,"Logistic regression, 10,000 rows",0.1,0.283237,0.303491
+5 Market by time,"Logistic regression, 10,000 rows",0.125,0.263614,0.283591
+5 Market by time,"Logistic regression, 10,000 rows",0.15,0.243604,0.26252
+5 Market by time,"Logistic regression, 10,000 rows",0.175,0.223093,0.240172
+5 Market by time,"Logistic regression, 10,000 rows",0.2,0.20194,0.216428
+5 Market by time,"Logistic regression, 10,000 rows",0.225,0.180447,0.191151
+5 Market by time,"Logistic regression, 10,000 rows",0.25,0.158415,0.164189
+5 Market by time,"Logistic regression, 10,000 rows",0.275,0.136202,0.135368
+5 Market by time,"Logistic regression, 10,000 rows",0.3,0.114244,0.104489
+5 Market by time,"Logistic regression, 10,000 rows",0.325,0.092844,0.071321
+5 Market by time,"Logistic regression, 10,000 rows",0.35,0.0716,0.035603
+5 Market by time,"Logistic regression, 10,000 rows",0.375,0.051025,-0.002973
+5 Market by time,"Logistic regression, 10,000 rows",0.4,0.031972,-0.044763
+5 Market by time,"Logistic regression, 10,000 rows",0.425,0.013885,-0.090188
+5 Market by time,"Logistic regression, 10,000 rows",0.45,-0.001458,-0.139742
+5 Market by time,"Logistic regression, 10,000 rows",0.475,-0.01333,-0.194015
+5 Market by time,"Logistic regression, 10,000 rows",0.5,-0.02287,-0.253716
+5 Market by time,"Logistic regression, 10,000 rows",0.525,-0.029124,-0.319701
+5 Market by time,"Logistic regression, 10,000 rows",0.55,-0.032651,-0.393018
+5 Market by time,"Logistic regression, 10,000 rows",0.575,-0.032969,-0.47496
+5 Market by time,"Logistic regression, 10,000 rows",0.6,-0.030859,-0.567145
+5 Market by time,"Logistic regression, 10,000 rows",0.625,-0.027739,-0.671621
+5 Market by time,"Logistic regression, 10,000 rows",0.65,-0.023842,-0.791023
+5 Market by time,"Logistic regression, 10,000 rows",0.675,-0.01982,-0.928794
+5 Market by time,"Logistic regression, 10,000 rows",0.7,-0.016222,-1.089527
+5 Market by time,"Logistic regression, 10,000 rows",0.725,-0.013376,-1.279484
+5 Market by time,"Logistic regression, 10,000 rows",0.75,-0.010902,-1.507432
+5 Market by time,"Logistic regression, 10,000 rows",0.775,-0.009152,-1.786036
+5 Market by time,"Logistic regression, 10,000 rows",0.8,-0.007618,-2.13429
+5 Market by time,"Logistic regression, 10,000 rows",0.825,-0.006213,-2.582046
+5 Market by time,"Logistic regression, 10,000 rows",0.85,-0.00485,-3.179053
+5 Market by time,"Logistic regression, 10,000 rows",0.875,-0.002746,-4.014864
+5 Market by time,"Logistic regression, 10,000 rows",0.9,-0.001436,-5.26858
+5 Market by time,"Random forest, 10,000 rows",0.05,0.340291,0.340149
+5 Market by time,"Random forest, 10,000 rows",0.075,0.322665,0.322316
+5 Market by time,"Random forest, 10,000 rows",0.1,0.304216,0.303491
+5 Market by time,"Random forest, 10,000 rows",0.125,0.285315,0.283591
+5 Market by time,"Random forest, 10,000 rows",0.15,0.265533,0.26252
+5 Market by time,"Random forest, 10,000 rows",0.175,0.244859,0.240172
+5 Market by time,"Random forest, 10,000 rows",0.2,0.222874,0.216428
+5 Market by time,"Random forest, 10,000 rows",0.225,0.200639,0.191151
+5 Market by time,"Random forest, 10,000 rows",0.25,0.178569,0.164189
+5 Market by time,"Random forest, 10,000 rows",0.275,0.156731,0.135368
+5 Market by time,"Random forest, 10,000 rows",0.3,0.135902,0.104489
+5 Market by time,"Random forest, 10,000 rows",0.325,0.11631,0.071321
+5 Market by time,"Random forest, 10,000 rows",0.35,0.097953,0.035603
+5 Market by time,"Random forest, 10,000 rows",0.375,0.081067,-0.002973
+5 Market by time,"Random forest, 10,000 rows",0.4,0.065715,-0.044763
+5 Market by time,"Random forest, 10,000 rows",0.425,0.052499,-0.090188
+5 Market by time,"Random forest, 10,000 rows",0.45,0.041612,-0.139742
+5 Market by time,"Random forest, 10,000 rows",0.475,0.03198,-0.194015
+5 Market by time,"Random forest, 10,000 rows",0.5,0.024388,-0.253716
+5 Market by time,"Random forest, 10,000 rows",0.525,0.018024,-0.319701
+5 Market by time,"Random forest, 10,000 rows",0.55,0.013407,-0.393018
+5 Market by time,"Random forest, 10,000 rows",0.575,0.009756,-0.47496
+5 Market by time,"Random forest, 10,000 rows",0.6,0.006936,-0.567145
+5 Market by time,"Random forest, 10,000 rows",0.625,0.004865,-0.671621
+5 Market by time,"Random forest, 10,000 rows",0.65,0.002931,-0.791023
+5 Market by time,"Random forest, 10,000 rows",0.675,0.001992,-0.928794
+5 Market by time,"Random forest, 10,000 rows",0.7,0.001557,-1.089527
+5 Market by time,"Random forest, 10,000 rows",0.725,0.000912,-1.279484
+5 Market by time,"Random forest, 10,000 rows",0.75,0.000602,-1.507432
+5 Market by time,"Random forest, 10,000 rows",0.775,0.000348,-1.786036
+5 Market by time,"Random forest, 10,000 rows",0.8,0.000358,-2.13429
+5 Market by time,"Random forest, 10,000 rows",0.825,0.000217,-2.582046
+5 Market by time,"Random forest, 10,000 rows",0.85,0.000139,-3.179053
+5 Market by time,"Random forest, 10,000 rows",0.875,8.6e-05,-4.014864
+5 Market by time,"Random forest, 10,000 rows",0.9,2.4e-05,-5.26858
+5 Market by time,"Gradient boosting, 10,000 rows",0.05,0.3322,0.340149
+5 Market by time,"Gradient boosting, 10,000 rows",0.075,0.309987,0.322316
+5 Market by time,"Gradient boosting, 10,000 rows",0.1,0.287188,0.303491
+5 Market by time,"Gradient boosting, 10,000 rows",0.125,0.264512,0.283591
+5 Market by time,"Gradient boosting, 10,000 rows",0.15,0.242171,0.26252
+5 Market by time,"Gradient boosting, 10,000 rows",0.175,0.220657,0.240172
+5 Market by time,"Gradient boosting, 10,000 rows",0.2,0.200288,0.216428
+5 Market by time,"Gradient boosting, 10,000 rows",0.225,0.180631,0.191151
+5 Market by time,"Gradient boosting, 10,000 rows",0.25,0.161697,0.164189
+5 Market by time,"Gradient boosting, 10,000 rows",0.275,0.143427,0.135368
+5 Market by time,"Gradient boosting, 10,000 rows",0.3,0.12636,0.104489
+5 Market by time,"Gradient boosting, 10,000 rows",0.325,0.10988,0.071321
+5 Market by time,"Gradient boosting, 10,000 rows",0.35,0.094384,0.035603
+5 Market by time,"Gradient boosting, 10,000 rows",0.375,0.07988,-0.002973
+5 Market by time,"Gradient boosting, 10,000 rows",0.4,0.066787,-0.044763
+5 Market by time,"Gradient boosting, 10,000 rows",0.425,0.054403,-0.090188
+5 Market by time,"Gradient boosting, 10,000 rows",0.45,0.042716,-0.139742
+5 Market by time,"Gradient boosting, 10,000 rows",0.475,0.032274,-0.194015
+5 Market by time,"Gradient boosting, 10,000 rows",0.5,0.02308,-0.253716
+5 Market by time,"Gradient boosting, 10,000 rows",0.525,0.014366,-0.319701
+5 Market by time,"Gradient boosting, 10,000 rows",0.55,0.00656,-0.393018
+5 Market by time,"Gradient boosting, 10,000 rows",0.575,-0.000614,-0.47496
+5 Market by time,"Gradient boosting, 10,000 rows",0.6,-0.006094,-0.567145
+5 Market by time,"Gradient boosting, 10,000 rows",0.625,-0.011374,-0.671621
+5 Market by time,"Gradient boosting, 10,000 rows",0.65,-0.015049,-0.791023
+5 Market by time,"Gradient boosting, 10,000 rows",0.675,-0.018441,-0.928794
+5 Market by time,"Gradient boosting, 10,000 rows",0.7,-0.021275,-1.089527
+5 Market by time,"Gradient boosting, 10,000 rows",0.725,-0.022842,-1.279484
+5 Market by time,"Gradient boosting, 10,000 rows",0.75,-0.023602,-1.507432
+5 Market by time,"Gradient boosting, 10,000 rows",0.775,-0.023566,-1.786036
+5 Market by time,"Gradient boosting, 10,000 rows",0.8,-0.02282,-2.13429
+5 Market by time,"Gradient boosting, 10,000 rows",0.825,-0.021099,-2.582046
+5 Market by time,"Gradient boosting, 10,000 rows",0.85,-0.018691,-3.179053
+5 Market by time,"Gradient boosting, 10,000 rows",0.875,-0.016026,-4.014864
+5 Market by time,"Gradient boosting, 10,000 rows",0.9,-0.01192,-5.26858
+5 Market by time,"TabPFN, 10,000 rows",0.05,0.335114,0.340149
+5 Market by time,"TabPFN, 10,000 rows",0.075,0.314062,0.322316
+5 Market by time,"TabPFN, 10,000 rows",0.1,0.292558,0.303491
+5 Market by time,"TabPFN, 10,000 rows",0.125,0.270723,0.283591
+5 Market by time,"TabPFN, 10,000 rows",0.15,0.249126,0.26252
+5 Market by time,"TabPFN, 10,000 rows",0.175,0.227517,0.240172
+5 Market by time,"TabPFN, 10,000 rows",0.2,0.206126,0.216428
+5 Market by time,"TabPFN, 10,000 rows",0.225,0.184798,0.191151
+5 Market by time,"TabPFN, 10,000 rows",0.25,0.164127,0.164189
+5 Market by time,"TabPFN, 10,000 rows",0.275,0.143993,0.135368
+5 Market by time,"TabPFN, 10,000 rows",0.3,0.124715,0.104489
+5 Market by time,"TabPFN, 10,000 rows",0.325,0.106792,0.071321
+5 Market by time,"TabPFN, 10,000 rows",0.35,0.090416,0.035603
+5 Market by time,"TabPFN, 10,000 rows",0.375,0.075338,-0.002973
+5 Market by time,"TabPFN, 10,000 rows",0.4,0.061671,-0.044763
+5 Market by time,"TabPFN, 10,000 rows",0.425,0.05012,-0.090188
+5 Market by time,"TabPFN, 10,000 rows",0.45,0.0398,-0.139742
+5 Market by time,"TabPFN, 10,000 rows",0.475,0.030751,-0.194015
+5 Market by time,"TabPFN, 10,000 rows",0.5,0.02304,-0.253716
+5 Market by time,"TabPFN, 10,000 rows",0.525,0.01642,-0.319701
+5 Market by time,"TabPFN, 10,000 rows",0.55,0.010793,-0.393018
+5 Market by time,"TabPFN, 10,000 rows",0.575,0.006324,-0.47496
+5 Market by time,"TabPFN, 10,000 rows",0.6,0.002584,-0.567145
+5 Market by time,"TabPFN, 10,000 rows",0.625,-0.000623,-0.671621
+5 Market by time,"TabPFN, 10,000 rows",0.65,-0.003319,-0.791023
+5 Market by time,"TabPFN, 10,000 rows",0.675,-0.005602,-0.928794
+5 Market by time,"TabPFN, 10,000 rows",0.7,-0.007221,-1.089527
+5 Market by time,"TabPFN, 10,000 rows",0.725,-0.008567,-1.279484
+5 Market by time,"TabPFN, 10,000 rows",0.75,-0.010158,-1.507432
+5 Market by time,"TabPFN, 10,000 rows",0.775,-0.010653,-1.786036
+5 Market by time,"TabPFN, 10,000 rows",0.8,-0.01021,-2.13429
+5 Market by time,"TabPFN, 10,000 rows",0.825,-0.009567,-2.582046
+5 Market by time,"TabPFN, 10,000 rows",0.85,-0.008369,-3.179053
+5 Market by time,"TabPFN, 10,000 rows",0.875,-0.006934,-4.014864
+5 Market by time,"TabPFN, 10,000 rows",0.9,-0.005204,-5.26858

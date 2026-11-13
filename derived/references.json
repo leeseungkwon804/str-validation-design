@@ -1,0 +1,968 @@
+{
+ "10.1007/s10994-009-5119-5": {
+  "doi": "10.1007/s10994-009-5119-5",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Hand",
+    "David J."
+   ]
+  ],
+  "title": "Measuring classifier performance: a coherent alternative to the area under the ROC curve",
+  "journal": "Machine Learning",
+  "short": "Mach Learn",
+  "year": 2009,
+  "volume": "77",
+  "issue": "1",
+  "page": "103-123",
+  "verified": "Crossref 2026-11-13"
+ },
+ "10.1016/j.cities.2020.102803": {
+  "doi": "10.1016/j.cities.2020.102803",
+  "type": "journal-article",
+  "authors": [
+   [
+    "van Holm",
+    "Eric Joseph"
+   ]
+  ],
+  "title": "Evaluating the impact of short-term rental regulations on Airbnb in New Orleans",
+  "journal": "Cities",
+  "short": "Cities",
+  "year": 2020,
+  "volume": "104",
+  "page": "102803",
+  "article_number": "102803",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1016/j.cities.2025.105915": {
+  "doi": "10.1016/j.cities.2025.105915",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Gyódi",
+    "Kristóf"
+   ],
+   [
+    "Mazur",
+    "Joanna"
+   ],
+   [
+    "Cocola-Gant",
+    "Agustín"
+   ]
+  ],
+  "title": "Barcelona as a case study for the effectiveness of short-term rental market regulations",
+  "journal": "Cities",
+  "short": "Cities",
+  "year": 2025,
+  "volume": "162",
+  "page": "105915",
+  "article_number": "105915",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1016/j.dss.2020.113453": {
+  "doi": "10.1016/j.dss.2020.113453",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Alsudais",
+    "Abdulkareem"
+   ]
+  ],
+  "title": "Incorrect data in the widely used Inside Airbnb dataset",
+  "journal": "Decision Support Systems",
+  "short": "Decision Support Systems",
+  "year": 2021,
+  "volume": "141",
+  "page": "113453",
+  "article_number": "113453",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1016/j.ecolmodel.2019.108815": {
+  "doi": "10.1016/j.ecolmodel.2019.108815",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Meyer",
+    "Hanna"
+   ],
+   [
+    "Reudenbach",
+    "Christoph"
+   ],
+   [
+    "Wöllauer",
+    "Stephan"
+   ],
+   [
+    "Nauss",
+    "Thomas"
+   ]
+  ],
+  "title": "Importance of spatial predictor variable selection in machine learning applications – Moving from data reproduction to spatial prediction",
+  "journal": "Ecological Modelling",
+  "short": "Ecological Modelling",
+  "year": 2019,
+  "volume": "411",
+  "issue": null,
+  "page": "108815",
+  "verified": "Crossref 2026-11-13"
+ },
+ "10.1016/j.ijhm.2025.104132": {
+  "doi": "10.1016/j.ijhm.2025.104132",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Hu",
+    "Mingming"
+   ],
+   [
+    "Yang",
+    "Limei"
+   ],
+   [
+    "Park",
+    "Jinah"
+   ],
+   [
+    "Liu",
+    "Minkun"
+   ]
+  ],
+  "title": "Survival determinants and prediction for Airbnb listings",
+  "journal": "International Journal of Hospitality Management",
+  "short": "International Journal of Hospitality Management",
+  "year": 2025,
+  "volume": "128",
+  "page": "104132",
+  "article_number": "104132",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1016/j.im.2020.103322": {
+  "doi": "10.1016/j.im.2020.103322",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Chen",
+    "Yuanyuan"
+   ],
+   [
+    "Huang",
+    "Yuxin"
+   ],
+   [
+    "Tan",
+    "Chuan Hoo"
+   ]
+  ],
+  "title": "Short-term rental and its regulations on the home-sharing platform",
+  "journal": "Information & Management",
+  "short": "Information & Management",
+  "year": 2021,
+  "volume": "58",
+  "issue": "3",
+  "page": "103322",
+  "article_number": "103322",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1016/j.jclinepi.2014.06.018": {
+  "doi": "10.1016/j.jclinepi.2014.06.018",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Debray",
+    "Thomas P.A."
+   ],
+   [
+    "Vergouwe",
+    "Yvonne"
+   ],
+   [
+    "Koffijberg",
+    "Hendrik"
+   ],
+   [
+    "Nieboer",
+    "Daan"
+   ],
+   [
+    "Steyerberg",
+    "Ewout W."
+   ],
+   [
+    "Moons",
+    "Karel G.M."
+   ]
+  ],
+  "title": "A new framework to enhance the interpretation of external validation studies of clinical prediction models",
+  "journal": "Journal of Clinical Epidemiology",
+  "short": "Journal of Clinical Epidemiology",
+  "year": 2015,
+  "volume": "68",
+  "issue": "3",
+  "page": "279-289",
+  "verified": "Crossref 2026-11-13"
+ },
+ "10.1016/j.jclinepi.2015.04.005": {
+  "doi": "10.1016/j.jclinepi.2015.04.005",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Steyerberg",
+    "Ewout W."
+   ],
+   [
+    "Harrell",
+    "Frank E."
+   ]
+  ],
+  "title": "Prediction models need appropriate internal, internal–external, and external validation",
+  "journal": "Journal of Clinical Epidemiology",
+  "short": "Journal of Clinical Epidemiology",
+  "year": 2016,
+  "volume": "69",
+  "issue": null,
+  "page": "245-247",
+  "verified": "Crossref 2026-11-13"
+ },
+ "10.1016/j.jhtm.2021.04.016": {
+  "doi": "10.1016/j.jhtm.2021.04.016",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Xie",
+    "Karen"
+   ],
+   [
+    "Heo",
+    "Cindy Yoonjoung"
+   ],
+   [
+    "Mao",
+    "Zhenxing Eddie"
+   ]
+  ],
+  "title": "Do professional hosts matter? Evidence from multi-listing and full-time hosts in Airbnb",
+  "journal": "Journal of Hospitality and Tourism Management",
+  "short": "Journal of Hospitality and Tourism Management",
+  "year": 2021,
+  "volume": "47",
+  "page": "413-421",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1016/j.patter.2023.100804": {
+  "doi": "10.1016/j.patter.2023.100804",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Kapoor",
+    "Sayash"
+   ],
+   [
+    "Narayanan",
+    "Arvind"
+   ]
+  ],
+  "title": "Leakage and the reproducibility crisis in machine-learning-based science",
+  "journal": "Patterns",
+  "short": "Patterns",
+  "year": 2023,
+  "volume": "4",
+  "issue": "9",
+  "page": "100804",
+  "verified": "Crossref 2026-11-13"
+ },
+ "10.1016/j.tourman.2022.104665": {
+  "doi": "10.1016/j.tourman.2022.104665",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Fan",
+    "Ningyuan"
+   ],
+   [
+    "Lai",
+    "Shiyang"
+   ],
+   [
+    "Fan",
+    "Zhi-Ping"
+   ],
+   [
+    "Chen",
+    "Yuan"
+   ]
+  ],
+  "title": "Exit and transition: Exploring the survival status of Airbnb listings in a time of professionalization",
+  "journal": "Tourism Management",
+  "short": "Tourism Management",
+  "year": 2023,
+  "volume": "95",
+  "page": "104665",
+  "article_number": "104665",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1023/A:1010933404324": {
+  "doi": "10.1023/A:1010933404324",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Breiman",
+    "Leo"
+   ]
+  ],
+  "title": "Random Forests",
+  "journal": "Machine Learning",
+  "short": "Machine Learning",
+  "year": 2001,
+  "volume": "45",
+  "issue": "1",
+  "page": "5-32",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1038/s41467-020-18321-y": {
+  "doi": "10.1038/s41467-020-18321-y",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Ploton",
+    "Pierre"
+   ],
+   [
+    "Mortier",
+    "Frédéric"
+   ],
+   [
+    "Réjou-Méchain",
+    "Maxime"
+   ],
+   [
+    "Barbier",
+    "Nicolas"
+   ],
+   [
+    "Picard",
+    "Nicolas"
+   ],
+   [
+    "Rossi",
+    "Vivien"
+   ]
+  ],
+  "title": "Spatial validation reveals poor predictive performance of large-scale ecological mapping models",
+  "journal": "Nature Communications",
+  "short": "Nat Commun",
+  "year": 2020,
+  "volume": "11",
+  "issue": "1",
+  "page": null,
+  "verified": "Crossref 2026-11-13"
+ },
+ "10.1038/s41586-024-08328-6": {
+  "doi": "10.1038/s41586-024-08328-6",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Hollmann",
+    "Noah"
+   ],
+   [
+    "Müller",
+    "Samuel"
+   ],
+   [
+    "Purucker",
+    "Lennart"
+   ],
+   [
+    "Krishnakumar",
+    "Arjun"
+   ],
+   [
+    "Körfer",
+    "Max"
+   ],
+   [
+    "Hoo",
+    "Shi Bin"
+   ],
+   [
+    "Schirrmeister",
+    "Robin Tibor"
+   ],
+   [
+    "Hutter",
+    "Frank"
+   ]
+  ],
+  "title": "Accurate predictions on small data with a tabular foundation model",
+  "journal": "Nature",
+  "short": "Nature",
+  "year": 2025,
+  "volume": "637",
+  "issue": "8045",
+  "page": "319-326",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1080/00343404.2025.2533472": {
+  "doi": "10.1080/00343404.2025.2533472",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Dejean",
+    "Sylvain"
+   ],
+   [
+    "Robertson",
+    "Calum"
+   ],
+   [
+    "Suire",
+    "Raphaël"
+   ]
+  ],
+  "title": "Licence to chill? How enforcement of mandatory registration shapes short-term rental markets in France",
+  "journal": "Regional Studies",
+  "short": "Regional Studies",
+  "year": 2025,
+  "volume": "59",
+  "issue": "1",
+  "article_number": "2533472",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1080/00343404.2026.2636091": {
+  "doi": "10.1080/00343404.2026.2636091",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Sardo",
+    "Alessio"
+   ],
+   [
+    "Grillo",
+    "Allegra"
+   ],
+   [
+    "Kaczmarek",
+    "Angelika"
+   ],
+   [
+    "Mateos Durán",
+    "Arnulfo Daniel"
+   ]
+  ],
+  "title": "Institutional path dependence in European short-term rental regulation",
+  "journal": "Regional Studies",
+  "short": "Regional Studies",
+  "year": 2026,
+  "volume": "60",
+  "issue": "1",
+  "article_number": "2636091",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1080/00343404.2026.2693559": {
+  "doi": "10.1080/00343404.2026.2693559",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Banabak",
+    "Selim"
+   ],
+   [
+    "Sielker",
+    "Franziska"
+   ]
+  ],
+  "title": "Short term rental regulations in Vienna – enforcement versus deterrence?",
+  "journal": "Regional Studies",
+  "short": "Regional Studies",
+  "year": 2026,
+  "volume": "60",
+  "issue": "1",
+  "article_number": "2693559",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1080/02673037.2023.2176829": {
+  "doi": "10.1080/02673037.2023.2176829",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Wang",
+    "Yang"
+   ],
+   [
+    "Livingston",
+    "Mark"
+   ],
+   [
+    "McArthur",
+    "David P."
+   ],
+   [
+    "Bailey",
+    "Nick"
+   ]
+  ],
+  "title": "The challenges of measuring the short-term rental market: an analysis of open data on Airbnb activity",
+  "journal": "Housing Studies",
+  "short": "Housing Studies",
+  "year": 2024,
+  "volume": "39",
+  "issue": "9",
+  "page": "2260-2279",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1080/13683500.2019.1696758": {
+  "doi": "10.1080/13683500.2019.1696758",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Adamiak",
+    "Czesław"
+   ]
+  ],
+  "title": "Current state and development of Airbnb accommodation offer in 167 countries",
+  "journal": "Current Issues in Tourism",
+  "short": "Current Issues in Tourism",
+  "year": 2022,
+  "volume": "25",
+  "issue": "19",
+  "page": "3131-3149",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1111/1540-6229.12537": {
+  "doi": "10.1111/1540-6229.12537",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Bibler",
+    "Andrew J."
+   ],
+   [
+    "Teltser",
+    "Keith F."
+   ],
+   [
+    "Tremblay",
+    "Mark J."
+   ]
+  ],
+  "title": "How do short‐term rental regulations affect market outcomes? Evidence from San Francisco's Airbnb registration requirement",
+  "journal": "Real Estate Economics",
+  "short": "Real Estate Economics",
+  "year": 2025,
+  "volume": "53",
+  "issue": "4",
+  "page": "841-868",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1111/2041-210X.13107": {
+  "doi": "10.1111/2041-210X.13107",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Valavi",
+    "Roozbeh"
+   ],
+   [
+    "Elith",
+    "Jane"
+   ],
+   [
+    "Lahoz‐Monfort",
+    "José J."
+   ],
+   [
+    "Guillera‐Arroita",
+    "Gurutzeta"
+   ]
+  ],
+  "title": "block CV : An r package for generating spatially or environmentally separated folds for <i>k</i> ‐fold cross‐validation of species distribution models",
+  "journal": "Methods in Ecology and Evolution",
+  "short": "Methods Ecol Evol",
+  "year": 2018,
+  "volume": "10",
+  "issue": "2",
+  "page": "225-232",
+  "verified": "Crossref 2026-11-13"
+ },
+ "10.1111/anti.70067": {
+  "doi": "10.1111/anti.70067",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Bei",
+    "Gianluca"
+   ],
+   [
+    "Cocola‐Gant",
+    "Agustín"
+   ]
+  ],
+  "title": "Entitlement by Registration: Regulated Deregulation and the Formalisation of Short‐Term Rentals in Lisbon",
+  "journal": "Antipode",
+  "short": "Antipode",
+  "year": 2026,
+  "volume": "58",
+  "issue": "1",
+  "article_number": "e70067",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1111/ecog.02881": {
+  "doi": "10.1111/ecog.02881",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Roberts",
+    "David R."
+   ],
+   [
+    "Bahn",
+    "Volker"
+   ],
+   [
+    "Ciuti",
+    "Simone"
+   ],
+   [
+    "Boyce",
+    "Mark S."
+   ],
+   [
+    "Elith",
+    "Jane"
+   ],
+   [
+    "Guillera‐Arroita",
+    "Gurutzeta"
+   ]
+  ],
+  "title": "Cross‐validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure",
+  "journal": "Ecography",
+  "short": "Ecography",
+  "year": 2017,
+  "volume": "40",
+  "issue": "8",
+  "page": "913-929",
+  "verified": "Crossref 2026-11-13"
+ },
+ "10.1145/2939672.2939785": {
+  "doi": "10.1145/2939672.2939785",
+  "type": "proceedings-article",
+  "authors": [
+   [
+    "Chen",
+    "Tianqi"
+   ],
+   [
+    "Guestrin",
+    "Carlos"
+   ]
+  ],
+  "title": "XGBoost",
+  "journal": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+  "short": "",
+  "year": 2016,
+  "volume": null,
+  "page": "785-794",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1177/0008125619883618": {
+  "doi": "10.1177/0008125619883618",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Schmeiss",
+    "Jessica"
+   ],
+   [
+    "Hoelzle",
+    "Katharina"
+   ],
+   [
+    "Tech",
+    "Robin P. G."
+   ]
+  ],
+  "title": "Designing Governance Mechanisms in Platform Ecosystems: Addressing the Paradox of Openness through Blockchain Technology",
+  "journal": "California Management Review",
+  "short": "California Management Review",
+  "year": 2019,
+  "volume": "62",
+  "issue": "1",
+  "page": "121-143",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1177/0272989X06295361": {
+  "doi": "10.1177/0272989X06295361",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Vickers",
+    "Andrew J."
+   ],
+   [
+    "Elkin",
+    "Elena B."
+   ]
+  ],
+  "title": "Decision Curve Analysis: A Novel Method for Evaluating Prediction Models",
+  "journal": "Medical Decision Making",
+  "short": "Med Decis Making",
+  "year": 2006,
+  "volume": "26",
+  "issue": "6",
+  "page": "565-574",
+  "verified": "Crossref 2026-11-13"
+ },
+ "10.1177/13548166211044889": {
+  "doi": "10.1177/13548166211044889",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Zekan",
+    "Bozana"
+   ],
+   [
+    "Gunter",
+    "Ulrich"
+   ]
+  ],
+  "title": "Zooming into Airbnb listings of European cities: Further investigation of the sector’s competitiveness",
+  "journal": "Tourism Economics",
+  "short": "Tourism Economics",
+  "year": 2022,
+  "volume": "28",
+  "issue": "3",
+  "page": "772-794",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.1186/1471-2105-7-91": {
+  "doi": "10.1186/1471-2105-7-91",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Varma",
+    "Sudhir"
+   ],
+   [
+    "Simon",
+    "Richard"
+   ]
+  ],
+  "title": "Bias in error estimation when using cross-validation for model selection",
+  "journal": "BMC Bioinformatics",
+  "short": "BMC Bioinformatics",
+  "year": 2006,
+  "volume": "7",
+  "issue": "1",
+  "page": null,
+  "verified": "Crossref 2026-11-13"
+ },
+ "10.1186/s12916-019-1466-7": {
+  "doi": "10.1186/s12916-019-1466-7",
+  "type": "journal-article",
+  "authors": [
+   [
+    "",
+    ""
+   ],
+   [
+    "Van Calster",
+    "Ben"
+   ],
+   [
+    "McLernon",
+    "David J."
+   ],
+   [
+    "van Smeden",
+    "Maarten"
+   ],
+   [
+    "Wynants",
+    "Laure"
+   ],
+   [
+    "Steyerberg",
+    "Ewout W."
+   ]
+  ],
+  "title": "Calibration: the Achilles heel of predictive analytics",
+  "journal": "BMC Medicine",
+  "short": "BMC Med",
+  "year": 2019,
+  "volume": "17",
+  "issue": "1",
+  "page": null,
+  "verified": "Crossref 2026-11-13"
+ },
+ "10.1198/016214506000001437": {
+  "doi": "10.1198/016214506000001437",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Gneiting",
+    "Tilmann"
+   ],
+   [
+    "Raftery",
+    "Adrian E"
+   ]
+  ],
+  "title": "Strictly Proper Scoring Rules, Prediction, and Estimation",
+  "journal": "Journal of the American Statistical Association",
+  "short": "Journal of the American Statistical Association",
+  "year": 2007,
+  "volume": "102",
+  "issue": "477",
+  "page": "359-378",
+  "verified": "Crossref 2026-11-13"
+ },
+ "10.3386/w32537": {
+  "doi": "10.3386/w32537",
+  "type": "report",
+  "authors": [
+   [
+    "Jin",
+    "Ginger Zhe"
+   ],
+   [
+    "Wagman",
+    "Liad"
+   ],
+   [
+    "Zhong",
+    "Mengyi"
+   ]
+  ],
+  "title": "The Effects of Short-Term Rental Regulation: Insights from Chicago",
+  "journal": "",
+  "short": "",
+  "year": 2024,
+  "volume": null,
+  "publisher": "National Bureau of Economic Research",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.3390/jtaer16040035": {
+  "doi": "10.3390/jtaer16040035",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Chang",
+    "Chunwei"
+   ],
+   [
+    "Li",
+    "Shengli"
+   ]
+  ],
+  "title": "Study of Price Determinants of Sharing Economy-Based Accommodation Services: Evidence from Airbnb.com",
+  "journal": "Journal of Theoretical and Applied Electronic Commerce Research",
+  "short": "JTAER",
+  "year": 2020,
+  "volume": "16",
+  "issue": "4",
+  "page": "584-601",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.3390/jtaer17020022": {
+  "doi": "10.3390/jtaer17020022",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Fan",
+    "Xin"
+   ],
+   [
+    "Cheng",
+    "T.C.E."
+   ],
+   [
+    "Li",
+    "Gang"
+   ]
+  ],
+  "title": "Opaque or Transparent: Quality Disclosure Strategy for Accommodation-Sharing Platforms",
+  "journal": "Journal of Theoretical and Applied Electronic Commerce Research",
+  "short": "JTAER",
+  "year": 2022,
+  "volume": "17",
+  "issue": "2",
+  "page": "414-438",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.3390/jtaer18010001": {
+  "doi": "10.3390/jtaer18010001",
+  "type": "journal-article",
+  "authors": [
+   [
+    "He",
+    "Hongyang"
+   ],
+   [
+    "Zhang",
+    "Bin"
+   ]
+  ],
+  "title": "Strategy Analysis of Multi-Agent Governance on the E-Commerce Platform",
+  "journal": "Journal of Theoretical and Applied Electronic Commerce Research",
+  "short": "JTAER",
+  "year": 2022,
+  "volume": "18",
+  "issue": "1",
+  "page": "1-18",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "10.3390/jtaer21010026": {
+  "doi": "10.3390/jtaer21010026",
+  "type": "journal-article",
+  "authors": [
+   [
+    "Chen",
+    "Keming"
+   ],
+   [
+    "Li",
+    "Tingting"
+   ]
+  ],
+  "title": "Platform Governance and Digital Sustainability: A Systemic Functional Dependency Perspective",
+  "journal": "Journal of Theoretical and Applied Electronic Commerce Research",
+  "short": "JTAER",
+  "year": 2026,
+  "volume": "21",
+  "issue": "1",
+  "page": "26",
+  "verified": "Crossref 2026-10-30",
+  "retraction_check": "none"
+ },
+ "insideairbnb": {
+  "text": "Inside Airbnb. Get the Data. Available online: https://insideairbnb.com/get-the-data/ (accessed on 30 October 2026).",
+  "verified": "primary source URL read 2026-10-30"
+ }
+}

@@ -1,0 +1,3 @@
+setting,n_variables,AUC,PRAUC,Brier,seconds,AUC_change
+All 50 predictors,50,0.79873,0.74881,0.17802,116.3,0.0
+− len_neighborhood_overview,49,0.79699,0.74701,0.1792,100.3,-0.00174

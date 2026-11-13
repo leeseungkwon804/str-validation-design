@@ -1,0 +1,36 @@
+design,model,AUC,n_eval,n_markets
+1 Random (conventional),"Logistic regression, full fold",0.69093,500000,123
+1 Random (conventional),"Random forest, full fold",0.85993,500000,123
+1 Random (conventional),"Gradient boosting, full fold",0.85301,500000,123
+1 Random (conventional),"Logistic regression, 10,000 rows",0.6879,500000,123
+1 Random (conventional),"Random forest, 10,000 rows",0.78005,500000,123
+1 Random (conventional),"Gradient boosting, 10,000 rows",0.79843,500000,123
+1 Random (conventional),"TabPFN, 10,000 rows",0.79899,500000,123
+2 Market hold-out,"Logistic regression, full fold",0.61376,500000,123
+2 Market hold-out,"Random forest, full fold",0.72953,500000,123
+2 Market hold-out,"Gradient boosting, full fold",0.74003,500000,123
+2 Market hold-out,"Logistic regression, 10,000 rows",0.60642,500000,123
+2 Market hold-out,"Random forest, 10,000 rows",0.67944,500000,123
+2 Market hold-out,"Gradient boosting, 10,000 rows",0.6988,500000,123
+2 Market hold-out,"TabPFN, 10,000 rows",0.70169,500000,123
+3 Temporal (pre to post),"Logistic regression, full fold",0.63395,100000,123
+3 Temporal (pre to post),"Random forest, full fold",0.78712,100000,123
+3 Temporal (pre to post),"Gradient boosting, full fold",0.79734,100000,123
+3 Temporal (pre to post),"Logistic regression, 10,000 rows",0.63129,100000,123
+3 Temporal (pre to post),"Random forest, 10,000 rows",0.72906,100000,123
+3 Temporal (pre to post),"Gradient boosting, 10,000 rows",0.75749,100000,123
+3 Temporal (pre to post),"TabPFN, 10,000 rows",0.7431,100000,123
+4 Host hold-out,"Logistic regression, full fold",0.68602,500000,123
+4 Host hold-out,"Random forest, full fold",0.83409,500000,123
+4 Host hold-out,"Gradient boosting, full fold",0.8393,500000,123
+4 Host hold-out,"Logistic regression, 10,000 rows",0.68258,500000,123
+4 Host hold-out,"Random forest, 10,000 rows",0.77177,500000,123
+4 Host hold-out,"Gradient boosting, 10,000 rows",0.79197,500000,123
+4 Host hold-out,"TabPFN, 10,000 rows",0.79114,500000,123
+5 Market by time,"Logistic regression, full fold",0.59129,500000,123
+5 Market by time,"Random forest, full fold",0.66921,500000,123
+5 Market by time,"Gradient boosting, full fold",0.67068,500000,123
+5 Market by time,"Logistic regression, 10,000 rows",0.59325,500000,123
+5 Market by time,"Random forest, 10,000 rows",0.65409,500000,123
+5 Market by time,"Gradient boosting, 10,000 rows",0.64146,500000,123
+5 Market by time,"TabPFN, 10,000 rows",0.63527,500000,123

@@ -1,0 +1,12 @@
+Country,Market,Listing-snapshots,Loose,Strict,Difference (pp),Exemption text,Trader ID (DSA),Application pending,Other free text
+Australia,Tasmania,"25,906",95.4,43.5,51.8,53.7,0.0,0.0,1.1
+Singapore,Singapore,"11,136",46.9,22.0,24.9,20.2,0.0,0.0,42.4
+Germany,Berlin,"45,478",71.1,49.8,21.3,0.2,29.7,0.0,0.0
+United States,Boston,"14,333",74.8,62.2,12.6,16.7,0.0,0.0,0.1
+France,Paris,"274,948",81.2,69.7,11.4,14.1,0.0,0.0,0.0
+Canada,Victoria,"11,979",82.9,72.8,10.1,12.2,0.0,0.0,0.0
+France,Lyon,"32,721",65.8,57.9,7.9,12.0,0.0,0.0,0.0
+Turkey,Istanbul,"98,668",65.5,57.6,7.9,13.2,0.0,0.0,0.2
+Spain,Madrid,"93,435",52.7,46.1,6.6,12.1,0.0,0.7,0.3
+United States,San Francisco,"29,800",44.7,39.2,5.5,35.9,0.0,2.7,1.0
+Canada,Vancouver,"24,091",80.2,75.0,5.3,6.1,0.0,0.0,0.5

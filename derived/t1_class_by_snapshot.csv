@@ -1,0 +1,573 @@
+city,country,group,side,date,n,note,y_license,y_strict,y_any,n_uniq_values,c_empty,c_code,c_trader_id,c_pending,c_exempt,c_other_text
+Buenos Aires,Argentina,nonEU,pre,2025-12-29,27015,,459,446,459,422,26556,446,0,0,4,9
+Buenos Aires,Argentina,nonEU,pre,2026-03-30,28019,,477,463,477,438,27542,463,0,1,4,9
+Buenos Aires,Argentina,nonEU,post,2026-06-29,29685,,486,472,486,440,29199,472,0,1,4,9
+Buenos Aires,Argentina,nonEU,post,2026-09-23,29753,,511,497,511,454,29242,497,0,1,4,9
+Barossa Valley,Australia,nonEU,pre,2025-12-28,362,,0,0,0,0,362,0,0,0,0,0
+Barossa Valley,Australia,nonEU,pre,2026-03-30,323,,0,0,0,0,323,0,0,0,0,0
+Barossa Valley,Australia,nonEU,post,2026-06-29,360,,0,0,0,0,360,0,0,0,0,0
+Barossa Valley,Australia,nonEU,post,2026-09-22,352,,0,0,0,0,352,0,0,0,0,0
+"Barwon South West, Vic",Australia,nonEU,pre,2025-12-29,7429,,0,0,0,0,7429,0,0,0,0,0
+"Barwon South West, Vic",Australia,nonEU,pre,2026-03-30,5844,,0,0,0,0,5844,0,0,0,0,0
+"Barwon South West, Vic",Australia,nonEU,post,2026-06-29,7095,,0,0,0,0,7095,0,0,0,0,0
+"Barwon South West, Vic",Australia,nonEU,post,2026-09-23,7128,,0,0,0,0,7128,0,0,0,0,0
+Brisbane,Australia,nonEU,pre,2025-12-11,6312,,0,0,0,0,6312,0,0,0,0,0
+Brisbane,Australia,nonEU,pre,2026-03-19,5720,,0,0,0,0,5720,0,0,0,0,0
+Brisbane,Australia,nonEU,post,2026-06-15,6347,,0,0,0,0,6347,0,0,0,0,0
+Brisbane,Australia,nonEU,post,2026-09-16,6490,,0,0,0,0,6490,0,0,0,0,0
+Melbourne,Australia,nonEU,pre,2025-12-12,26203,,0,0,0,0,26203,0,0,0,0,0
+Melbourne,Australia,nonEU,pre,2026-03-21,16674,,0,0,0,0,16674,0,0,0,0,0
+Melbourne,Australia,nonEU,post,2026-06-16,25728,,0,0,0,0,25728,0,0,0,0,0
+Melbourne,Australia,nonEU,post,2026-09-16,25715,,0,0,0,0,25715,0,0,0,0,0
+Mid North Coast,Australia,nonEU,pre,2025-12-13,5313,,4652,4652,5237,4170,76,4652,0,0,585,0
+Mid North Coast,Australia,nonEU,pre,2026-03-21,4502,,3956,3956,4497,3600,5,3956,0,0,541,0
+Mid North Coast,Australia,nonEU,post,2026-06-19,5328,,4656,4656,5258,4155,70,4656,0,0,602,0
+Mid North Coast,Australia,nonEU,post,2026-09-17,5275,,4620,4620,5208,4129,67,4620,0,0,588,0
+Mornington Peninsula,Australia,nonEU,pre,2025-12-22,4629,,0,0,0,0,4629,0,0,0,0,0
+Mornington Peninsula,Australia,nonEU,pre,2026-03-25,3809,,0,0,0,0,3809,0,0,0,0,0
+Mornington Peninsula,Australia,nonEU,post,2026-06-22,4458,,0,0,0,0,4458,0,0,0,0,0
+Mornington Peninsula,Australia,nonEU,post,2026-09-19,4396,,0,0,0,0,4396,0,0,0,0,0
+Northern Rivers,Australia,nonEU,pre,2025-12-25,6405,,5044,5044,6258,4341,147,5044,0,0,1214,0
+Northern Rivers,Australia,nonEU,pre,2026-03-27,4930,,3887,3887,4916,3378,14,3887,0,0,1029,0
+Northern Rivers,Australia,nonEU,post,2026-06-24,6367,,4939,4939,6222,4232,145,4939,0,0,1283,0
+Northern Rivers,Australia,nonEU,post,2026-09-19,6342,,4913,4913,6210,4218,132,4913,0,0,1297,0
+Sunshine Coast,Australia,nonEU,pre,2025-12-31,6556,,0,0,0,0,6556,0,0,0,0,0
+Sunshine Coast,Australia,nonEU,pre,2026-03-31,5964,,0,0,0,0,5964,0,0,0,0,0
+Sunshine Coast,Australia,nonEU,post,2026-06-30,7297,,0,0,0,0,7297,0,0,0,0,0
+Sunshine Coast,Australia,nonEU,post,2026-09-28,7315,,0,0,0,0,7315,0,0,0,0,0
+Sydney,Australia,nonEU,pre,2025-12-12,20436,,14977,14977,19047,12360,1389,14977,0,0,4070,0
+Sydney,Australia,nonEU,pre,2026-03-21,13563,,10572,10572,13539,8803,24,10572,0,0,2967,0
+Sydney,Australia,nonEU,post,2026-06-16,20573,,15237,15237,19304,12433,1269,15237,0,0,4067,0
+Sydney,Australia,nonEU,post,2026-09-16,20833,,15517,15517,19603,12714,1230,15517,0,0,4086,0
+Tasmania,Australia,nonEU,pre,2025-12-12,6648,,6326,2830,6379,2563,269,2830,0,0,3477,72
+Tasmania,Australia,nonEU,pre,2026-03-19,6031,,5755,2693,5813,2424,218,2693,0,0,3052,68
+Tasmania,Australia,nonEU,post,2026-06-15,6618,,6311,2863,6375,2568,243,2863,0,2,3439,71
+Tasmania,Australia,nonEU,post,2026-09-16,6609,,6315,2889,6380,2611,229,2889,0,6,3418,67
+Western Australia,Australia,nonEU,pre,2025-12-28,12265,,10255,10255,11748,9086,517,10255,0,0,1493,0
+Western Australia,Australia,nonEU,pre,2026-03-29,10465,,9040,9040,10416,8082,49,9040,0,0,1376,0
+Western Australia,Australia,nonEU,post,2026-06-28,11724,,10170,10170,11719,8883,5,10170,0,0,1549,0
+Western Australia,Australia,nonEU,post,2026-09-21,13292,,11145,11145,12836,9708,456,11145,0,0,1691,0
+Vienna,Austria,EU,pre,2025-12-16,14166,,0,0,0,0,14166,0,0,0,0,0
+Vienna,Austria,EU,pre,2026-03-24,7734,,0,0,0,0,7734,0,0,0,0,0
+Vienna,Austria,EU,post,2026-06-20,13283,,0,0,0,0,13283,0,0,0,0,0
+Vienna,Austria,EU,post,2026-09-17,12982,,0,0,0,0,12982,0,0,0,0,0
+Antwerp,Belgium,EU,pre,2025-12-29,2467,,0,0,0,0,2467,0,0,0,0,0
+Antwerp,Belgium,EU,pre,2026-03-30,1848,,0,0,0,0,1848,0,0,0,0,0
+Antwerp,Belgium,EU,post,2026-06-29,2535,,0,0,0,0,2535,0,0,0,0,0
+Antwerp,Belgium,EU,post,2026-09-23,2463,,0,0,0,0,2463,0,0,0,0,0
+Brussels,Belgium,EU,pre,2025-12-27,5873,,0,0,0,0,5873,0,0,0,0,0
+Brussels,Belgium,EU,pre,2026-03-29,3737,,0,0,0,0,3737,0,0,0,0,0
+Brussels,Belgium,EU,post,2026-06-27,5078,,0,0,0,0,5078,0,0,0,0,0
+Brussels,Belgium,EU,post,2026-09-20,4850,,0,0,0,0,4850,0,0,0,0,0
+Ghent,Belgium,EU,pre,2025-12-28,1208,,0,0,0,0,1208,0,0,0,0,0
+Ghent,Belgium,EU,pre,2026-03-30,962,,0,0,0,0,962,0,0,0,0,0
+Ghent,Belgium,EU,post,2026-06-29,1383,,0,0,0,0,1383,0,0,0,0,0
+Ghent,Belgium,EU,post,2026-09-22,1367,,0,0,0,0,1367,0,0,0,0,0
+Belize,Belize,nonEU,pre,2025-12-29,3630,,0,0,0,0,3630,0,0,0,0,0
+Belize,Belize,nonEU,pre,2026-03-30,3074,,0,0,0,0,3074,0,0,0,0,0
+Belize,Belize,nonEU,post,2026-06-29,3608,,0,0,0,0,3608,0,0,0,0,0
+Belize,Belize,nonEU,post,2026-09-25,3671,,0,0,0,0,3671,0,0,0,0,0
+Rio de Janeiro,Brazil,nonEU,pre,2025-12-28,47087,,0,0,0,0,47087,0,0,0,0,0
+Rio de Janeiro,Brazil,nonEU,pre,2026-03-30,40769,,0,0,0,0,40769,0,0,0,0,0
+Rio de Janeiro,Brazil,nonEU,post,2026-06-24,48713,,0,0,0,0,48713,0,0,0,0,0
+Rio de Janeiro,Brazil,nonEU,post,2026-09-22,48247,,0,0,0,0,48247,0,0,0,0,0
+São Paulo,Brazil,nonEU,post,2026-06-14,42354,,0,0,0,0,42354,0,0,0,0,0
+São Paulo,Brazil,nonEU,post,2026-09-14,44080,,0,0,0,0,44080,0,0,0,0,0
+Montreal,Canada,nonEU,pre,2025-12-22,10041,,4971,4966,4971,2633,5070,4966,0,0,2,3
+Montreal,Canada,nonEU,pre,2026-03-16,10206,,5155,5148,5155,2668,5051,5148,0,0,4,3
+Montreal,Canada,nonEU,post,2026-06-15,10656,,5652,5645,5652,2826,5004,5645,0,0,4,3
+Montreal,Canada,nonEU,post,2026-09-14,10717,,5554,5547,5554,2704,5163,5547,0,0,4,3
+New Brunswick,Canada,nonEU,pre,2025-12-29,3566,,0,0,0,0,3566,0,0,0,0,0
+New Brunswick,Canada,nonEU,pre,2026-03-30,3678,,0,0,0,0,3678,0,0,0,0,0
+New Brunswick,Canada,nonEU,post,2026-06-30,4620,,1,1,1,1,4619,1,0,0,0,0
+New Brunswick,Canada,nonEU,post,2026-09-25,4680,,1,1,1,1,4679,1,0,0,0,0
+Ottawa,Canada,nonEU,pre,2025-12-25,2721,,1467,1467,1643,1014,1078,1467,0,0,176,0
+Ottawa,Canada,nonEU,pre,2026-03-27,914,,853,853,913,631,1,853,0,0,60,0
+Ottawa,Canada,nonEU,post,2026-06-24,2727,,1430,1430,1615,988,1112,1430,0,0,185,0
+Ottawa,Canada,nonEU,post,2026-09-19,2806,,1430,1430,1620,986,1186,1430,0,0,190,0
+Quebec City,Canada,nonEU,pre,2025-12-13,2391,,1714,1714,1714,1064,677,1714,0,0,0,0
+Quebec City,Canada,nonEU,pre,2026-03-21,1420,,1418,1418,1418,903,2,1418,0,0,0,0
+Quebec City,Canada,nonEU,post,2026-06-19,2204,,1654,1654,1654,1034,550,1654,0,0,0,0
+Quebec City,Canada,nonEU,post,2026-09-17,2588,,1840,1840,1840,1156,748,1840,0,0,0,0
+Toronto,Canada,nonEU,pre,2025-12-12,21602,,10338,10332,10456,8168,11146,10332,0,0,118,6
+Toronto,Canada,nonEU,pre,2026-03-19,15490,,9233,9227,9308,7508,6182,9227,0,0,75,6
+Toronto,Canada,nonEU,post,2026-06-15,22198,,11908,11902,12014,9619,10184,11902,0,0,106,6
+Toronto,Canada,nonEU,post,2026-09-16,22050,,11725,11719,11828,9456,10222,11719,0,0,103,6
+Vancouver,Canada,nonEU,pre,2025-12-14,5726,,4413,4095,4413,3537,1313,4095,0,0,291,27
+Vancouver,Canada,nonEU,pre,2026-03-21,5725,,4518,4217,4518,3676,1207,4217,0,0,274,27
+Vancouver,Canada,nonEU,post,2026-06-15,6509,,5368,4999,5368,4318,1141,4999,0,0,349,20
+Vancouver,Canada,nonEU,post,2026-09-17,6131,,5034,4749,5034,4177,1097,4749,0,0,265,20
+Victoria,Canada,nonEU,pre,2025-12-29,2874,,2296,2054,2296,1844,578,2054,0,0,242,0
+Victoria,Canada,nonEU,pre,2026-03-30,1987,,1976,1755,1976,1569,11,1755,0,0,221,0
+Victoria,Canada,nonEU,post,2026-06-29,3530,,2794,2438,2794,2159,736,2438,0,0,356,0
+Victoria,Canada,nonEU,post,2026-09-25,3588,,2870,2479,2870,2192,718,2479,0,0,391,0
+Winnipeg,Canada,nonEU,pre,2025-12-22,1713,,727,727,729,594,984,727,0,0,2,0
+Winnipeg,Canada,nonEU,pre,2026-03-25,1256,,686,686,688,567,568,686,0,0,2,0
+Winnipeg,Canada,nonEU,post,2026-06-22,1790,,767,767,768,626,1022,767,0,0,1,0
+Winnipeg,Canada,nonEU,post,2026-09-19,1851,,790,790,791,643,1060,790,0,0,1,0
+Santiago,Chile,nonEU,pre,2025-12-29,17137,,160,148,160,121,16977,148,0,0,2,10
+Santiago,Chile,nonEU,pre,2026-03-30,15945,,143,131,143,112,15802,131,0,0,1,11
+Santiago,Chile,nonEU,post,2026-06-29,18534,,179,165,179,130,18355,165,0,0,2,12
+Santiago,Chile,nonEU,post,2026-09-23,18904,,169,156,169,123,18735,156,0,0,2,11
+Hong Kong,China,nonEU,pre,2025-12-27,6630,,0,0,0,0,6630,0,0,0,0,0
+Hong Kong,China,nonEU,pre,2026-03-29,2115,,0,0,0,0,2115,0,0,0,0,0
+Hong Kong,China,nonEU,post,2026-06-27,6734,,0,0,0,0,6734,0,0,0,0,0
+Hong Kong,China,nonEU,post,2026-09-20,6614,,0,0,0,0,6614,0,0,0,0,0
+Bogotá,Colombia,nonEU,post,2026-06-21,19187,,16255,16217,16255,9243,2932,16217,0,0,0,38
+Bogotá,Colombia,nonEU,post,2026-09-14,19505,,16563,16533,16563,9475,2942,16533,0,0,0,30
+Prague,Czech Republic,EU,pre,2025-12-27,11347,,0,0,0,0,11347,0,0,0,0,0
+Prague,Czech Republic,EU,pre,2026-03-29,9078,,0,0,0,0,9078,0,0,0,0,0
+Prague,Czech Republic,EU,post,2026-06-27,11615,,0,0,0,0,11615,0,0,0,0,0
+Prague,Czech Republic,EU,post,2026-09-20,11804,,0,0,0,0,11804,0,0,0,0,0
+Copenhagen,Denmark,EU,pre,2025-12-30,12926,,0,0,0,0,12926,0,0,0,0,0
+Copenhagen,Denmark,EU,pre,2026-03-30,10965,,0,0,0,0,10965,0,0,0,0,0
+Copenhagen,Denmark,EU,post,2026-06-30,23144,,0,0,0,0,23144,0,0,0,0,0
+Copenhagen,Denmark,EU,post,2026-09-25,22845,,0,0,0,0,22845,0,0,0,0,0
+Bordeaux,France,EU,pre,2025-12-22,12180,,4751,4180,4751,4005,7429,4180,0,0,556,15
+Bordeaux,France,EU,pre,2026-03-25,6822,,2810,2685,2810,2589,4012,2685,0,0,110,15
+Bordeaux,France,EU,post,2026-06-22,12217,,4832,4270,4832,4102,7385,4270,0,0,543,19
+Bordeaux,France,EU,post,2026-09-17,12063,,4692,4135,4692,3988,7371,4135,0,0,536,21
+Lyon,France,EU,pre,2025-12-22,9800,,6030,5303,6030,5079,3770,5303,0,0,727,0
+Lyon,France,EU,pre,2026-03-25,4403,,3713,3392,3713,3265,690,3392,0,0,321,0
+Lyon,France,EU,post,2026-06-22,9317,,6000,5223,6000,5015,3317,5223,0,0,777,0
+Lyon,France,EU,post,2026-09-17,9201,,5774,5016,5774,4822,3427,5016,0,0,758,0
+Paris,France,EU,pre,2025-12-13,82045,,64630,54125,64630,52049,17415,54125,0,0,10505,0
+Paris,France,EU,pre,2026-03-21,38075,,33798,31835,33798,30643,4277,31835,0,0,1963,0
+Paris,France,EU,post,2026-06-16,77679,,63436,53764,63436,51760,14243,53764,0,0,9672,0
+Paris,France,EU,post,2026-09-16,77149,,61370,52040,61370,50178,15779,52040,0,0,9329,1
+Pays Basque,France,EU,pre,2025-12-25,11311,,8363,7951,8366,7667,2945,7951,0,0,406,9
+Pays Basque,France,EU,pre,2026-03-26,11519,,8483,8092,8483,7791,3036,8092,0,0,382,9
+Pays Basque,France,EU,post,2026-06-23,12081,,8945,8544,8945,8227,3136,8544,0,0,392,9
+Pays Basque,France,EU,post,2026-09-19,11785,,8469,8085,8469,7812,3316,8085,0,0,375,9
+Berlin,Germany,EU,pre,2025-12-27,14470,,9372,6516,9372,7678,5098,6516,2853,0,0,3
+Berlin,Germany,EU,pre,2026-03-28,5856,,5816,4023,5816,4903,40,4023,1793,0,0,0
+Berlin,Germany,EU,post,2026-06-26,12776,,8809,6206,8809,7295,3967,6206,2602,0,0,1
+Berlin,Germany,EU,post,2026-09-19,12376,,8336,5910,8336,6838,4040,5910,2351,0,75,0
+Munich,Germany,EU,pre,2025-12-29,4757,,29,28,29,13,4728,28,0,0,0,1
+Munich,Germany,EU,pre,2026-03-30,3569,,29,29,29,13,3540,29,0,0,0,0
+Munich,Germany,EU,post,2026-06-29,6865,,35,34,35,18,6830,34,0,0,0,1
+Munich,Germany,EU,post,2026-09-23,7493,,40,39,40,23,7453,39,0,0,0,1
+Athens,Greece,EU,pre,2025-12-28,14842,,14537,14537,14649,12783,193,14537,0,0,112,0
+Athens,Greece,EU,pre,2026-03-30,13304,,13057,13057,13171,11484,133,13057,0,0,114,0
+Athens,Greece,EU,post,2026-06-28,14337,,13670,13670,13816,12004,521,13670,0,0,146,0
+Athens,Greece,EU,post,2026-09-22,15134,,14463,14463,14623,12651,511,14463,0,0,160,0
+Crete,Greece,EU,pre,2025-12-29,26225,,25377,25377,25707,17405,518,25377,0,0,330,0
+Crete,Greece,EU,pre,2026-03-30,23205,,22600,22600,22915,15840,290,22600,0,0,315,0
+Crete,Greece,EU,post,2026-06-29,27333,,25823,25823,26150,17970,1183,25823,0,0,327,0
+Crete,Greece,EU,post,2026-09-25,27381,,26140,26140,26424,18123,957,26140,0,0,284,0
+South Aegean,Greece,EU,pre,2025-12-27,34834,,33608,33608,33955,22149,879,33608,0,0,347,0
+South Aegean,Greece,EU,pre,2026-03-29,30349,,29570,29570,29838,20089,511,29570,0,0,268,0
+South Aegean,Greece,EU,post,2026-06-28,36680,,34614,34614,34974,23036,1706,34614,0,0,360,0
+South Aegean,Greece,EU,post,2026-09-20,36644,,34684,34684,35001,23044,1643,34684,0,0,317,0
+Thessaloniki,Greece,EU,pre,2025-12-28,4690,,4634,4634,4668,4372,22,4634,0,0,34,0
+Thessaloniki,Greece,EU,pre,2026-03-30,4356,,4300,4300,4331,4062,25,4300,0,0,31,0
+Thessaloniki,Greece,EU,post,2026-06-29,4965,,4785,4785,4825,4529,140,4785,0,0,40,0
+Thessaloniki,Greece,EU,post,2026-09-22,4961,,4819,4819,4856,4552,105,4819,0,0,37,0
+Budapest,Hungary,EU,pre,2025-12-28,10872,,10178,10178,10178,7972,694,10178,0,0,0,0
+Budapest,Hungary,EU,pre,2026-03-29,9510,,9024,9024,9024,7096,486,9024,0,0,0,0
+Budapest,Hungary,EU,post,2026-06-28,11454,,10572,10572,10572,8237,882,10572,0,0,0,0
+Budapest,Hungary,EU,post,2026-09-21,11240,,10332,10332,10332,8047,908,10332,0,0,0,0
+Dublin,Ireland,EU,pre,2025-12-16,6834,,0,0,0,0,6834,0,0,0,0,0
+Dublin,Ireland,EU,pre,2026-03-25,4086,,0,0,0,0,4086,0,0,0,0,0
+Dublin,Ireland,EU,post,2026-06-21,6966,,0,0,0,0,6966,0,0,0,0,0
+Dublin,Ireland,EU,post,2026-09-17,6748,,0,0,0,0,6748,0,0,0,0,0
+Ireland (nationwide),Ireland,EU,pre,2025-12-14,32220,,0,0,0,0,32220,0,0,0,0,0
+Ireland (nationwide),Ireland,EU,pre,2026-03-21,25972,,0,0,0,0,25972,0,0,0,0,0
+Ireland (nationwide),Ireland,EU,post,2026-06-21,32434,,0,0,0,0,32434,0,0,0,0,0
+Ireland (nationwide),Ireland,EU,post,2026-09-17,32390,,0,0,0,0,32390,0,0,0,0,0
+Bergamo,Italy,EU,pre,2025-12-31,3524,,3128,3084,3141,2553,383,3084,0,44,13,0
+Bergamo,Italy,EU,pre,2026-03-31,3356,,3188,3173,3192,2639,164,3173,0,15,4,0
+Bergamo,Italy,EU,post,2026-06-30,4237,,3715,3673,3721,2986,516,3673,0,42,6,0
+Bergamo,Italy,EU,post,2026-09-25,4294,,3806,3769,3810,3062,484,3769,0,37,4,0
+Bologna,Italy,EU,pre,2026-03-27,3736,,3581,3555,3594,2755,142,3555,0,26,13,0
+Bologna,Italy,EU,post,2026-06-26,4948,,4325,4271,4343,3260,605,4271,0,54,18,0
+Bologna,Italy,EU,post,2026-09-19,5094,,4326,4270,4344,3269,750,4270,0,56,18,0
+Florence,Italy,EU,pre,2025-12-26,13327,,12248,12143,12270,9766,1057,12143,0,105,22,0
+Florence,Italy,EU,pre,2026-03-27,10709,,10354,10341,10378,8576,331,10341,0,13,24,0
+Florence,Italy,EU,post,2026-06-26,13472,,12296,12194,12324,9846,1148,12194,0,102,28,0
+Florence,Italy,EU,post,2026-09-19,13571,,12086,11998,12114,9695,1457,11998,0,88,28,0
+Milan,Italy,EU,pre,2025-12-26,24107,,20725,20025,20827,17733,3280,20025,0,700,102,0
+Milan,Italy,EU,pre,2026-03-27,18835,,18625,18243,18678,16436,157,18243,0,382,53,0
+Milan,Italy,EU,post,2026-06-25,25750,,22398,21842,22499,19394,3251,21842,0,556,101,0
+Milan,Italy,EU,post,2026-09-19,25338,,21385,20899,21487,18692,3851,20899,0,486,102,0
+Naples,Italy,EU,pre,2025-12-26,11273,,8481,8246,8552,5866,2721,8246,0,235,71,0
+Naples,Italy,EU,pre,2026-03-27,8610,,7215,7165,7279,5283,1331,7165,0,50,64,0
+Naples,Italy,EU,post,2026-06-25,11575,,8707,8515,8775,5990,2800,8515,0,192,68,0
+Naples,Italy,EU,post,2026-09-19,11737,,8622,8439,8687,5965,3050,8439,0,183,65,0
+Puglia,Italy,EU,pre,2025-12-31,40664,,33541,33219,33605,24630,7059,33219,0,322,64,0
+Puglia,Italy,EU,pre,2026-03-31,37151,,34370,34265,34430,25249,2721,34265,0,105,60,0
+Puglia,Italy,EU,post,2026-06-30,48683,,40001,39669,40080,28675,8603,39669,0,332,79,0
+Puglia,Italy,EU,post,2026-09-25,48389,,39760,39439,39842,28401,8547,39439,0,321,82,0
+Rome,Italy,EU,pre,2025-12-16,37162,,32417,32109,32484,26208,4678,32109,0,308,67,0
+Rome,Italy,EU,pre,2026-03-24,30063,,28424,28359,28468,23746,1595,28359,0,65,44,0
+Rome,Italy,EU,post,2026-06-20,37084,,32616,32336,32671,26336,4413,32336,0,280,55,0
+Rome,Italy,EU,post,2026-09-17,37451,,32122,31886,32179,26096,5272,31886,0,236,57,0
+Sicily,Italy,EU,pre,2025-12-30,49786,,40279,39546,40470,28680,9316,39546,0,733,191,0
+Sicily,Italy,EU,pre,2026-03-31,42502,,39508,39298,39693,28757,2809,39298,0,210,185,0
+Sicily,Italy,EU,post,2026-06-30,56873,,45590,44774,45801,32177,11072,44774,0,816,211,0
+Sicily,Italy,EU,post,2026-09-25,56783,,45363,44629,45593,32164,11190,44629,0,734,230,0
+Trentino,Italy,EU,pre,2025-12-31,8174,,7615,7574,7618,6158,556,7574,0,41,3,0
+Trentino,Italy,EU,pre,2026-03-31,8007,,7683,7679,7686,6248,321,7679,0,4,3,0
+Trentino,Italy,EU,post,2026-06-30,10084,,9160,9125,9167,7298,917,9125,0,35,7,0
+Trentino,Italy,EU,post,2026-09-28,10237,,9375,9341,9382,7471,855,9341,0,34,7,0
+Venice,Italy,EU,pre,2025-12-11,8605,,7963,7944,7977,6292,628,7944,0,19,14,0
+Venice,Italy,EU,pre,2026-03-19,7865,,7507,7492,7519,6094,346,7492,0,15,12,0
+Venice,Italy,EU,post,2026-06-15,8766,,8228,8211,8238,6468,528,8211,0,17,10,0
+Venice,Italy,EU,post,2026-09-16,8844,,8098,8079,8109,6408,735,8079,0,19,11,0
+Tokyo,Japan,nonEU,pre,2025-12-29,29807,,29777,29460,29777,18380,30,29460,0,0,0,317
+Tokyo,Japan,nonEU,pre,2026-03-30,24790,,24764,24446,24764,17639,26,24446,0,0,0,318
+Tokyo,Japan,nonEU,post,2026-06-30,34419,,34407,33987,34407,20861,12,33987,0,0,0,420
+Tokyo,Japan,nonEU,post,2026-09-25,35970,,24432,24167,24511,16567,11459,24167,0,0,79,265
+Nairobi,Kenya,nonEU,post,2026-06-15,22008,,0,0,0,0,22008,0,0,0,0,0
+Nairobi,Kenya,nonEU,post,2026-09-14,22669,,0,0,0,0,22669,0,0,0,0,0
+Riga,Latvia,EU,pre,2025-12-30,2736,,0,0,0,0,2736,0,0,0,0,0
+Riga,Latvia,EU,pre,2026-03-31,2628,,0,0,0,0,2628,0,0,0,0,0
+Riga,Latvia,EU,post,2026-06-30,3471,,0,0,0,0,3471,0,0,0,0,0
+Riga,Latvia,EU,post,2026-09-25,3420,,0,0,0,0,3420,0,0,0,0,0
+Malta (nationwide),Malta,EU,pre,2025-12-28,11834,,0,0,0,0,11834,0,0,0,0,0
+Malta (nationwide),Malta,EU,pre,2026-03-30,11646,,0,0,0,0,11646,0,0,0,0,0
+Malta (nationwide),Malta,EU,post,2026-06-28,13155,,0,0,0,0,13155,0,0,0,0,0
+Malta (nationwide),Malta,EU,post,2026-09-21,13256,,0,0,0,0,13256,0,0,0,0,0
+Mexico City,Mexico,nonEU,pre,2025-12-29,23242,,0,0,0,0,23242,0,0,0,0,0
+Mexico City,Mexico,nonEU,pre,2026-03-30,22770,,0,0,0,0,22770,0,0,0,0,0
+Mexico City,Mexico,nonEU,post,2026-06-15,31430,,0,0,0,0,31430,0,0,0,0,0
+Mexico City,Mexico,nonEU,post,2026-09-23,30468,,0,0,0,0,30468,0,0,0,0,0
+New Zealand (nationwide),New Zealand,nonEU,pre,2025-11-07,48624,,0,0,0,0,48624,0,0,0,0,0
+New Zealand (nationwide),New Zealand,nonEU,pre,2025-12-11,49899,,0,0,0,0,49899,0,0,0,0,0
+New Zealand (nationwide),New Zealand,nonEU,pre,2026-01-16,46819,,0,0,0,0,46819,0,0,0,0,0
+New Zealand (nationwide),New Zealand,nonEU,pre,2026-02-13,48692,,0,0,0,0,48692,0,0,0,0,0
+New Zealand (nationwide),New Zealand,nonEU,pre,2026-03-17,49076,,0,0,0,0,49076,0,0,0,0,0
+New Zealand (nationwide),New Zealand,nonEU,pre,2026-04-16,48951,,0,0,0,0,48951,0,0,0,0,0
+New Zealand (nationwide),New Zealand,nonEU,post,2026-05-23,49305,,0,0,0,0,49305,0,0,0,0,0
+New Zealand (nationwide),New Zealand,nonEU,post,2026-06-19,50926,,0,0,0,0,50926,0,0,0,0,0
+New Zealand (nationwide),New Zealand,nonEU,post,2026-07-12,51096,,0,0,0,0,51096,0,0,0,0,0
+New Zealand (nationwide),New Zealand,nonEU,post,2026-08-13,51325,,0,0,0,0,51325,0,0,0,0,0
+New Zealand (nationwide),New Zealand,nonEU,post,2026-09-13,51658,,0,0,0,0,51658,0,0,0,0,0
+Oslo,Norway,EEA_nonEU,pre,2025-12-30,8443,,0,0,0,0,8443,0,0,0,0,0
+Oslo,Norway,EEA_nonEU,pre,2026-03-31,7901,,0,0,0,0,7901,0,0,0,0,0
+Oslo,Norway,EEA_nonEU,post,2026-06-30,13391,,0,0,0,0,13391,0,0,0,0,0
+Oslo,Norway,EEA_nonEU,post,2026-09-25,13089,,0,0,0,0,13089,0,0,0,0,0
+Lisbon,Portugal,EU,pre,2025-12-25,25277,,19214,19098,24106,13585,1171,19098,0,1,4892,115
+Lisbon,Portugal,EU,pre,2026-03-26,24950,,19243,19132,23736,13545,1214,19132,0,1,4493,110
+Lisbon,Portugal,EU,post,2026-06-23,24876,,19100,18995,23834,13503,1042,18995,0,1,4734,104
+Lisbon,Portugal,EU,post,2026-09-19,25020,,18742,18639,23278,13341,1742,18639,0,1,4536,102
+Porto,Portugal,EU,pre,2025-12-25,14999,,13289,13278,14712,9729,287,13278,0,0,1423,11
+Porto,Portugal,EU,pre,2026-03-26,15246,,13546,13536,14934,9905,312,13536,0,0,1388,10
+Porto,Portugal,EU,post,2026-06-23,15278,,13599,13589,15034,9988,244,13589,0,0,1435,10
+Porto,Portugal,EU,post,2026-09-19,15551,,13358,13349,14765,9871,786,13349,0,0,1407,9
+Singapore,Singapore,nonEU,pre,2025-12-29,3639,,1731,797,2024,194,1615,797,0,0,293,934
+Singapore,Singapore,nonEU,pre,2026-03-30,1192,,917,414,1042,92,150,414,0,0,125,503
+Singapore,Singapore,nonEU,post,2026-06-29,3097,,1342,623,1741,143,1356,623,0,0,399,719
+Singapore,Singapore,nonEU,post,2026-09-23,3208,,1233,615,1737,138,1471,615,0,0,504,618
+Cape Town,South Africa,nonEU,pre,2025-12-29,23965,,130,125,130,75,23835,125,0,0,3,2
+Cape Town,South Africa,nonEU,pre,2026-03-30,21900,,117,112,117,71,21783,112,0,0,3,2
+Cape Town,South Africa,nonEU,post,2026-06-29,27381,,162,157,162,84,27219,157,0,0,3,2
+Cape Town,South Africa,nonEU,post,2026-09-23,27760,,164,159,164,87,27596,159,0,0,3,2
+Barcelona,Spain,EU,pre,2025-12-14,18177,,11013,10935,11014,9253,7163,10935,0,0,79,0
+Barcelona,Spain,EU,pre,2026-03-21,16107,,11460,11301,11461,9815,4646,11301,0,0,160,0
+Barcelona,Spain,EU,post,2026-06-24,15293,,12249,11863,12250,10371,3043,11863,0,0,387,0
+Barcelona,Spain,EU,post,2026-09-17,15236,,9769,9084,9770,7988,5466,9084,0,0,686,0
+Euskadi,Spain,EU,pre,2025-12-31,5460,,4662,4379,4697,3856,763,4379,0,1,270,47
+Euskadi,Spain,EU,pre,2026-03-31,5111,,4618,4468,4634,3795,477,4468,0,1,151,14
+Euskadi,Spain,EU,post,2026-06-30,6248,,5508,5335,5510,4489,738,5335,0,1,142,32
+Euskadi,Spain,EU,post,2026-09-25,6248,,5126,4938,5128,4242,1120,4938,0,1,162,27
+Girona,Spain,EU,pre,2025-12-31,17069,,16039,16009,16041,14249,1028,16009,0,0,32,0
+Girona,Spain,EU,pre,2026-03-31,16834,,16433,16420,16434,14943,400,16420,0,0,14,0
+Girona,Spain,EU,post,2026-06-30,21257,,20122,20034,20123,18071,1134,20034,0,0,89,0
+Girona,Spain,EU,post,2026-09-25,20470,,17794,17680,17796,16137,2674,17680,0,0,116,0
+Madrid,Spain,EU,pre,2025-12-14,24616,,10617,9607,10768,8188,13848,9607,0,241,860,60
+Madrid,Spain,EU,pre,2026-03-24,23002,,11862,10765,11946,9177,11056,10765,0,50,1092,39
+Madrid,Spain,EU,post,2026-06-20,22708,,14599,12743,14652,10736,8056,12743,0,24,1859,26
+Madrid,Spain,EU,post,2026-09-17,23109,,12152,9956,12196,8628,10913,9956,0,14,2207,19
+Malaga,Spain,EU,pre,2025-12-31,8811,,7815,7802,7815,6406,996,7802,0,0,13,0
+Malaga,Spain,EU,pre,2026-03-31,8098,,7725,7690,7725,6348,373,7690,0,0,35,0
+Malaga,Spain,EU,post,2026-06-30,9568,,8869,8812,8869,7217,699,8812,0,0,57,0
+Malaga,Spain,EU,post,2026-09-28,9505,,7285,7237,7285,6187,2220,7237,0,0,48,0
+Mallorca,Spain,EU,pre,2025-12-25,12927,,12907,12689,12907,10765,20,12689,0,0,102,116
+Mallorca,Spain,EU,pre,2026-03-26,12478,,12464,12261,12464,10230,14,12261,0,0,135,68
+Mallorca,Spain,EU,post,2026-06-23,14817,,14754,14386,14754,11900,63,14386,0,0,285,83
+Mallorca,Spain,EU,post,2026-09-19,14901,,13853,13368,13853,11251,1048,13368,0,0,395,90
+Menorca,Spain,EU,pre,2025-12-31,2748,,2744,2697,2744,2295,4,2697,0,0,21,26
+Menorca,Spain,EU,pre,2026-03-31,3048,,3038,3008,3038,2567,10,3008,0,0,10,20
+Menorca,Spain,EU,post,2026-06-30,3620,,3467,3414,3467,2892,153,3414,0,0,32,21
+Menorca,Spain,EU,post,2026-09-28,3625,,3444,3378,3444,2900,181,3378,0,0,25,41
+Sevilla,Spain,EU,pre,2025-12-30,7674,,6957,6901,6957,5473,717,6901,0,0,56,0
+Sevilla,Spain,EU,pre,2026-03-31,7093,,6804,6756,6804,5397,289,6756,0,0,48,0
+Sevilla,Spain,EU,post,2026-06-30,8245,,7726,7634,7726,5976,519,7634,0,0,92,0
+Sevilla,Spain,EU,post,2026-09-25,8375,,6332,6250,6332,5248,2043,6250,0,0,82,0
+Valencia,Spain,EU,pre,2025-12-27,7702,,5217,5155,5219,4559,2483,5155,0,0,57,7
+Valencia,Spain,EU,pre,2026-03-28,4930,,3806,3739,3808,3304,1122,3739,0,0,67,2
+Valencia,Spain,EU,post,2026-06-26,7851,,6349,6087,6349,5407,1502,6087,0,0,261,1
+Valencia,Spain,EU,post,2026-09-20,7968,,5112,4701,5112,4254,2856,4701,0,0,409,2
+Stockholm,Sweden,EU,pre,2025-12-30,3173,,0,0,0,0,3173,0,0,0,0,0
+Stockholm,Sweden,EU,pre,2026-03-31,2566,,0,0,0,0,2566,0,0,0,0,0
+Stockholm,Sweden,EU,post,2026-06-30,4806,,0,0,0,0,4806,0,0,0,0,0
+Stockholm,Sweden,EU,post,2026-09-25,4574,,0,0,0,0,4574,0,0,0,0,0
+Geneva,Switzerland,EEA_nonEU,pre,2025-12-29,2764,,3,2,3,3,2761,2,0,0,1,0
+Geneva,Switzerland,EEA_nonEU,pre,2026-03-30,1684,,2,2,2,2,1682,2,0,0,0,0
+Geneva,Switzerland,EEA_nonEU,post,2026-06-29,2593,,2,1,2,2,2591,1,0,0,1,0
+Geneva,Switzerland,EEA_nonEU,post,2026-09-23,2538,,3,2,3,3,2535,2,0,0,1,0
+Vaud,Switzerland,EEA_nonEU,pre,2020-06-21,4498,,6,6,6,1,4492,6,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2020-07-22,4545,,6,6,6,1,4539,6,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2020-08-17,4506,,0,0,0,0,4506,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2020-09-07,4459,,0,0,0,0,4459,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2020-10-05,4257,,0,0,0,0,4257,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2020-11-02,4273,,0,0,0,0,4273,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2020-12-10,4337,,0,0,0,0,4337,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2021-01-08,4327,,0,0,0,0,4327,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2021-02-04,4344,,0,0,0,0,4344,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2021-03-03,4363,,0,0,0,0,4363,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2021-04-08,4471,,0,0,0,0,4471,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2021-05-08,4484,,0,0,0,0,4484,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2021-06-02,4512,,0,0,0,0,4512,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2021-07-03,4628,,0,0,0,0,4628,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2021-08-04,4584,,0,0,0,0,4584,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2021-09-02,4567,,0,0,0,0,4567,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2021-10-06,4558,,0,0,0,0,4558,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2021-11-04,4548,,0,0,0,0,4548,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2021-12-04,4634,,0,0,0,0,4634,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2022-01-06,4644,,0,0,0,0,4644,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2022-02-05,4595,,0,0,0,0,4595,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2022-03-08,4767,,7,7,7,6,4760,7,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2022-04-09,4801,,7,7,7,6,4794,7,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2022-05-17,4746,,8,8,8,7,4738,8,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2022-06-03,5145,,15,15,15,13,5130,15,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2022-07-07,5329,,16,16,16,14,5313,16,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2022-08-03,5254,,17,17,17,15,5237,17,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2022-09-07,5351,,17,17,17,15,5334,17,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2022-10-04,5365,,17,17,17,15,5348,17,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2022-11-02,4836,,0,0,0,0,4836,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2022-12-04,4912,,0,0,0,0,4912,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2023-01-04,4972,,0,0,0,0,4972,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2023-02-05,4982,,0,0,0,0,4982,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2023-03-07,4986,,0,0,0,0,4986,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2023-04-05,4754,,0,0,0,0,4754,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2023-05-03,5027,,0,0,0,0,5027,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2023-06-05,5101,,0,0,0,0,5101,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2023-07-03,5214,,0,0,0,0,5214,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2023-08-03,5230,,0,0,0,0,5230,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2023-09-02,5214,,0,0,0,0,5214,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2023-10-01,5204,,0,0,0,0,5204,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2023-11-01,5191,,0,0,0,0,5191,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2023-12-02,5227,,0,0,0,0,5227,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2024-01-05,5264,,0,0,0,0,5264,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2024-02-12,5286,,0,0,0,0,5286,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2024-03-10,5381,,0,0,0,0,5381,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2024-04-06,5315,,0,0,0,0,5315,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2024-05-03,5327,,0,0,0,0,5327,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2024-06-04,5414,,0,0,0,0,5414,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2024-07-14,5578,,0,0,0,0,5578,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2024-08-25,5578,,0,0,0,0,5578,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2024-09-17,5538,,0,0,0,0,5538,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2024-10-27,5505,,0,0,0,0,5505,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2024-11-20,5524,,0,0,0,0,5524,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2024-12-29,5552,,0,0,0,0,5552,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2025-01-26,5573,,0,0,0,0,5573,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2025-02-06,5606,,0,0,0,0,5606,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2025-03-01,5609,,0,0,0,0,5609,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2025-04-03,5625,,0,0,0,0,5625,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2025-05-02,5633,,0,0,0,0,5633,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2025-06-06,5655,,0,0,0,0,5655,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2025-07-04,5714,,0,0,0,0,5714,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2025-08-03,5743,,0,0,0,0,5743,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2025-09-06,5584,,0,0,0,0,5584,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2025-10-05,5514,,0,0,0,0,5514,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2025-11-01,5486,,0,0,0,0,5486,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2025-12-11,5519,,0,0,0,0,5519,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2026-01-15,3851,,0,0,0,0,3851,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2026-02-13,5547,,0,0,0,0,5547,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2026-03-16,5480,,0,0,0,0,5480,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,pre,2026-04-14,5421,,0,0,0,0,5421,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,post,2026-05-23,5249,,0,0,0,0,5249,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,post,2026-06-15,5301,,0,0,0,0,5301,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,post,2026-07-12,5402,,0,0,0,0,5402,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,post,2026-08-10,5295,,0,0,0,0,5295,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,post,2026-09-14,5257,,0,0,0,0,5257,0,0,0,0,0
+Vaud,Switzerland,EEA_nonEU,post,2026-10-05,5235,,0,0,0,0,5235,0,0,0,0,0
+Zurich,Switzerland,EEA_nonEU,pre,2025-12-29,2756,,0,0,0,0,2756,0,0,0,0,0
+Zurich,Switzerland,EEA_nonEU,pre,2026-03-30,1828,,0,0,0,0,1828,0,0,0,0,0
+Zurich,Switzerland,EEA_nonEU,post,2026-06-30,3308,,0,0,0,0,3308,0,0,0,0,0
+Zurich,Switzerland,EEA_nonEU,post,2026-09-25,3174,,0,0,0,0,3174,0,0,0,0,0
+Taipei,Taiwan,nonEU,pre,2025-12-31,5536,,0,0,0,0,5536,0,0,0,0,0
+Taipei,Taiwan,nonEU,pre,2026-03-31,4049,,0,0,0,0,4049,0,0,0,0,0
+Taipei,Taiwan,nonEU,post,2026-06-30,6419,,0,0,0,0,6419,0,0,0,0,0
+Taipei,Taiwan,nonEU,post,2026-09-28,6367,,0,0,0,0,6367,0,0,0,0,0
+Bangkok,Thailand,nonEU,pre,2025-12-28,29888,,0,0,0,0,29888,0,0,0,0,0
+Bangkok,Thailand,nonEU,pre,2026-03-30,16444,,0,0,0,0,16444,0,0,0,0,0
+Bangkok,Thailand,nonEU,post,2026-06-29,31069,,0,0,0,0,31069,0,0,0,0,0
+Bangkok,Thailand,nonEU,post,2026-09-22,30922,,0,0,0,0,30922,0,0,0,0,0
+Amsterdam,The Netherlands,EU,pre,2025-12-12,10835,,9837,9837,10722,9343,113,9837,0,0,885,0
+Amsterdam,The Netherlands,EU,pre,2026-03-19,6503,,5684,5684,6239,5342,264,5684,0,0,555,0
+Amsterdam,The Netherlands,EU,post,2026-06-15,10369,,9511,9511,10146,9032,223,9511,0,0,635,0
+Amsterdam,The Netherlands,EU,post,2026-09-16,10612,,9541,9541,10146,9092,466,9541,0,0,605,0
+Rotterdam,The Netherlands,EU,pre,2025-12-28,1353,,1071,1070,1309,930,44,1070,0,0,238,1
+Rotterdam,The Netherlands,EU,pre,2026-03-29,742,,547,547,710,450,32,547,0,0,163,0
+Rotterdam,The Netherlands,EU,post,2026-06-28,1357,,1050,1049,1268,913,89,1049,0,0,218,1
+Rotterdam,The Netherlands,EU,post,2026-09-21,1395,,1035,1034,1276,900,119,1034,0,0,241,1
+The Hague,The Netherlands,EU,pre,2025-12-28,979,,649,649,960,601,19,649,0,0,311,0
+The Hague,The Netherlands,EU,pre,2026-03-29,928,,607,607,913,569,15,607,0,0,306,0
+The Hague,The Netherlands,EU,post,2026-06-28,1492,,1054,1054,1423,986,69,1054,0,0,369,0
+The Hague,The Netherlands,EU,post,2026-09-21,1442,,1025,1025,1380,970,62,1025,0,0,355,0
+Istanbul,Turkey,nonEU,pre,2025-12-30,30465,,16949,15495,17331,6824,13134,15495,0,0,1799,37
+Istanbul,Turkey,nonEU,pre,2026-03-31,14340,,14142,12802,14310,5742,30,12802,0,0,1475,33
+Istanbul,Turkey,nonEU,post,2026-06-30,26631,,16054,13943,16338,5353,10293,13943,0,0,2366,29
+Istanbul,Turkey,nonEU,post,2026-09-25,27232,,17494,14617,17703,5080,9529,14617,0,0,3054,32
+Bristol,United Kingdom,nonEU,pre,2025-12-28,2939,,0,0,0,0,2939,0,0,0,0,0
+Bristol,United Kingdom,nonEU,pre,2026-03-30,1979,,0,0,0,0,1979,0,0,0,0,0
+Bristol,United Kingdom,nonEU,post,2026-06-29,3023,,0,0,0,0,3023,0,0,0,0,0
+Bristol,United Kingdom,nonEU,post,2026-09-22,2932,,0,0,0,0,2932,0,0,0,0,0
+Edinburgh,United Kingdom,nonEU,pre,2024-06-19,5482,,955,906,959,854,4523,906,0,39,12,2
+Edinburgh,United Kingdom,nonEU,pre,2024-09-13,5780,,1096,1038,1099,983,4681,1038,0,48,11,2
+Edinburgh,United Kingdom,nonEU,pre,2024-12-14,5670,,1219,1166,1222,1108,4448,1166,0,41,12,3
+Edinburgh,United Kingdom,nonEU,pre,2025-03-08,5666,,1278,1226,1280,1162,4386,1226,0,42,10,2
+Edinburgh,United Kingdom,nonEU,pre,2025-06-15,5936,,1361,1320,1363,1246,4573,1320,0,31,10,2
+Edinburgh,United Kingdom,nonEU,pre,2025-09-21,4936,,1215,1181,1216,1110,3720,1181,0,25,8,2
+Edinburgh,United Kingdom,nonEU,pre,2025-12-25,5413,,1353,1317,1354,1237,4059,1317,0,25,8,4
+Edinburgh,United Kingdom,nonEU,pre,2026-03-26,4318,,1137,1110,1138,1042,3180,1110,0,20,5,3
+Edinburgh,United Kingdom,nonEU,post,2026-06-23,6244,,1863,1825,1864,1700,4380,1825,0,25,9,5
+Edinburgh,United Kingdom,nonEU,post,2026-09-19,6342,,1897,1866,1898,1728,4444,1866,0,20,7,5
+Greater Manchester,United Kingdom,nonEU,pre,2025-12-28,7662,,0,0,0,0,7662,0,0,0,0,0
+Greater Manchester,United Kingdom,nonEU,pre,2026-03-29,5855,,0,0,0,0,5855,0,0,0,0,0
+Greater Manchester,United Kingdom,nonEU,post,2026-06-28,6930,,0,0,0,0,6930,0,0,0,0,0
+Greater Manchester,United Kingdom,nonEU,post,2026-09-22,7799,,0,0,0,0,7799,0,0,0,0,0
+London,United Kingdom,nonEU,pre,2025-12-13,95688,,0,0,0,0,95688,0,0,0,0,0
+London,United Kingdom,nonEU,pre,2026-03-21,53639,,0,0,0,0,53639,0,0,0,0,0
+London,United Kingdom,nonEU,post,2026-06-19,92638,,0,0,0,0,92638,0,0,0,0,0
+London,United Kingdom,nonEU,post,2026-09-17,91954,,0,0,0,0,91954,0,0,0,0,0
+Albany,United States,nonEU,pre,2025-12-11,482,,0,0,0,0,482,0,0,0,0,0
+Albany,United States,nonEU,pre,2026-03-17,470,,0,0,0,0,470,0,0,0,0,0
+Albany,United States,nonEU,post,2026-06-16,490,,0,0,0,0,490,0,0,0,0,0
+Albany,United States,nonEU,post,2026-09-14,500,,0,0,0,0,500,0,0,0,0,0
+Asheville,United States,nonEU,pre,2025-12-26,2892,,0,0,0,0,2892,0,0,0,0,0
+Asheville,United States,nonEU,pre,2026-03-27,2166,,0,0,0,0,2166,0,0,0,0,0
+Asheville,United States,nonEU,post,2026-06-25,2865,,0,0,0,0,2865,0,0,0,0,0
+Asheville,United States,nonEU,post,2026-09-19,2865,,0,0,0,0,2865,0,0,0,0,0
+Austin,United States,nonEU,pre,2025-12-22,11251,,0,0,0,0,11251,0,0,0,0,0
+Austin,United States,nonEU,pre,2026-03-25,8170,,1209,1209,1428,1054,6742,1209,0,0,219,0
+Austin,United States,nonEU,post,2026-06-22,11295,,2525,2525,3084,1926,8211,2525,0,0,559,0
+Austin,United States,nonEU,post,2026-09-17,11111,,3036,3036,3565,2334,7546,3036,0,0,529,0
+Boston,United States,nonEU,pre,2025-12-27,3706,,2557,2056,2557,1466,1149,2056,0,0,501,0
+Boston,United States,nonEU,pre,2026-03-28,1881,,1853,1682,1853,1266,28,1682,0,0,171,0
+Boston,United States,nonEU,post,2026-06-15,4378,,3150,2568,3150,1828,1228,2568,0,0,576,6
+Boston,United States,nonEU,post,2026-09-19,4368,,3156,2608,3156,1890,1212,2608,0,0,545,3
+Bozeman,United States,nonEU,pre,2025-12-13,604,,397,397,437,355,167,397,0,0,40,0
+Bozeman,United States,nonEU,pre,2026-03-21,372,,343,343,369,317,3,343,0,0,26,0
+Bozeman,United States,nonEU,post,2026-06-19,590,,397,397,430,358,160,397,0,0,33,0
+Bozeman,United States,nonEU,post,2026-09-16,582,,395,395,439,353,143,395,0,0,44,0
+Broward County,United States,nonEU,pre,2025-12-28,16424,,2,2,2,2,16422,2,0,0,0,0
+Broward County,United States,nonEU,pre,2026-03-30,9791,,1,1,1,1,9790,1,0,0,0,0
+Broward County,United States,nonEU,post,2026-06-29,17698,,2,2,2,2,17696,2,0,0,0,0
+Broward County,United States,nonEU,post,2026-09-22,17630,,2,2,2,2,17628,2,0,0,0,0
+Cambridge,United States,nonEU,pre,2025-12-29,1032,,354,354,354,207,678,354,0,0,0,0
+Cambridge,United States,nonEU,pre,2026-03-30,618,,277,277,277,183,341,277,0,0,0,0
+Cambridge,United States,nonEU,post,2026-06-29,1438,,509,509,509,269,929,509,0,0,0,0
+Cambridge,United States,nonEU,post,2026-09-23,1462,,465,465,465,263,997,465,0,0,0,0
+Chicago,United States,nonEU,pre,2025-12-25,8884,,5915,5897,5915,3970,2969,5897,0,6,0,12
+Chicago,United States,nonEU,pre,2026-03-27,5153,,5027,5026,5027,3471,126,5026,0,1,0,0
+Chicago,United States,nonEU,post,2026-06-24,8660,,5766,5752,5766,3876,2894,5752,0,5,0,9
+Chicago,United States,nonEU,post,2026-09-19,8695,,5688,5674,5688,3832,3007,5674,0,5,0,9
+"Clark County, NV",United States,nonEU,pre,2025-12-27,17845,,991,991,6778,808,11067,991,0,0,5787,0
+"Clark County, NV",United States,nonEU,pre,2026-03-28,9049,,796,796,4155,663,4894,796,0,0,3359,0
+"Clark County, NV",United States,nonEU,post,2026-06-27,20234,,1078,1078,7087,874,13147,1078,0,0,6009,0
+"Clark County, NV",United States,nonEU,post,2026-09-20,20651,,1055,1055,6967,879,13684,1055,0,0,5912,0
+Columbus,United States,nonEU,pre,2025-12-28,2949,,2334,2334,2398,1869,551,2334,0,0,64,0
+Columbus,United States,nonEU,pre,2026-03-30,1717,,1655,1655,1683,1404,34,1655,0,0,28,0
+Columbus,United States,nonEU,post,2026-06-29,2959,,2298,2298,2363,1874,596,2298,0,0,65,0
+Columbus,United States,nonEU,post,2026-09-22,2959,,2246,2246,2307,1859,652,2246,0,0,61,0
+Dallas,United States,nonEU,pre,2025-12-25,5786,,0,0,0,0,5786,0,0,0,0,0
+Dallas,United States,nonEU,pre,2026-03-26,5832,,0,0,0,0,5832,0,0,0,0,0
+Dallas,United States,nonEU,post,2026-06-15,6564,,0,0,0,0,6564,0,0,0,0,0
+Dallas,United States,nonEU,post,2026-09-19,6436,,0,0,0,0,6436,0,0,0,0,0
+Denver,United States,nonEU,pre,2025-12-30,4260,,2722,2722,2723,2246,1537,2722,0,0,1,0
+Denver,United States,nonEU,pre,2026-03-31,2159,,2132,2132,2132,1740,27,2132,0,0,0,0
+Denver,United States,nonEU,post,2026-06-30,4939,,3166,3166,3166,2529,1773,3166,0,0,0,0
+Denver,United States,nonEU,post,2026-09-25,4955,,3137,3137,3137,2473,1818,3137,0,0,0,0
+Fort Worth,United States,nonEU,pre,2025-12-16,2094,,0,0,0,0,2094,0,0,0,0,0
+Fort Worth,United States,nonEU,pre,2026-03-24,1387,,0,0,0,0,1387,0,0,0,0,0
+Fort Worth,United States,nonEU,post,2026-06-21,2414,,0,0,0,0,2414,0,0,0,0,0
+Fort Worth,United States,nonEU,post,2026-09-17,2431,,0,0,0,0,2431,0,0,0,0,0
+Hawaii,United States,nonEU,pre,2025-12-16,35834,,26541,26513,29831,21531,6003,26513,0,0,3295,23
+Hawaii,United States,nonEU,pre,2026-03-25,29695,,22913,22894,25539,18707,4156,22894,0,0,2629,16
+Hawaii,United States,nonEU,post,2026-06-21,38156,,27607,27584,31708,21638,6448,27584,0,0,4105,19
+Hawaii,United States,nonEU,post,2026-09-17,38779,,27541,27518,31956,21654,6823,27518,0,0,4419,19
+Jersey City,United States,nonEU,pre,2025-12-28,2032,,1074,1074,1180,715,852,1074,0,0,106,0
+Jersey City,United States,nonEU,pre,2026-03-29,1028,,998,998,1011,689,17,998,0,0,13,0
+Jersey City,United States,nonEU,post,2026-06-27,2320,,1332,1332,1413,902,907,1332,0,0,81,0
+Jersey City,United States,nonEU,post,2026-09-21,2330,,1331,1331,1396,915,934,1331,0,0,65,0
+Los Angeles,United States,nonEU,pre,2025-12-04,45585,,11446,9235,12864,7610,32721,9235,0,1,3627,1
+Los Angeles,United States,nonEU,pre,2026-03-16,46088,,11625,9424,13096,7717,32992,9424,0,1,3671,0
+Los Angeles,United States,nonEU,post,2026-06-15,43751,,11546,9322,13192,7718,30559,9322,0,1,3868,1
+Los Angeles,United States,nonEU,post,2026-09-14,43781,,11532,9271,13181,7691,30600,9271,0,1,3909,0
+Nashville,United States,nonEU,pre,2025-12-27,6594,,735,730,735,634,5859,730,0,0,0,5
+Nashville,United States,nonEU,pre,2026-03-28,6030,,828,820,828,710,5202,820,0,0,0,8
+Nashville,United States,nonEU,post,2026-06-26,10242,,1228,1216,1228,962,9014,1216,0,0,0,12
+Nashville,United States,nonEU,post,2026-09-19,10133,,1176,1164,1176,997,8957,1164,0,0,0,12
+New Orleans,United States,nonEU,pre,2025-12-12,7278,,5691,5691,5944,3879,1334,5691,0,0,253,0
+New Orleans,United States,nonEU,pre,2026-03-19,6218,,5063,5063,5231,3419,987,5063,0,0,168,0
+New Orleans,United States,nonEU,post,2026-06-16,7189,,5675,5675,5896,3732,1293,5675,0,0,221,0
+New Orleans,United States,nonEU,post,2026-09-16,7263,,5592,5592,5812,3644,1451,5592,0,0,220,0
+New York City,United States,nonEU,pre,2025-12-04,36261,,2330,2330,5028,2012,31233,2330,0,0,2698,0
+New York City,United States,nonEU,pre,2026-03-16,35979,,2302,2302,5025,1990,30954,2302,0,0,2723,0
+New York City,United States,nonEU,post,2026-06-14,30259,,2330,2330,5286,2019,24973,2330,0,0,2956,0
+New York City,United States,nonEU,post,2026-09-14,29918,,2250,2250,5127,1943,24791,2250,0,0,2877,0
+Newark,United States,nonEU,pre,2025-12-31,1712,,149,149,263,112,1449,149,0,0,114,0
+Newark,United States,nonEU,pre,2026-03-31,1447,,170,170,301,128,1146,170,0,0,131,0
+Newark,United States,nonEU,post,2026-06-30,2019,,298,298,550,187,1469,298,0,0,252,0
+Newark,United States,nonEU,post,2026-09-28,1908,,315,315,584,197,1324,315,0,0,269,0
+Oakland,United States,nonEU,pre,2025-12-28,2267,,0,0,0,0,2267,0,0,0,0,0
+Oakland,United States,nonEU,pre,2026-03-29,1325,,0,0,0,0,1325,0,0,0,0,0
+Oakland,United States,nonEU,post,2026-06-27,2151,,0,0,0,0,2151,0,0,0,0,0
+Oakland,United States,nonEU,post,2026-09-20,2074,,0,0,0,0,2074,0,0,0,0,0
+Pacific Grove,United States,nonEU,pre,2025-12-31,254,,0,0,0,0,254,0,0,0,0,0
+Pacific Grove,United States,nonEU,pre,2026-03-31,130,,0,0,0,0,130,0,0,0,0,0
+Pacific Grove,United States,nonEU,post,2026-06-14,269,,0,0,0,0,269,0,0,0,0,0
+Pacific Grove,United States,nonEU,post,2026-09-30,274,,0,0,0,0,274,0,0,0,0,0
+Portland,United States,nonEU,pre,2025-12-04,4455,,2962,2962,3015,2149,1440,2962,0,0,53,0
+Portland,United States,nonEU,pre,2026-03-16,4393,,2960,2960,3008,2129,1385,2960,0,0,48,0
+Portland,United States,nonEU,post,2026-06-15,4199,,2847,2847,2891,2086,1308,2847,0,0,44,0
+Portland,United States,nonEU,post,2026-09-14,4161,,2763,2763,2803,2047,1358,2763,0,0,40,0
+Rhode Island,United States,nonEU,pre,2025-12-31,4868,,3846,3846,4261,3443,607,3846,0,0,415,0
+Rhode Island,United States,nonEU,pre,2026-03-31,4066,,3712,3712,4059,3369,7,3712,0,0,347,0
+Rhode Island,United States,nonEU,post,2026-06-30,6031,,4733,4733,5323,4194,708,4733,0,0,590,0
+Rhode Island,United States,nonEU,post,2026-09-28,6026,,4709,4709,5281,4173,745,4709,0,0,572,0
+Rochester,United States,nonEU,pre,2025-12-28,1047,,0,0,0,0,1047,0,0,0,0,0
+Rochester,United States,nonEU,pre,2026-03-29,744,,0,0,0,0,744,0,0,0,0,0
+Rochester,United States,nonEU,post,2026-06-27,1055,,0,0,0,0,1055,0,0,0,0,0
+Rochester,United States,nonEU,post,2026-09-21,1013,,0,0,0,0,1013,0,0,0,0,0
+"Salem, OR",United States,nonEU,pre,2025-12-28,280,,0,0,0,0,280,0,0,0,0,0
+"Salem, OR",United States,nonEU,pre,2026-03-29,196,,0,0,0,0,196,0,0,0,0,0
+"Salem, OR",United States,nonEU,post,2026-06-28,349,,0,0,0,0,349,0,0,0,0,0
+"Salem, OR",United States,nonEU,post,2026-09-21,343,,0,0,0,0,343,0,0,0,0,0
+San Diego,United States,nonEU,pre,2025-12-11,13164,,8881,8881,10215,7628,2949,8881,0,0,1334,0
+San Diego,United States,nonEU,pre,2025-12-22,13076,,8851,8851,10159,7620,2917,8851,0,0,1308,0
+San Diego,United States,nonEU,pre,2026-03-29,11765,,8272,8272,9328,7239,2437,8272,0,0,1056,0
+San Diego,United States,nonEU,post,2026-06-27,13225,,8958,8958,10239,7801,2986,8958,0,0,1281,0
+San Diego,United States,nonEU,post,2026-09-20,13253,,8893,8893,10165,7764,3088,8893,0,0,1272,0
+San Francisco,United States,nonEU,pre,2025-12-04,7535,,3407,2983,4898,2241,2637,2983,0,141,1727,47
+San Francisco,United States,nonEU,pre,2026-03-16,7528,,3350,2946,4773,2206,2755,2946,0,136,1646,45
+San Francisco,United States,nonEU,post,2026-06-14,7332,,3315,2907,4860,2182,2472,2907,0,130,1776,47
+San Francisco,United States,nonEU,post,2026-09-14,7405,,3244,2855,4806,2132,2599,2855,0,121,1785,45
+San Mateo County,United States,nonEU,pre,2025-12-28,2858,,12,12,12,11,2846,12,0,0,0,0
+San Mateo County,United States,nonEU,pre,2026-03-29,1982,,12,12,12,11,1970,12,0,0,0,0
+San Mateo County,United States,nonEU,post,2026-06-27,3347,,16,16,16,15,3331,16,0,0,0,0
+San Mateo County,United States,nonEU,post,2026-09-21,3360,,15,15,15,14,3345,15,0,0,0,0
+Santa Clara County,United States,nonEU,pre,2025-12-28,5742,,285,285,318,154,5424,285,0,0,33,0
+Santa Clara County,United States,nonEU,pre,2026-03-29,3879,,228,228,267,128,3612,228,0,0,39,0
+Santa Clara County,United States,nonEU,post,2026-06-28,6891,,349,349,452,180,6439,349,0,0,103,0
+Santa Clara County,United States,nonEU,post,2026-09-21,6831,,351,351,444,182,6387,351,0,0,93,0
+Santa Cruz County,United States,nonEU,pre,2025-12-31,1570,,0,0,0,0,1570,0,0,0,0,0
+Santa Cruz County,United States,nonEU,pre,2026-03-31,1222,,0,0,0,0,1222,0,0,0,0,0
+Santa Cruz County,United States,nonEU,post,2026-06-30,1795,,0,0,0,0,1795,0,0,0,0,0
+Santa Cruz County,United States,nonEU,post,2026-09-28,1800,,0,0,0,0,1800,0,0,0,0,0
+Seattle,United States,nonEU,pre,2025-12-28,6420,,5056,5052,5303,3692,1117,5052,0,0,247,4
+Seattle,United States,nonEU,pre,2026-03-29,4550,,4308,4304,4487,3339,63,4304,0,0,179,4
+Seattle,United States,nonEU,post,2026-06-15,7769,,6253,6250,6585,4585,1184,6250,0,0,332,3
+Seattle,United States,nonEU,post,2026-09-20,7657,,6067,6063,6413,4442,1244,6063,0,0,346,4
+Twin Cities MSA,United States,nonEU,pre,2025-12-27,5392,,1406,1405,1741,989,3651,1405,0,0,335,1
+Twin Cities MSA,United States,nonEU,pre,2026-03-29,4105,,1199,1198,1427,854,2678,1198,0,0,228,1
+Twin Cities MSA,United States,nonEU,post,2026-06-27,5349,,1401,1401,1771,969,3578,1401,0,0,370,0
+Twin Cities MSA,United States,nonEU,post,2026-09-20,5401,,1378,1378,1725,963,3676,1378,0,0,347,0
+"Washington, D.C.",United States,nonEU,pre,2025-12-25,6459,,3360,3360,5008,2646,1451,3360,0,0,1648,0
+"Washington, D.C.",United States,nonEU,pre,2026-03-27,3315,,2358,2358,3271,1936,44,2358,0,0,913,0
+"Washington, D.C.",United States,nonEU,post,2026-06-24,6945,,3562,3562,5464,2719,1481,3562,0,0,1902,0
+"Washington, D.C.",United States,nonEU,post,2026-09-19,6906,,3575,3567,5366,2733,1540,3567,0,0,1791,8

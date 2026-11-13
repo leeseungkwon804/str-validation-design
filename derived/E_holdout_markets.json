@@ -1,0 +1,29 @@
+{
+ "holdout_markets": [
+  "Bologna",
+  "Boston",
+  "Bozeman",
+  "Bristol",
+  "Budapest",
+  "Cape Town",
+  "Chicago",
+  "Dallas",
+  "Geneva",
+  "Lisbon",
+  "Mid North Coast",
+  "Nairobi",
+  "Naples",
+  "Nashville",
+  "New York City",
+  "Pays Basque",
+  "Porto",
+  "Quebec City",
+  "Riga",
+  "Rotterdam",
+  "Seattle",
+  "Sydney",
+  "Trentino",
+  "Venice",
+  "Western Australia"
+ ]
+}

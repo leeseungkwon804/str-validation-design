@@ -1,0 +1,107 @@
+{
+ "n_rows": 6938304,
+ "n_markets": 123,
+ "n_listings_market_unique": 2119718,
+ "n_listing_ids": 2110929,
+ "listing_ids_in_multiple_markets": 8789,
+ "waves_per_listing": {
+  "mean": 3.273,
+  "50%": 3.0,
+  "max": 77.0
+ },
+ "listings_seen_once_pct": 16.38,
+ "n_adjacent_pairs": 4818586,
+ "transition_y_license": {
+  "n": 4818586,
+  "00": 2895991,
+  "01": 22236,
+  "10": 44288,
+  "11": 1856071,
+  "gain_rate_pct_of_at_risk": 0.762,
+  "loss_rate_pct_of_at_risk": 2.331,
+  "persistence_pct": 98.619
+ },
+ "transition_y_strict": {
+  "n": 4818586,
+  "00": 2961026,
+  "01": 24373,
+  "10": 43785,
+  "11": 1789402,
+  "gain_rate_pct_of_at_risk": 0.816,
+  "loss_rate_pct_of_at_risk": 2.388,
+  "persistence_pct": 98.586
+ },
+ "market_gain_rate_pct": {
+  "median": 0.58,
+  "p90": 13.251,
+  "max": 64.234
+ },
+ "market_loss_rate_pct": {
+  "median": 0.12,
+  "p90": 3.195,
+  "max": 20.0
+ },
+ "gap_days": {
+  "mean": 86.1,
+  "50%": 90.0,
+  "min": 11.0,
+  "max": 2155.0
+ },
+ "transition_y_strict_quarterly_only": {
+  "n": 3636460,
+  "00": 1884405,
+  "01": 21863,
+  "10": 42016,
+  "11": 1688176,
+  "gain_rate_pct_of_at_risk": 1.147,
+  "loss_rate_pct_of_at_risk": 2.428,
+  "persistence_pct": 98.243,
+  "n_pairs": 3636460
+ },
+ "note_wave_spacing": "Snapshot spacing differs between markets (Vaud has 77 monthly waves, most markets have four quarterly ones). Figures restricted to pairs 60 to 150 days apart are reported alongside.",
+ "prepost": {
+  "n_listings_both_sides": 1436344,
+  "y_license": {
+   "n": 1436344,
+   "00": 766285,
+   "01": 7334,
+   "10": 7550,
+   "11": 655175,
+   "gain_rate_pct_of_at_risk": 0.948,
+   "loss_rate_pct_of_at_risk": 1.139,
+   "persistence_pct": 98.964
+  },
+  "y_strict": {
+   "n": 1436344,
+   "00": 790939,
+   "01": 8510,
+   "10": 7993,
+   "11": 628902,
+   "gain_rate_pct_of_at_risk": 1.064,
+   "loss_rate_pct_of_at_risk": 1.255,
+   "persistence_pct": 98.851
+  }
+ },
+ "gain_origin_class_pct": {
+  "empty": 81.62,
+  "exempt": 11.87,
+  "pending": 6.05,
+  "other_text": 0.34,
+  "trader_id": 0.12
+ },
+ "loss_destination_class_pct": {
+  "empty": 95.98,
+  "exempt": 3.94,
+  "other_text": 0.05,
+  "trader_id": 0.03,
+  "pending": 0.0
+ },
+ "listings_multi_wave": 1772515,
+ "listing_constant_y_license_pct": 96.69,
+ "listing_constant_y_strict_pct": 96.6,
+ "ICC_listing_y_license": 0.9741,
+ "ICC_listing_y_strict": 0.9729,
+ "ICC_market_y_license": 0.669,
+ "ICC_market_y_strict": 0.6447,
+ "ICC_host_y_license": 0.9302
+}

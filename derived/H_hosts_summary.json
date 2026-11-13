@@ -1,0 +1,120 @@
+{
+ "n_markets": 123,
+ "listings_of_1listing_hosts_pct": {
+  "min": 9.12,
+  "p10": 21.28,
+  "median": 37.31,
+  "p90": 58.38,
+  "max": 86.84,
+  "sd": 14.64
+ },
+ "top10pct_host_share_pct": {
+  "min": 18.3,
+  "median": 45.43,
+  "max": 69.27
+ },
+ "corr_single_vs_top10": -0.8286,
+ "corr_single_vs_ystrict": -0.1256,
+ "corr_top10_vs_ystrict": 0.147,
+ "kde_modes_single_pct": [
+  34.6,
+  81.4
+ ],
+ "bimodality_coefficient": 0.2284,
+ "five_jurisdictions": [
+  {
+   "city": "Victoria",
+   "country": "Canada",
+   "n_listings": 2994.75,
+   "n_hosts": 2102.25,
+   "listings_of_1listing_hosts_pct": 59.61,
+   "hosts_with_1_pct": 84.3,
+   "top10pct_host_share_pct": 32.36,
+   "max_host_listings": 54,
+   "y_strict": 0.74
+  },
+  {
+   "city": "Vancouver",
+   "country": "Canada",
+   "n_listings": 6022.75,
+   "n_hosts": 4150.25,
+   "listings_of_1listing_hosts_pct": 58.3,
+   "hosts_with_1_pct": 84.63,
+   "top10pct_host_share_pct": 34.35,
+   "max_host_listings": 171,
+   "y_strict": 0.75
+  },
+  {
+   "city": "Toronto",
+   "country": "Canada",
+   "n_listings": 20335.0,
+   "n_hosts": 13587.75,
+   "listings_of_1listing_hosts_pct": 54.22,
+   "hosts_with_1_pct": 81.03,
+   "top10pct_host_share_pct": 33.78,
+   "max_host_listings": 162,
+   "y_strict": 0.54
+  },
+  {
+   "city": "New York City",
+   "country": "United States",
+   "n_listings": 33104.25,
+   "n_hosts": 18874.75,
+   "listings_of_1listing_hosts_pct": 46.6,
+   "hosts_with_1_pct": 82.0,
+   "top10pct_host_share_pct": 44.4,
+   "max_host_listings": 1189,
+   "y_strict": 0.07
+  },
+  {
+   "city": "Quebec City",
+   "country": "Canada",
+   "n_listings": 2150.75,
+   "n_hosts": 984.0,
+   "listings_of_1listing_hosts_pct": 33.99,
+   "hosts_with_1_pct": 74.16,
+   "top10pct_host_share_pct": 48.46,
+   "max_host_listings": 77,
+   "y_strict": 0.79
+  },
+  {
+   "city": "Montreal",
+   "country": "Canada",
+   "n_listings": 10405.0,
+   "n_hosts": 3849.0,
+   "listings_of_1listing_hosts_pct": 24.62,
+   "hosts_with_1_pct": 66.48,
+   "top10pct_host_share_pct": 51.89,
+   "max_host_listings": 159,
+   "y_strict": 0.51
+  },
+  {
+   "city": "Singapore",
+   "country": "Singapore",
+   "n_listings": 2784.0,
+   "n_hosts": 670.0,
+   "listings_of_1listing_hosts_pct": 11.82,
+   "hosts_with_1_pct": 49.32,
+   "top10pct_host_share_pct": 57.4,
+   "max_host_listings": 222,
+   "y_strict": 0.24
+  }
+ ],
+ "stability_across_waves": {
+  "listings_of_1listing_hosts_pct": {
+   "between_market_variance": 216.02,
+   "within_market_variance": 3.951,
+   "ICC_market": 0.982
+  },
+  "top10pct_host_share_pct": {
+   "between_market_variance": 81.702,
+   "within_market_variance": 2.711,
+   "ICC_market": 0.9679
+  },
+  "mean_listings_per_host": {
+   "between_market_variance": 0.473,
+   "within_market_variance": 0.026,
+   "ICC_market": 0.9477
+  }
+ }
+}

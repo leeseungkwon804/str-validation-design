@@ -1,0 +1,145 @@
+{
+ "n_countries": 37,
+ "high_90plus": [
+  {
+   "m_country": "Greece",
+   "m_group": "EU",
+   "n_markets": 4,
+   "display_rate_strict": 96.07
+  },
+  {
+   "m_country": "Hungary",
+   "m_group": "EU",
+   "n_markets": 1,
+   "display_rate_strict": 93.11
+  }
+ ],
+ "zero_countries": [
+  {
+   "m_country": "Chile",
+   "m_group": "nonEU",
+   "n_markets": 1,
+   "display_rate_any": 0.92
+  },
+  {
+   "m_country": "South Africa",
+   "m_group": "nonEU",
+   "n_markets": 1,
+   "display_rate_any": 0.57
+  },
+  {
+   "m_country": "Switzerland",
+   "m_group": "EEA_nonEU",
+   "n_markets": 3,
+   "display_rate_any": 0.03
+  },
+  {
+   "m_country": "Norway",
+   "m_group": "EEA_nonEU",
+   "n_markets": 1,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "Czech Republic",
+   "m_group": "EU",
+   "n_markets": 1,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "Belgium",
+   "m_group": "EU",
+   "n_markets": 3,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "Austria",
+   "m_group": "EU",
+   "n_markets": 1,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "Sweden",
+   "m_group": "EU",
+   "n_markets": 1,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "Ireland",
+   "m_group": "EU",
+   "n_markets": 2,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "Denmark",
+   "m_group": "EU",
+   "n_markets": 1,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "Malta",
+   "m_group": "EU",
+   "n_markets": 1,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "Latvia",
+   "m_group": "EU",
+   "n_markets": 1,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "Belize",
+   "m_group": "nonEU",
+   "n_markets": 1,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "Kenya",
+   "m_group": "nonEU",
+   "n_markets": 1,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "Brazil",
+   "m_group": "nonEU",
+   "n_markets": 2,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "China",
+   "m_group": "nonEU",
+   "n_markets": 1,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "Mexico",
+   "m_group": "nonEU",
+   "n_markets": 1,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "New Zealand",
+   "m_group": "nonEU",
+   "n_markets": 1,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "Taiwan",
+   "m_group": "nonEU",
+   "n_markets": 1,
+   "display_rate_any": 0.0
+  },
+  {
+   "m_country": "Thailand",
+   "m_group": "nonEU",
+   "n_markets": 1,
+   "display_rate_any": 0.0
+  }
+ ],
+ "median_country_strict_pct": 0.55,
+ "spread_pct": [
+  0.0,
+  96.07
+ ],
+ "note": "Descriptive only; no causal relation to the presence of a registration scheme is claimed."
+}

@@ -1,0 +1,273 @@
+{
+ "n_markets": 123,
+ "n_snapshots": 572,
+ "ICC_market": {
+  "description_mean_len": 0.243,
+  "host_about_mean_len": 0.959,
+  "name_mean_len": 0.5117,
+  "neighborhood_overview_mean_len": 0.2977,
+  "sh_ascii_alpha": 0.0032,
+  "sh_latin_ext": 0.1318,
+  "sh_cjk": 0.9711
+ },
+ "kmeans_eta2_logdesclen": {
+  "2": 0.0715,
+  "3": 0.1318,
+  "4": 0.1318,
+  "5": 0.1318,
+  "6": 0.1426,
+  "7": 0.1348,
+  "8": 0.1426,
+  "9": 0.1595,
+  "10": 0.1567
+ },
+ "clusters_k6": [
+  {
+   "cluster": 0,
+   "n_markets": 117,
+   "markets": [
+    "Albany",
+    "Amsterdam",
+    "Antwerp",
+    "Asheville",
+    "Athens",
+    "Austin",
+    "Bangkok",
+    "Barcelona",
+    "Barossa Valley",
+    "Barwon South West, Vic",
+    "Belize",
+    "Bergamo",
+    "Berlin",
+    "Bogotá",
+    "Bologna",
+    "Bordeaux",
+    "Boston",
+    "Bozeman",
+    "Brisbane",
+    "Bristol",
+    "Broward County",
+    "Brussels",
+    "Budapest",
+    "Buenos Aires",
+    "Cambridge",
+    "Cape Town",
+    "Chicago",
+    "Clark County, NV",
+    "Columbus",
+    "Crete",
+    "Dallas",
+    "Denver",
+    "Dublin",
+    "Edinburgh",
+    "Euskadi",
+    "Florence",
+    "Fort Worth",
+    "Geneva",
+    "Ghent",
+    "Girona"
+   ],
+   "countries": [
+    "Argentina",
+    "Australia",
+    "Austria",
+    "Belgium",
+    "Belize",
+    "Brazil",
+    "Canada",
+    "Chile",
+    "China",
+    "Colombia",
+    "Czech Republic",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Japan",
+    "Kenya",
+    "Latvia",
+    "Malta",
+    "Mexico",
+    "New Zealand",
+    "Portugal",
+    "Singapore",
+    "South Africa",
+    "Spain",
+    "Switzerland",
+    "Taiwan",
+    "Thailand",
+    "The Netherlands",
+    "United Kingdom",
+    "United States"
+   ],
+   "top_blocks": {
+    "ascii_alpha": 0.9993,
+    "latin_ext": 0.0004,
+    "cjk": 0.0002
+   },
+   "top_marks_per_1000_letters": {
+    "é": 0.144,
+    "ã": 0.025,
+    "ñ": 0.018,
+    "ç": 0.017,
+    "à": 0.015
+   },
+   "description_mean_len": 390.5,
+   "description_mean_len_range": [
+    291.7,
+    601.5
+   ]
+  },
+  {
+   "cluster": 1,
+   "n_markets": 1,
+   "markets": [
+    "Istanbul"
+   ],
+   "countries": [
+    "Turkey"
+   ],
+   "top_blocks": {
+    "ascii_alpha": 0.9961,
+    "latin_ext": 0.0035,
+    "arabic": 0.0004
+   },
+   "top_marks_per_1000_letters": {
+    "ş": 1.033,
+    "ı": 0.764,
+    "ö": 0.468,
+    "ü": 0.332,
+    "ğ": 0.253
+   },
+   "description_mean_len": 308.4,
+   "description_mean_len_range": [
+    308.4,
+    308.4
+   ]
+  },
+  {
+   "cluster": 2,
+   "n_markets": 2,
+   "markets": [
+    "Copenhagen",
+    "Oslo"
+   ],
+   "countries": [
+    "Denmark",
+    "Norway"
+   ],
+   "top_blocks": {
+    "ascii_alpha": 0.998,
+    "latin_ext": 0.0021,
+    "greek": 0.0
+   },
+   "top_marks_per_1000_letters": {
+    "ø": 1.32,
+    "é": 0.246,
+    "ü": 0.217,
+    "æ": 0.124,
+    "å": 0.122
+   },
+   "description_mean_len": 402.8,
+   "description_mean_len_range": [
+    398.8,
+    406.7
+   ]
+  },
+  {
+   "cluster": 3,
+   "n_markets": 1,
+   "markets": [
+    "Stockholm"
+   ],
+   "countries": [
+    "Sweden"
+   ],
+   "top_blocks": {
+    "ascii_alpha": 0.9973,
+    "latin_ext": 0.0027,
+    "greek": 0.0
+   },
+   "top_marks_per_1000_letters": {
+    "ö": 1.174,
+    "ä": 0.75,
+    "å": 0.395,
+    "é": 0.372,
+    "ü": 0.002
+   },
+   "description_mean_len": 386.8,
+   "description_mean_len_range": [
+    386.8,
+    386.8
+   ]
+  },
+  {
+   "cluster": 4,
+   "n_markets": 1,
+   "markets": [
+    "Vaud"
+   ],
+   "countries": [
+    "Switzerland"
+   ],
+   "top_blocks": {
+    "ascii_alpha": 0.965,
+    "latin_ext": 0.0084,
+    "greek": 0.0002
+   },
+   "top_marks_per_1000_letters": {
+    "é": 4.774,
+    "à": 1.783,
+    "è": 1.016,
+    "ê": 0.235,
+    "ô": 0.127
+   },
+   "description_mean_len": 500.2,
+   "description_mean_len_range": [
+    500.2,
+    500.2
+   ]
+  },
+  {
+   "cluster": 5,
+   "n_markets": 1,
+   "markets": [
+    "Lyon"
+   ],
+   "countries": [
+    "France"
+   ],
+   "top_blocks": {
+    "ascii_alpha": 0.9978,
+    "latin_ext": 0.0021,
+    "greek": 0.0
+   },
+   "top_marks_per_1000_letters": {
+    "é": 0.583,
+    "ô": 0.577,
+    "è": 0.446,
+    "ê": 0.223,
+    "î": 0.165
+   },
+   "description_mean_len": 357.4,
+   "description_mean_len_range": [
+    357.4,
+    357.4
+   ]
+  }
+ ],
+ "eta2_logdesclen_by_k6_cluster": 0.1426,
+ "eta2_logdesclen_by_country": 0.737,
+ "desc_len_spread": {
+  "min": 291.7,
+  "median": 390.0,
+  "max": 601.5
+ },
+ "truncation_check": {
+  "pct_len_exactly_500_mean": 1.685,
+  "pct_len_ge_1000_mean": 2.97,
+  "max_len_overall": 1000
+ }
+}

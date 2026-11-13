@@ -1,0 +1,124 @@
+city,accuracy,n
+Nairobi,0.9092,1828
+Bogotá,0.8949,1855
+Singapore,0.8912,1718
+Vaud,0.7789,1705
+Tokyo,0.7753,1749
+Taipei,0.6943,1812
+New York City,0.6709,1799
+Istanbul,0.6428,1803
+Hong Kong,0.6138,1766
+Menorca,0.6048,1766
+Newark,0.6021,1754
+Amsterdam,0.6012,1798
+São Paulo,0.5936,1779
+Thessaloniki,0.5569,1801
+Montreal,0.5548,1844
+Mallorca,0.5542,1835
+Mornington Peninsula,0.5537,1808
+Cambridge,0.5526,1435
+Jersey City,0.5517,1760
+Santiago,0.5491,1741
+Budapest,0.5425,1834
+Belize,0.5402,1853
+Toronto,0.5344,1744
+Hawaii,0.5321,1791
+Edinburgh,0.5222,1754
+Barcelona,0.5087,1832
+Riga,0.5003,1907
+Quebec City,0.4914,1799
+Boston,0.4894,1833
+New Orleans,0.476,1748
+Buenos Aires,0.4656,1873
+Valencia,0.4612,1789
+Prague,0.4583,1785
+Nashville,0.447,1765
+Copenhagen,0.4457,1822
+South Aegean,0.44,1807
+San Francisco,0.4384,1738
+Berlin,0.4357,1772
+Zurich,0.4283,1716
+Bangkok,0.4218,1785
+Winnipeg,0.4211,1755
+Chicago,0.4169,1847
+Victoria,0.4068,1829
+Cape Town,0.3965,1763
+Trentino,0.3939,1805
+Vancouver,0.3937,1778
+Santa Cruz County,0.3929,1718
+Columbus,0.3914,1827
+Pacific Grove,0.3831,295
+Bologna,0.3825,1804
+Sunshine Coast,0.3792,1838
+Denver,0.3726,1782
+Ottawa,0.3724,1858
+Asheville,0.371,1822
+Mexico City,0.3631,1837
+Mid North Coast,0.3625,1793
+Crete,0.3585,1799
+"Clark County, NV",0.3526,1838
+Portland,0.3512,1882
+The Hague,0.3452,1466
+Oslo,0.341,1830
+Naples,0.3278,1797
+Malta (nationwide),0.3268,1775
+Euskadi,0.3258,1814
+Sevilla,0.3244,1788
+Venice,0.3192,1861
+Girona,0.3186,1745
+Antwerp,0.3179,1837
+Tasmania,0.3161,1800
+Santa Clara County,0.3104,1756
+Brisbane,0.3095,1793
+Rochester,0.3072,1185
+Fort Worth,0.3063,1890
+"Barwon South West, Vic",0.3042,1844
+Malaga,0.3032,1794
+Albany,0.2991,555
+Porto,0.2957,1789
+Geneva,0.2956,1803
+Greater Manchester,0.2935,1806
+Rhode Island,0.2886,1715
+Dublin,0.2856,1789
+Vienna,0.2842,1763
+New Brunswick,0.2773,1756
+Athens,0.277,1845
+Northern Rivers,0.2747,1791
+Lyon,0.2718,1906
+Rio de Janeiro,0.2681,1764
+San Mateo County,0.2648,1790
+Stockholm,0.2643,1729
+Bristol,0.2592,1813
+Puglia,0.2532,1785
+Brussels,0.252,1833
+Madrid,0.2501,1823
+Dallas,0.25,1740
+"Washington, D.C.",0.2462,1779
+San Diego,0.24,1804
+Paris,0.2387,1789
+Munich,0.2323,1735
+Ghent,0.2321,1456
+Barossa Valley,0.2299,448
+Pays Basque,0.2287,1749
+Seattle,0.2257,1777
+Oakland,0.2234,1911
+Milan,0.219,1813
+Bergamo,0.2175,1793
+Broward County,0.2175,1756
+Twin Cities MSA,0.216,1815
+Sydney,0.2061,1839
+Bozeman,0.2018,669
+Rotterdam,0.1974,1510
+Lisbon,0.1893,1770
+Western Australia,0.1875,1792
+Florence,0.1823,1750
+"Salem, OR",0.1647,340
+Austin,0.1537,1770
+Melbourne,0.1474,1737
+Ireland (nationwide),0.1319,1789
+Sicily,0.1313,1774
+London,0.1304,1825
+Los Angeles,0.1144,1844
+Bordeaux,0.0901,1798
+New Zealand (nationwide),0.0867,1845
+Rome,0.0847,1853
